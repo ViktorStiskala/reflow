@@ -10,9 +10,9 @@ Controleo3 Reflow Profile  // This must be the first item in the file
 
 
 // The name of this profile
-Name "Lead-free custom 250~C"
+Name "Amtech LF-4300 250~C"
 // The deviation (in Celsius) above which to abort
-Deviation to abort 25C
+Deviation to abort 30C
 // The maximum temperature.  If exceeded, reflow will abort and the oven door opened
 Maximum temperature 270C
 // Set a maximum duty cycle to avoid damage to your oven (bottom/top/boost)
@@ -44,14 +44,14 @@ Initialize timer to 15 seconds
 // Select the heating bias (bottom/top/boost)
 Bias 100/85/100
 // Continue ramping up the temperature using PID
-Ramp temperature to 150C in 80s
+Ramp temperature to 150C in 70s
 
 // Start the soak phase
 Display "Phase: Soak"
 // Select the heating bias (bottom/top/boost)
 Bias 80/50/80
 // Slow increase in temperature during soak
-Ramp temperature to 175C in 100s
+Ramp temperature to 180C in 60s
 
 // Start the reflow phase
 Display "Phase: Reflow (boost)"
@@ -59,26 +59,37 @@ Display "Phase: Reflow (boost)"
 // the temperature of the elements (bottom/top/boost)
 // This will be limited by the "Maximum duty" command above
 Element duty cycle 100/100/100
-Wait for 15 seconds
+Wait for 20 seconds
 Display "Phase: Reflow"
 // Select the heating bias (bottom/top/boost)
 Bias 100/80/100
 // Ramp up the temperature for reflow
-Ramp temperature to 245C in 55s
+Ramp temperature to 240C in 30s
 
 // Hold the temperature at peak for a few seconds
 Display "Phase: Reflow (hold)"
 // Maintain peak temperature for a short while
-Maintain 250C for 25 seconds
-// Stop the timer so we know how long the reflow took
-Stop timer
+Maintain 230C for 20 seconds
 // Turn the elements off now (bottom/top/boost)
 Element duty cycle 0/0/0
 
-// Start Cooling
-Display "Phase: Cooling"
+Play beep
+Play beep
+
+Display "Phase: slow cooling"
+Wait until below 220C
+
+// Stop the timer so we know how long the reflow took
+Stop timer
+
 // Play beep to open door slowly
 Play beep
+Play beep
+Play beep
+
+// Start Cooling
+Display "Phase: Cooling (open door)"
+
 // Wait for the temperature to drop
 Wait until below 100C
 

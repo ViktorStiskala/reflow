@@ -1,0 +1,3272 @@
+Mar 17 20:23:26 X = 2652   Y = 695
+Mar 17 20:23:26 Free RAM was 25023 and is now 24307
+Mar 17 20:23:29 X = 2611   Y = 584
+Mar 17 20:32:25 X = 2221   Y = 588
+Mar 17 20:32:35 X = 2534   Y = 600
+Mar 17 20:32:36 X = 2121   Y = 2745
+Mar 17 20:32:38 X = 2127   Y = 2550
+Mar 17 20:32:38 getNextTokenFromFlash: Reading first block 240
+Mar 17 20:32:38 Deviation to abort 25C
+Mar 17 20:32:38 Maximum temperature 270C
+Mar 17 20:32:38 Maximum duty 100/85/100
+Mar 17 20:32:38 Close door over 1 seconds
+Mar 17 20:32:38 Servo: move to 90 degrees, over 1000 ms
+Mar 17 20:32:38 Convection fan on
+Mar 17 20:32:38 0, 29.07, 0, 0
+Mar 17 20:32:38 Cooling fan off
+Mar 17 20:32:38 Stop timer
+Mar 17 20:32:38 Wait until below 40C
+Mar 17 20:32:39 Cooled to desired temperature
+Mar 17 20:32:39 Element duty cycle 100/40/100
+Mar 17 20:32:39 Wait until above 75C
+Mar 17 20:32:39 0, 29.15, 0, 0
+Mar 17 20:32:40 0, 29.29, 0, 0
+Mar 17 20:32:41 0, 29.52, 0, 0
+Mar 17 20:32:42 0, 29.80, 0, 0
+Mar 17 20:32:43 0, 30.12, 0, 0
+Mar 17 20:32:44 0, 30.41, 0, 0
+Mar 17 20:32:45 0, 30.75, 0, 0
+Mar 17 20:32:46 0, 31.24, 0, 0
+Mar 17 20:32:47 0, 31.82, 0, 0
+Mar 17 20:32:48 0, 32.40, 0, 0
+Mar 17 20:32:49 0, 32.92, 0, 0
+Mar 17 20:32:50 0, 33.40, 0, 0
+Mar 17 20:32:51 0, 33.92, 0, 0
+Mar 17 20:32:52 0, 34.43, 0, 0
+Mar 17 20:32:53 0, 34.91, 0, 0
+Mar 17 20:32:54 0, 35.38, 0, 0
+Mar 17 20:32:55 0, 35.85, 0, 0
+Mar 17 20:32:56 0, 36.34, 0, 0
+Mar 17 20:32:57 0, 36.84, 0, 0
+Mar 17 20:32:58 0, 37.38, 0, 0
+Mar 17 20:32:59 0, 38.01, 0, 0
+Mar 17 20:33:00 0, 38.66, 0, 0
+Mar 17 20:33:01 0, 39.17, 0, 0
+Mar 17 20:33:02 0, 39.63, 0, 0
+Mar 17 20:33:03 0, 40.17, 0, 0
+Mar 17 20:33:04 0, 40.78, 0, 0
+Mar 17 20:33:05 0, 41.39, 0, 0
+Mar 17 20:33:06 0, 41.86, 0, 0
+Mar 17 20:33:07 0, 42.39, 0, 0
+Mar 17 20:33:08 0, 42.89, 0, 0
+Mar 17 20:33:09 0, 43.51, 0, 0
+Mar 17 20:33:10 0, 44.26, 0, 0
+Mar 17 20:33:11 0, 45.11, 0, 0
+Mar 17 20:33:12 0, 45.93, 0, 0
+Mar 17 20:33:13 0, 46.69, 0, 0
+Mar 17 20:33:14 0, 47.47, 0, 0
+Mar 17 20:33:15 0, 48.35, 0, 0
+Mar 17 20:33:16 0, 49.26, 0, 0
+Mar 17 20:33:17 0, 50.13, 0, 0
+Mar 17 20:33:18 0, 50.94, 0, 0
+Mar 17 20:33:19 0, 51.75, 0, 0
+Mar 17 20:33:20 0, 52.43, 0, 0
+Mar 17 20:33:21 0, 53.10, 0, 0
+Mar 17 20:33:22 0, 53.72, 0, 0
+Mar 17 20:33:23 0, 54.52, 0, 0
+Mar 17 20:33:24 0, 55.36, 0, 0
+Mar 17 20:33:25 0, 56.22, 0, 0
+Mar 17 20:33:26 0, 57.00, 0, 0
+Mar 17 20:33:27 0, 57.80, 0, 0
+Mar 17 20:33:28 0, 58.61, 0, 0
+Mar 17 20:33:29 0, 59.41, 0, 0
+Mar 17 20:33:30 0, 60.16, 0, 0
+Mar 17 20:33:31 0, 60.89, 0, 0
+Mar 17 20:33:32 0, 61.61, 0, 0
+Mar 17 20:33:33 0, 62.45, 0, 0
+Mar 17 20:33:34 0, 63.20, 0, 0
+Mar 17 20:33:35 0, 63.80, 0, 0
+Mar 17 20:33:36 0, 64.33, 0, 0
+Mar 17 20:33:37 0, 64.92, 0, 0
+Mar 17 20:33:38 0, 65.51, 0, 0
+Mar 17 20:33:39 0, 66.07, 0, 0
+Mar 17 20:33:40 0, 66.69, 0, 0
+Mar 17 20:33:41 0, 67.50, 0, 0
+Mar 17 20:33:42 0, 68.46, 0, 0
+Mar 17 20:33:43 0, 69.47, 0, 0
+Mar 17 20:33:44 0, 70.58, 0, 0
+Mar 17 20:33:45 0, 71.64, 0, 0
+Mar 17 20:33:46 0, 72.70, 0, 0
+Mar 17 20:33:47 0, 73.75, 0, 0
+Mar 17 20:33:48 0, 74.68, 0, 0
+Mar 17 20:33:49 Heated to desired temperature
+Mar 17 20:33:49 Initialize timer to 15 seconds
+Mar 17 20:33:49 Bias 100/85/100
+Mar 17 20:33:49 Ramp temperature to 150C in 80 seconds
+Mar 17 20:33:49 15, 75.59, 0, 0
+Mar 17 20:33:50 Base PID power at 76.52C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 20:33:50 T=76.54 P=76.52 D=0.93 E=-0.02 I=-0.02 D=-0.02 Kd=44
+Mar 17 20:33:50 Power was 18 and is now 17.27
+Mar 17 20:33:50 16, 76.53, 0, 0
+Mar 17 20:33:51 Base PID power at 77.45C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 20:33:51 T=77.50 P=77.45 D=0.93 E=-0.04 I=-0.06 D=-0.03 Kd=44
+Mar 17 20:33:51 Power was 18 and is now 16.51
+Mar 17 20:33:51 17, 77.49, 0, 0
+Mar 17 20:33:52 Base PID power at 78.38C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 20:33:52 T=78.37 P=78.38 D=0.93 E=0.01 I=-0.05 D=0.05 Kd=44
+Mar 17 20:33:52 Power was 18 and is now 20.32
+Mar 17 20:33:52 18, 78.37, 0, 0
+Mar 17 20:33:53 Base PID power at 79.31C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 20:33:53 T=79.06 P=79.31 D=0.93 E=0.25 I=0.20 D=0.25 Kd=44
+Mar 17 20:33:53 Power was 18 and is now 29.37
+Mar 17 20:33:53 19, 79.05, 0, 0
+Mar 17 20:33:54 Base PID power at 80.24C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 20:33:54 T=79.83 P=80.24 D=0.93 E=0.42 I=0.62 D=0.16 Kd=44
+Mar 17 20:33:54 Power was 17 and is now 24.96
+Mar 17 20:33:54 20, 79.82, 0, 0
+Mar 17 20:33:55 Base PID power at 81.17C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 20:33:55 T=80.87 P=81.17 D=0.93 E=0.31 I=0.92 D=-0.11 Kd=44
+Mar 17 20:33:55 Power was 17 and is now 12.76
+Mar 17 20:33:55 21, 80.86, 0, 0
+Mar 17 20:33:56 Base PID power at 82.10C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 20:33:56 T=82.06 P=82.10 D=0.93 E=0.05 I=0.97 D=-0.26 Kd=44
+Mar 17 20:33:56 Power was 17 and is now 5.66
+Mar 17 20:33:56 22, 82.05, 0, 0
+Mar 17 20:33:57 Base PID power at 83.03C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 20:33:57 T=83.15 P=83.03 D=0.93 E=-0.12 I=0.85 D=-0.17 Kd=44
+Mar 17 20:33:57 Power was 17 and is now 9.24
+Mar 17 20:33:57 23, 83.15, 0, 0
+Mar 17 20:33:58 Base PID power at 83.96C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 20:33:58 T=84.03 P=83.96 D=0.93 E=-0.07 I=0.78 D=0.05 Kd=44
+Mar 17 20:33:58 Power was 17 and is now 19.00
+Mar 17 20:33:58 24, 84.03, 0, 0
+Mar 17 20:33:59 Base PID power at 84.89C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:33:59 T=84.80 P=84.89 D=0.93 E=0.10 I=0.88 D=0.17 Kd=44
+Mar 17 20:33:59 Power was 20 and is now 27.49
+Mar 17 20:33:59 25, 84.79, 0, 0
+Mar 17 20:34:00 Base PID power at 85.82C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:00 T=85.35 P=85.82 D=0.93 E=0.48 I=1.35 D=0.38 Kd=44
+Mar 17 20:34:00 Power was 20 and is now 37.72
+Mar 17 20:34:00 26, 85.34, 0, 0
+Mar 17 20:34:01 Base PID power at 86.75C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:01 T=85.77 P=86.75 D=0.93 E=0.98 I=2.34 D=0.50 Kd=44
+Mar 17 20:34:01 Power was 20 and is now 44.19
+Mar 17 20:34:01 27, 85.77, 0, 0
+Mar 17 20:34:02 Base PID power at 87.68C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:02 T=86.17 P=87.68 D=0.93 E=1.51 I=3.85 D=0.53 Kd=44
+Mar 17 20:34:02 Power was 20 and is now 46.48
+Mar 17 20:34:02 28, 86.16, 0, 0
+Mar 17 20:34:03 Base PID power at 88.61C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:03 T=86.70 P=88.61 D=0.93 E=1.91 I=5.76 D=0.40 Kd=44
+Mar 17 20:34:03 Power was 20 and is now 41.31
+Mar 17 20:34:03 29, 86.70, 0, 0
+Mar 17 20:34:04 Base PID power at 89.54C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:04 T=87.18 P=89.54 D=0.93 E=2.37 I=8.13 D=0.45 Kd=44
+Mar 17 20:34:04 Power was 20 and is now 44.81
+Mar 17 20:34:04 30, 87.17, 0, 0
+Mar 17 20:34:05 Base PID power at 90.47C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:05 T=87.77 P=90.47 D=0.93 E=2.70 I=10.83 D=0.34 Kd=44
+Mar 17 20:34:05 Power was 20 and is now 40.41
+Mar 17 20:34:05 31, 87.76, 0, 0
+Mar 17 20:34:06 Base PID power at 91.40C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:06 T=88.38 P=91.40 D=0.93 E=3.03 I=13.86 D=0.32 Kd=44
+Mar 17 20:34:06 Power was 20 and is now 40.49
+Mar 17 20:34:06 32, 88.37, 0, 0
+Mar 17 20:34:07 Base PID power at 92.33C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:07 T=88.96 P=92.33 D=0.93 E=3.37 I=17.23 D=0.35 Kd=44
+Mar 17 20:34:07 Power was 20 and is now 42.11
+Mar 17 20:34:07 33, 88.95, 0, 0
+Mar 17 20:34:08 Base PID power at 93.26C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:08 T=89.50 P=93.26 D=0.93 E=3.77 I=21.00 D=0.39 Kd=44
+Mar 17 20:34:08 Power was 20 and is now 44.99
+Mar 17 20:34:08 34, 89.49, 0, 0
+Mar 17 20:34:09 Base PID power at 94.19C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:09 T=90.02 P=94.19 D=0.93 E=4.17 I=25.17 D=0.41 Kd=44
+Mar 17 20:34:09 Power was 20 and is now 46.44
+Mar 17 20:34:09 35, 90.02, 0, 0
+Mar 17 20:34:10 Base PID power at 95.12C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:10 T=90.60 P=95.12 D=0.93 E=4.52 I=29.69 D=0.35 Kd=44
+Mar 17 20:34:10 Power was 20 and is now 44.78
+Mar 17 20:34:10 36, 90.60, 0, 0
+Mar 17 20:34:11 Base PID power at 96.05C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 20:34:11 T=91.15 P=96.05 D=0.93 E=4.90 I=34.59 D=0.38 Kd=44
+Mar 17 20:34:11 Power was 20 and is now 46.78
+Mar 17 20:34:11 37, 91.15, 0, 0
+Mar 17 20:34:12 Base PID power at 96.98C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:12 T=91.76 P=96.98 D=0.93 E=5.22 I=39.81 D=0.32 Kd=44
+Mar 17 20:34:12 Power was 22 and is now 46.90
+Mar 17 20:34:12 38, 91.76, 0, 0
+Mar 17 20:34:13 Base PID power at 97.91C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:13 T=92.56 P=97.91 D=0.93 E=5.36 I=45.17 D=0.14 Kd=44
+Mar 17 20:34:13 Power was 22 and is now 39.19
+Mar 17 20:34:13 39, 92.55, 0, 0
+Mar 17 20:34:14 Base PID power at 98.84C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:14 T=93.33 P=98.84 D=0.93 E=5.51 I=50.68 D=0.16 Kd=44
+Mar 17 20:34:14 Power was 22 and is now 40.43
+Mar 17 20:34:14 40, 93.33, 0, 0
+Mar 17 20:34:15 Base PID power at 99.77C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:15 T=94.04 P=99.77 D=0.93 E=5.73 I=56.42 D=0.22 Kd=44
+Mar 17 20:34:15 Power was 22 and is now 43.72
+Mar 17 20:34:15 41, 94.04, 0, 0
+Mar 17 20:34:16 Base PID power at 100.70C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:16 T=94.62 P=100.70 D=0.93 E=6.08 I=62.50 D=0.35 Kd=44
+Mar 17 20:34:16 Power was 22 and is now 50.12
+Mar 17 20:34:16 42, 94.62, 0, 0
+Mar 17 20:34:17 Base PID power at 101.63C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:17 T=95.29 P=101.63 D=0.93 E=6.34 I=68.84 D=0.26 Kd=44
+Mar 17 20:34:17 Power was 22 and is now 46.90
+Mar 17 20:34:17 43, 95.29, 0, 0
+Mar 17 20:34:18 Base PID power at 102.56C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:18 T=95.97 P=102.56 D=0.93 E=6.59 I=75.44 D=0.25 Kd=44
+Mar 17 20:34:18 Power was 22 and is now 46.96
+Mar 17 20:34:18 44, 95.97, 0, 0
+Mar 17 20:34:19 Base PID power at 103.49C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:19 T=96.72 P=103.49 D=0.93 E=6.78 I=82.22 D=0.18 Kd=44
+Mar 17 20:34:19 Power was 22 and is now 44.51
+Mar 17 20:34:19 45, 96.71, 0, 0
+Mar 17 20:34:20 Base PID power at 104.42C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:20 T=97.50 P=104.42 D=0.93 E=6.92 I=89.14 D=0.14 Kd=44
+Mar 17 20:34:20 Power was 22 and is now 42.94
+Mar 17 20:34:20 46, 97.50, 0, 0
+Mar 17 20:34:21 Base PID power at 105.36C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:21 T=98.48 P=105.36 D=0.93 E=6.88 I=96.01 D=-0.04 Kd=44
+Mar 17 20:34:21 Power was 22 and is now 34.86
+Mar 17 20:34:21 47, 98.47, 0, 0
+Mar 17 20:34:22 Base PID power at 106.29C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:22 T=99.57 P=106.29 D=0.93 E=6.72 I=102.73 D=-0.16 Kd=44
+Mar 17 20:34:22 Power was 22 and is now 29.33
+Mar 17 20:34:22 48, 99.56, 0, 0
+Mar 17 20:34:23 Base PID power at 107.22C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:23 T=100.61 P=107.22 D=0.93 E=6.60 I=109.33 D=-0.11 Kd=44
+Mar 17 20:34:23 Power was 22 and is now 31.27
+Mar 17 20:34:23 49, 100.61, 0, 0
+Mar 17 20:34:24 Base PID power at 108.15C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 20:34:24 T=101.62 P=108.15 D=0.93 E=6.53 I=115.86 D=-0.08 Kd=44
+Mar 17 20:34:24 Power was 22 and is now 32.86
+Mar 17 20:34:24 50, 101.61, 0, 0
+Mar 17 20:34:25 Base PID power at 109.08C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:25 T=102.57 P=109.08 D=0.93 E=6.50 I=122.36 D=-0.02 Kd=44
+Mar 17 20:34:25 Power was 25 and is now 38.19
+Mar 17 20:34:25 51, 102.57, 0, 0
+Mar 17 20:34:26 Base PID power at 110.01C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:26 T=103.53 P=110.01 D=0.93 E=6.48 I=128.84 D=-0.02 Kd=44
+Mar 17 20:34:26 Power was 25 and is now 38.31
+Mar 17 20:34:26 52, 103.52, 0, 0
+Mar 17 20:34:27 Base PID power at 110.94C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:27 T=104.40 P=110.94 D=0.93 E=6.53 I=135.37 D=0.05 Kd=44
+Mar 17 20:34:27 Power was 25 and is now 41.68
+Mar 17 20:34:27 53, 104.40, 0, 0
+Mar 17 20:34:28 Base PID power at 111.87C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:28 T=105.22 P=111.87 D=0.93 E=6.64 I=142.02 D=0.11 Kd=44
+Mar 17 20:34:28 Power was 25 and is now 44.68
+Mar 17 20:34:28 54, 105.22, 0, 0
+Mar 17 20:34:29 Base PID power at 112.80C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:29 T=106.03 P=112.80 D=0.93 E=6.77 I=148.78 D=0.12 Kd=44
+Mar 17 20:34:29 Power was 25 and is now 45.45
+Mar 17 20:34:29 55, 106.02, 0, 0
+Mar 17 20:34:30 Base PID power at 113.73C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:30 T=106.78 P=113.73 D=0.93 E=6.95 I=155.73 D=0.18 Kd=44
+Mar 17 20:34:30 Power was 25 and is now 48.28
+Mar 17 20:34:30 56, 106.77, 0, 0
+Mar 17 20:34:31 Base PID power at 114.66C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:31 T=107.48 P=114.66 D=0.93 E=7.17 I=162.90 D=0.23 Kd=44
+Mar 17 20:34:31 Power was 25 and is now 50.99
+Mar 17 20:34:31 57, 107.48, 0, 0
+Mar 17 20:34:32 Base PID power at 115.59C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:32 T=108.26 P=115.59 D=0.93 E=7.33 I=170.23 D=0.16 Kd=44
+Mar 17 20:34:32 Power was 25 and is now 48.18
+Mar 17 20:34:32 58, 108.25, 0, 0
+Mar 17 20:34:33 Base PID power at 116.52C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:33 T=109.04 P=116.52 D=0.93 E=7.47 I=177.71 D=0.15 Kd=44
+Mar 17 20:34:33 Power was 25 and is now 48.14
+Mar 17 20:34:33 59, 109.04, 0, 0
+Mar 17 20:34:34 Base PID power at 117.45C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:34 T=109.81 P=117.45 D=0.93 E=7.64 I=185.35 D=0.17 Kd=44
+Mar 17 20:34:34 Power was 25 and is now 49.42
+Mar 17 20:34:34 60, 109.80, 0, 0
+Mar 17 20:34:35 Base PID power at 118.38C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:35 T=110.43 P=118.38 D=0.93 E=7.95 I=193.30 D=0.31 Kd=44
+Mar 17 20:34:35 Power was 25 and is now 55.00
+Mar 17 20:34:35 61, 110.42, 0, 0
+Mar 17 20:34:36 Base PID power at 119.31C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:36 T=111.05 P=119.31 D=0.93 E=8.26 I=201.55 D=0.31 Kd=44
+Mar 17 20:34:36 Power was 25 and is now 55.00
+Mar 17 20:34:36 62, 111.05, 0, 0
+Mar 17 20:34:37 Base PID power at 120.24C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 20:34:37 T=111.67 P=120.24 D=0.93 E=8.56 I=210.12 D=0.31 Kd=44
+Mar 17 20:34:37 Power was 25 and is now 55.00
+Mar 17 20:34:37 63, 111.67, 0, 0
+Mar 17 20:34:38 Base PID power at 121.17C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:38 T=112.37 P=121.17 D=0.93 E=8.80 I=218.92 D=0.24 Kd=44
+Mar 17 20:34:38 Power was 29 and is now 59.00
+Mar 17 20:34:38 64, 112.36, 0, 0
+Mar 17 20:34:39 Base PID power at 122.10C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:39 T=113.15 P=122.10 D=0.93 E=8.95 I=227.87 D=0.15 Kd=44
+Mar 17 20:34:39 Power was 29 and is now 55.58
+Mar 17 20:34:39 65, 113.15, 0, 0
+Mar 17 20:34:40 Base PID power at 123.03C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:40 T=114.01 P=123.03 D=0.93 E=9.01 I=236.88 D=0.07 Kd=44
+Mar 17 20:34:40 Power was 29 and is now 52.37
+Mar 17 20:34:40 66, 114.01, 0, 0
+Mar 17 20:34:41 Base PID power at 123.96C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:41 T=114.91 P=123.96 D=0.93 E=9.04 I=245.92 D=0.03 Kd=44
+Mar 17 20:34:41 Power was 29 and is now 50.85
+Mar 17 20:34:41 67, 114.91, 0, 0
+Mar 17 20:34:42 Base PID power at 124.89C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:42 T=115.81 P=124.89 D=0.93 E=9.08 I=255.00 D=0.04 Kd=44
+Mar 17 20:34:42 Power was 29 and is now 51.36
+Mar 17 20:34:42 68, 115.80, 0, 0
+Mar 17 20:34:43 Base PID power at 125.82C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:43 T=116.60 P=125.82 D=0.93 E=9.21 I=264.22 D=0.13 Kd=44
+Mar 17 20:34:43 Power was 29 and is now 55.96
+Mar 17 20:34:43 69, 116.60, 0, 0
+Mar 17 20:34:44 Base PID power at 126.75C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:44 T=117.30 P=126.75 D=0.93 E=9.45 I=273.67 D=0.23 Kd=44
+Mar 17 20:34:44 Power was 29 and is now 59.00
+Mar 17 20:34:44 70, 117.29, 0, 0
+Mar 17 20:34:45 Base PID power at 127.68C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:45 T=117.93 P=127.68 D=0.93 E=9.75 I=283.42 D=0.30 Kd=44
+Mar 17 20:34:45 Power was 29 and is now 59.00
+Mar 17 20:34:45 71, 117.92, 0, 0
+Mar 17 20:34:46 Base PID power at 128.61C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:46 T=118.66 P=128.61 D=0.93 E=9.95 I=293.37 D=0.20 Kd=44
+Mar 17 20:34:46 Power was 29 and is now 59.00
+Mar 17 20:34:46 72, 118.65, 0, 0
+Mar 17 20:34:47 Base PID power at 129.54C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:47 T=119.51 P=129.54 D=0.93 E=10.03 I=303.39 D=0.08 Kd=44
+Mar 17 20:34:47 Power was 29 and is now 55.52
+Mar 17 20:34:47 73, 119.50, 0, 0
+Mar 17 20:34:48 Base PID power at 130.47C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:48 T=120.44 P=130.47 D=0.93 E=10.03 I=313.43 D=0.00 Kd=44
+Mar 17 20:34:48 Power was 29 and is now 52.33
+Mar 17 20:34:48 74, 120.43, 0, 0
+Mar 17 20:34:49 Base PID power at 131.40C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:49 T=121.39 P=131.40 D=0.93 E=10.01 I=323.43 D=-0.02 Kd=44
+Mar 17 20:34:49 Power was 29 and is now 51.19
+Mar 17 20:34:49 75, 121.39, 0, 0
+Mar 17 20:34:50 Base PID power at 132.33C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 20:34:50 T=122.30 P=132.33 D=0.93 E=10.03 I=333.46 D=0.02 Kd=44
+Mar 17 20:34:50 Power was 29 and is now 53.49
+Mar 17 20:34:50 76, 122.29, 0, 0
+Mar 17 20:34:51 Base PID power at 133.26C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:51 T=123.14 P=133.26 D=0.93 E=10.12 I=343.58 D=0.09 Kd=44
+Mar 17 20:34:51 Power was 32 and is now 59.50
+Mar 17 20:34:51 77, 123.13, 0, 0
+Mar 17 20:34:52 Base PID power at 134.19C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:52 T=123.84 P=134.19 D=0.93 E=10.35 I=353.93 D=0.23 Kd=44
+Mar 17 20:34:52 Power was 32 and is now 62.00
+Mar 17 20:34:52 78, 123.84, 0, 0
+Mar 17 20:34:53 Base PID power at 135.12C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:53 T=124.57 P=135.12 D=0.93 E=10.54 I=364.47 D=0.20 Kd=44
+Mar 17 20:34:53 Power was 32 and is now 62.00
+Mar 17 20:34:53 79, 124.57, 0, 0
+Mar 17 20:34:54 Base PID power at 136.05C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:54 T=125.31 P=136.05 D=0.93 E=10.74 I=375.21 D=0.20 Kd=44
+Mar 17 20:34:54 Power was 32 and is now 62.00
+Mar 17 20:34:54 80, 125.30, 0, 0
+Mar 17 20:34:55 Base PID power at 136.98C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:55 T=126.25 P=136.98 D=0.93 E=10.73 I=385.94 D=-0.01 Kd=44
+Mar 17 20:34:55 Power was 32 and is now 56.92
+Mar 17 20:34:55 81, 126.24, 0, 0
+Mar 17 20:34:56 Base PID power at 137.91C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:56 T=127.14 P=137.91 D=0.93 E=10.77 I=396.71 D=0.04 Kd=44
+Mar 17 20:34:56 Power was 32 and is now 59.15
+Mar 17 20:34:56 82, 127.14, 0, 0
+Mar 17 20:34:57 Base PID power at 138.84C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:57 T=128.09 P=138.84 D=0.93 E=10.75 I=407.46 D=-0.02 Kd=44
+Mar 17 20:34:57 Power was 32 and is now 56.91
+Mar 17 20:34:57 83, 128.08, 0, 0
+Mar 17 20:34:58 Base PID power at 139.77C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 20:34:58 T=128.95 P=139.77 D=0.93 E=10.82 I=418.28 D=0.06 Kd=44
+Mar 17 20:34:58 Power was 32 and is now 60.63
+Mar 17 20:34:58 84, 128.95, 0, 0
+Mar 17 20:34:59 Base PID power at 140.70C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 20:34:59 T=129.90 P=140.70 D=0.93 E=10.80 I=429.07 D=-0.02 Kd=44
+Mar 17 20:34:59 Power was 31 and is now 56.10
+Mar 17 20:34:59 85, 129.90, 0, 0
+Mar 17 20:35:00 Base PID power at 141.63C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 20:35:00 T=130.89 P=141.63 D=0.93 E=10.74 I=439.82 D=-0.06 Kd=44
+Mar 17 20:35:00 Power was 31 and is now 54.45
+Mar 17 20:35:00 86, 130.88, 0, 0
+Mar 17 20:35:01 Base PID power at 142.56C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 20:35:01 T=131.86 P=142.56 D=0.93 E=10.70 I=450.52 D=-0.04 Kd=44
+Mar 17 20:35:01 Power was 31 and is now 55.16
+Mar 17 20:35:01 87, 131.85, 0, 0
+Mar 17 20:35:02 Base PID power at 143.49C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 20:35:02 T=132.77 P=143.49 D=0.93 E=10.72 I=461.24 D=0.01 Kd=44
+Mar 17 20:35:02 Power was 31 and is now 57.68
+Mar 17 20:35:02 88, 132.77, 0, 0
+Mar 17 20:35:03 Base PID power at 144.42C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 20:35:03 T=133.67 P=144.42 D=0.93 E=10.74 I=471.98 D=0.03 Kd=44
+Mar 17 20:35:03 Power was 31 and is now 58.42
+Mar 17 20:35:03 89, 133.67, 0, 0
+Mar 17 20:35:04 Base PID power at 145.35C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:04 T=134.60 P=145.35 D=0.93 E=10.75 I=482.73 D=0.01 Kd=44
+Mar 17 20:35:04 Power was 34 and is now 60.55
+Mar 17 20:35:04 90, 134.59, 0, 0
+Mar 17 20:35:05 Base PID power at 146.28C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:05 T=135.45 P=146.28 D=0.93 E=10.83 I=493.56 D=0.08 Kd=44
+Mar 17 20:35:05 Power was 34 and is now 64.00
+Mar 17 20:35:05 91, 135.45, 0, 0
+Mar 17 20:35:06 Base PID power at 147.21C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:06 T=136.29 P=147.21 D=0.93 E=10.92 I=504.48 D=0.09 Kd=44
+Mar 17 20:35:06 Power was 34 and is now 64.00
+Mar 17 20:35:06 92, 136.28, 0, 0
+Mar 17 20:35:07 Base PID power at 148.14C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:07 T=137.18 P=148.14 D=0.93 E=10.96 I=515.44 D=0.04 Kd=44
+Mar 17 20:35:07 Power was 34 and is now 62.96
+Mar 17 20:35:07 93, 137.17, 0, 0
+Mar 17 20:35:08 Base PID power at 149.07C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:08 T=138.32 P=149.07 D=0.93 E=10.75 I=526.19 D=-0.22 Kd=44
+Mar 17 20:35:08 Power was 34 and is now 51.22
+Mar 17 20:35:08 94, 138.32, 0, 0
+Mar 17 20:35:09 Base PID power at 150.00C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:09 T=139.71 P=150.00 D=0.93 E=10.29 I=536.48 D=-0.45 Kd=44
+Mar 17 20:35:09 Power was 34 and is now 40.03
+Mar 17 20:35:09 95, 139.70, 0, 0
+Mar 17 20:35:10 Base PID power at 150.93C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:10 T=141.09 P=150.93 D=0.93 E=9.84 I=546.33 D=-0.45 Kd=44
+Mar 17 20:35:10 Power was 34 and is now 39.27
+Mar 17 20:35:10 96, 141.08, 0, 0
+Mar 17 20:35:11 Base PID power at 151.86C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:11 T=142.38 P=151.86 D=0.93 E=9.48 I=555.80 D=-0.36 Kd=44
+Mar 17 20:35:11 Power was 34 and is now 42.54
+Mar 17 20:35:11 97, 142.38, 0, 0
+Mar 17 20:35:12 Base PID power at 152.79C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:12 T=143.41 P=152.79 D=0.93 E=9.38 I=565.18 D=-0.10 Kd=44
+Mar 17 20:35:12 Power was 34 and is now 53.86
+Mar 17 20:35:12 98, 143.41, 0, 0
+Mar 17 20:35:13 Base PID power at 153.72C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:13 T=144.29 P=153.72 D=0.93 E=9.43 I=574.61 D=0.06 Kd=44
+Mar 17 20:35:13 Power was 34 and is now 61.03
+Mar 17 20:35:13 99, 144.28, 0, 0
+Mar 17 20:35:14 Base PID power at 154.65C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:14 T=145.02 P=154.65 D=0.93 E=9.63 I=584.24 D=0.20 Kd=44
+Mar 17 20:35:14 Power was 34 and is now 64.00
+Mar 17 20:35:14 100, 145.02, 0, 0
+Mar 17 20:35:15 Base PID power at 155.58C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:15 T=145.72 P=155.58 D=0.93 E=9.86 I=594.10 D=0.23 Kd=44
+Mar 17 20:35:15 Power was 34 and is now 64.00
+Mar 17 20:35:15 101, 145.72, 0, 0
+Mar 17 20:35:16 Base PID power at 156.51C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 20:35:16 T=146.55 P=156.51 D=0.93 E=9.96 I=604.05 D=0.10 Kd=44
+Mar 17 20:35:16 Power was 34 and is now 64.00
+Mar 17 20:35:16 102, 146.55, 0, 0
+Mar 17 20:35:17 Base PID power at 157.44C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 20:35:17 T=147.30 P=157.44 D=0.93 E=10.14 I=614.20 D=0.19 Kd=44
+Mar 17 20:35:17 Power was 37 and is now 67.00
+Mar 17 20:35:17 103, 147.29, 0, 0
+Mar 17 20:35:18 Base PID power at 158.37C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 20:35:18 T=148.10 P=158.37 D=0.93 E=10.27 I=624.47 D=0.13 Kd=44
+Mar 17 20:35:18 Power was 37 and is now 67.00
+Mar 17 20:35:18 104, 148.09, 0, 0
+Mar 17 20:35:19 Base PID power at 159.30C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 20:35:19 T=148.85 P=159.30 D=0.93 E=10.45 I=634.92 D=0.18 Kd=44
+Mar 17 20:35:19 Power was 37 and is now 67.00
+Mar 17 20:35:19 105, 148.84, 0, 0
+Mar 17 20:35:20 Base PID power at 160.23C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 20:35:20 T=149.78 P=160.23 D=0.93 E=10.45 I=645.37 D=-0.00 Kd=44
+Mar 17 20:35:20 Power was 37 and is now 64.30
+Mar 17 20:35:20 106, 149.78, 0, 0
+Mar 17 20:35:21 Bias 80/50/80
+Mar 17 20:35:21 Ramp temperature to 175C in 100 seconds
+Mar 17 20:35:21 107, 150.77, 0, 0
+Mar 17 20:35:22 Base PID power at 151.02C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:22 T=151.73 P=151.02 D=0.24 E=-0.71 I=-0.71 D=-0.71 Kd=44
+Mar 17 20:35:22 Power was 18 and is now -12.00
+Mar 17 20:35:22 108, 151.73, 0, 0
+Mar 17 20:35:23 Base PID power at 151.26C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:23 T=152.59 P=151.26 D=0.24 E=-1.33 I=-2.04 D=-0.61 Kd=44
+Mar 17 20:35:23 Power was 18 and is now -12.00
+Mar 17 20:35:23 109, 152.58, 0, 0
+Mar 17 20:35:24 Base PID power at 151.50C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:24 T=153.41 P=151.50 D=0.24 E=-1.90 I=-3.94 D=-0.57 Kd=44
+Mar 17 20:35:24 Power was 18 and is now -12.00
+Mar 17 20:35:24 110, 153.40, 0, 0
+Mar 17 20:35:25 Base PID power at 151.75C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:25 T=154.37 P=151.75 D=0.24 E=-2.62 I=-6.56 D=-0.72 Kd=44
+Mar 17 20:35:25 Power was 18 and is now -12.00
+Mar 17 20:35:25 111, 154.36, 0, 0
+Mar 17 20:35:26 Base PID power at 151.99C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:26 T=155.40 P=151.99 D=0.24 E=-3.41 I=-9.97 D=-0.80 Kd=44
+Mar 17 20:35:26 Power was 18 and is now -12.00
+Mar 17 20:35:26 112, 155.40, 0, 0
+Mar 17 20:35:27 Base PID power at 152.23C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:27 T=156.29 P=152.23 D=0.24 E=-4.06 I=-14.03 D=-0.64 Kd=44
+Mar 17 20:35:27 Power was 18 and is now -12.00
+Mar 17 20:35:27 113, 156.29, 0, 0
+Mar 17 20:35:28 Base PID power at 152.47C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:28 T=156.92 P=152.47 D=0.24 E=-4.45 I=-18.48 D=-0.39 Kd=44
+Mar 17 20:35:28 Power was 18 and is now -12.00
+Mar 17 20:35:28 114, 156.92, 0, 0
+Mar 17 20:35:29 Base PID power at 152.72C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:29 T=157.52 P=152.72 D=0.24 E=-4.81 I=-23.29 D=-0.36 Kd=44
+Mar 17 20:35:29 Power was 18 and is now -12.00
+Mar 17 20:35:29 115, 157.52, 0, 0
+Mar 17 20:35:30 Base PID power at 152.96C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:30 T=158.13 P=152.96 D=0.24 E=-5.17 I=-28.46 D=-0.37 Kd=44
+Mar 17 20:35:30 Power was 18 and is now -12.00
+Mar 17 20:35:30 116, 158.13, 0, 0
+Mar 17 20:35:31 Base PID power at 153.20C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:31 T=158.74 P=153.20 D=0.24 E=-5.54 I=-34.00 D=-0.37 Kd=44
+Mar 17 20:35:31 Power was 18 and is now -12.00
+Mar 17 20:35:31 117, 158.74, 0, 0
+Mar 17 20:35:32 Base PID power at 153.44C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:32 T=159.24 P=153.44 D=0.24 E=-5.80 I=-39.80 D=-0.26 Kd=44
+Mar 17 20:35:32 Power was 18 and is now -12.00
+Mar 17 20:35:32 118, 159.24, 0, 0
+Mar 17 20:35:33 Base PID power at 153.68C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:33 T=159.59 P=153.68 D=0.24 E=-5.91 I=-45.71 D=-0.11 Kd=44
+Mar 17 20:35:33 Power was 18 and is now -10.95
+Mar 17 20:35:33 119, 159.59, 0, 0
+Mar 17 20:35:34 Base PID power at 153.93C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:34 T=159.82 P=153.93 D=0.24 E=-5.89 I=-51.60 D=0.02 Kd=44
+Mar 17 20:35:34 Power was 18 and is now -5.33
+Mar 17 20:35:34 120, 159.81, 0, 0
+Mar 17 20:35:35 Base PID power at 154.17C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:35 T=159.87 P=154.17 D=0.24 E=-5.70 I=-57.30 D=0.19 Kd=44
+Mar 17 20:35:35 Power was 18 and is now 3.08
+Mar 17 20:35:35 121, 159.86, 0, 0
+Mar 17 20:35:36 Base PID power at 154.41C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:36 T=160.02 P=154.41 D=0.24 E=-5.61 I=-62.91 D=0.09 Kd=44
+Mar 17 20:35:36 Power was 18 and is now -1.18
+Mar 17 20:35:36 122, 160.02, 0, 0
+Mar 17 20:35:37 Base PID power at 154.65C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:37 T=160.32 P=154.65 D=0.24 E=-5.66 I=-68.58 D=-0.05 Kd=44
+Mar 17 20:35:37 Power was 18 and is now -7.65
+Mar 17 20:35:37 123, 160.31, 0, 0
+Mar 17 20:35:38 Base PID power at 154.90C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:38 T=160.69 P=154.90 D=0.24 E=-5.79 I=-74.37 D=-0.13 Kd=44
+Mar 17 20:35:38 Power was 18 and is now -11.62
+Mar 17 20:35:38 124, 160.68, 0, 0
+Mar 17 20:35:39 Base PID power at 155.14C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:39 T=160.92 P=155.14 D=0.24 E=-5.78 I=-80.15 D=0.01 Kd=44
+Mar 17 20:35:39 Power was 18 and is now -5.40
+Mar 17 20:35:39 125, 160.91, 0, 0
+Mar 17 20:35:40 Base PID power at 155.38C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:40 T=161.02 P=155.38 D=0.24 E=-5.64 I=-85.80 D=0.14 Kd=44
+Mar 17 20:35:40 Power was 18 and is now 0.69
+Mar 17 20:35:40 126, 161.02, 0, 0
+Mar 17 20:35:41 Base PID power at 155.62C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:41 T=161.13 P=155.62 D=0.24 E=-5.51 I=-91.31 D=0.13 Kd=44
+Mar 17 20:35:41 Power was 18 and is now 0.77
+Mar 17 20:35:41 127, 161.13, 0, 0
+Mar 17 20:35:42 Base PID power at 155.86C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:42 T=161.41 P=155.86 D=0.24 E=-5.54 I=-96.85 D=-0.03 Kd=44
+Mar 17 20:35:42 Power was 18 and is now -6.44
+Mar 17 20:35:42 128, 161.40, 0, 0
+Mar 17 20:35:43 Base PID power at 156.11C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:43 T=161.76 P=156.11 D=0.24 E=-5.65 I=-102.50 D=-0.11 Kd=44
+Mar 17 20:35:43 Power was 18 and is now -10.52
+Mar 17 20:35:43 129, 161.75, 0, 0
+Mar 17 20:35:44 Base PID power at 156.35C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:44 T=162.09 P=156.35 D=0.24 E=-5.74 I=-108.25 D=-0.09 Kd=44
+Mar 17 20:35:44 Power was 18 and is now -10.09
+Mar 17 20:35:44 130, 162.09, 0, 0
+Mar 17 20:35:45 Base PID power at 156.59C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 20:35:45 T=162.38 P=156.59 D=0.24 E=-5.79 I=-114.04 D=-0.05 Kd=44
+Mar 17 20:35:45 Power was 18 and is now -8.37
+Mar 17 20:35:45 131, 162.38, 0, 0
+Mar 17 20:35:46 Base PID power at 156.83C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:46 T=162.67 P=156.83 D=0.24 E=-5.84 I=-119.87 D=-0.04 Kd=44
+Mar 17 20:35:46 Power was 20 and is now -6.49
+Mar 17 20:35:46 132, 162.66, 0, 0
+Mar 17 20:35:47 Base PID power at 157.08C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:47 T=162.90 P=157.08 D=0.24 E=-5.83 I=-125.70 D=0.01 Kd=44
+Mar 17 20:35:47 Power was 20 and is now -4.15
+Mar 17 20:35:47 133, 162.90, 0, 0
+Mar 17 20:35:48 Base PID power at 157.32C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:48 T=163.05 P=157.32 D=0.24 E=-5.73 I=-131.44 D=0.09 Kd=44
+Mar 17 20:35:48 Power was 20 and is now -0.22
+Mar 17 20:35:48 134, 163.05, 0, 0
+Mar 17 20:35:49 Base PID power at 157.56C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:49 T=163.32 P=157.56 D=0.24 E=-5.76 I=-137.19 D=-0.02 Kd=44
+Mar 17 20:35:49 Power was 20 and is now -5.46
+Mar 17 20:35:49 135, 163.31, 0, 0
+Mar 17 20:35:50 Base PID power at 157.80C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:50 T=163.61 P=157.80 D=0.24 E=-5.81 I=-143.00 D=-0.05 Kd=44
+Mar 17 20:35:50 Power was 20 and is now -6.76
+Mar 17 20:35:50 136, 163.60, 0, 0
+Mar 17 20:35:51 Base PID power at 158.04C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:51 T=163.94 P=158.04 D=0.24 E=-5.90 I=-148.90 D=-0.09 Kd=44
+Mar 17 20:35:51 Power was 20 and is now -9.09
+Mar 17 20:35:51 137, 163.94, 0, 0
+Mar 17 20:35:52 Base PID power at 158.29C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:52 T=164.08 P=158.29 D=0.24 E=-5.80 I=-154.69 D=0.10 Kd=44
+Mar 17 20:35:52 Power was 20 and is now -0.29
+Mar 17 20:35:52 138, 164.08, 0, 0
+Mar 17 20:35:53 Base PID power at 158.53C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:53 T=164.24 P=158.53 D=0.24 E=-5.72 I=-160.41 D=0.08 Kd=44
+Mar 17 20:35:53 Power was 20 and is now -0.89
+Mar 17 20:35:53 139, 164.24, 0, 0
+Mar 17 20:35:54 Base PID power at 158.77C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:54 T=164.63 P=158.77 D=0.24 E=-5.86 I=-166.27 D=-0.14 Kd=44
+Mar 17 20:35:54 Power was 20 and is now -10.00
+Mar 17 20:35:54 140, 164.62, 0, 0
+Mar 17 20:35:55 Base PID power at 159.01C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:55 T=165.25 P=159.01 D=0.24 E=-6.24 I=-172.51 D=-0.38 Kd=44
+Mar 17 20:35:55 Power was 20 and is now -10.00
+Mar 17 20:35:55 141, 165.25, 0, 0
+Mar 17 20:35:56 Base PID power at 159.26C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:56 T=165.77 P=159.26 D=0.24 E=-6.52 I=-179.02 D=-0.28 Kd=44
+Mar 17 20:35:56 Power was 20 and is now -10.00
+Mar 17 20:35:56 142, 165.77, 0, 0
+Mar 17 20:35:57 Base PID power at 159.50C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:57 T=165.95 P=159.50 D=0.24 E=-6.46 I=-185.48 D=0.06 Kd=44
+Mar 17 20:35:57 Power was 20 and is now -5.07
+Mar 17 20:35:57 143, 165.95, 0, 0
+Mar 17 20:35:58 Base PID power at 159.74C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:58 T=165.90 P=159.74 D=0.24 E=-6.16 I=-191.63 D=0.30 Kd=44
+Mar 17 20:35:58 Power was 20 and is now 6.71
+Mar 17 20:35:58 144, 165.89, 0, 0
+Mar 17 20:35:59 Base PID power at 159.98C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:35:59 T=165.85 P=159.98 D=0.24 E=-5.86 I=-197.50 D=0.29 Kd=44
+Mar 17 20:35:59 Power was 20 and is now 7.38
+Mar 17 20:35:59 145, 165.84, 0, 0
+Mar 17 20:36:00 Base PID power at 160.22C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:00 T=165.68 P=160.22 D=0.24 E=-5.45 I=-202.95 D=0.41 Kd=44
+Mar 17 20:36:00 Power was 20 and is now 14.19
+Mar 17 20:36:00 146, 165.67, 0, 0
+Mar 17 20:36:01 Base PID power at 160.47C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:01 T=165.44 P=160.47 D=0.24 E=-4.97 I=-207.92 D=0.48 Kd=44
+Mar 17 20:36:01 Power was 20 and is now 19.23
+Mar 17 20:36:01 147, 165.43, 0, 0
+Mar 17 20:36:02 Base PID power at 160.71C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:02 T=165.18 P=160.71 D=0.24 E=-4.47 I=-212.39 D=0.50 Kd=44
+Mar 17 20:36:02 Power was 20 and is now 22.16
+Mar 17 20:36:02 148, 165.17, 0, 0
+Mar 17 20:36:03 Base PID power at 160.95C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:03 T=164.95 P=160.95 D=0.24 E=-4.00 I=-216.39 D=0.47 Kd=44
+Mar 17 20:36:03 Power was 20 and is now 22.36
+Mar 17 20:36:03 149, 164.95, 0, 0
+Mar 17 20:36:04 Base PID power at 161.19C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:04 T=164.74 P=161.19 D=0.24 E=-3.55 I=-219.95 D=0.45 Kd=44
+Mar 17 20:36:04 Power was 20 and is now 23.44
+Mar 17 20:36:04 150, 164.74, 0, 0
+Mar 17 20:36:05 Base PID power at 161.44C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:05 T=164.64 P=161.44 D=0.24 E=-3.20 I=-223.15 D=0.35 Kd=44
+Mar 17 20:36:05 Power was 20 and is now 20.29
+Mar 17 20:36:05 151, 164.63, 0, 0
+Mar 17 20:36:06 Base PID power at 161.68C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:06 T=164.60 P=161.68 D=0.24 E=-2.92 I=-226.07 D=0.28 Kd=44
+Mar 17 20:36:06 Power was 20 and is now 18.56
+Mar 17 20:36:06 152, 164.59, 0, 0
+Mar 17 20:36:07 Base PID power at 161.92C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:07 T=164.62 P=161.92 D=0.24 E=-2.70 I=-228.77 D=0.22 Kd=44
+Mar 17 20:36:07 Power was 20 and is now 16.44
+Mar 17 20:36:07 153, 164.62, 0, 0
+Mar 17 20:36:08 Base PID power at 162.16C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:08 T=164.58 P=162.16 D=0.24 E=-2.41 I=-231.18 D=0.29 Kd=44
+Mar 17 20:36:08 Power was 20 and is now 20.68
+Mar 17 20:36:08 154, 164.57, 0, 0
+Mar 17 20:36:09 Base PID power at 162.40C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:09 T=164.75 P=162.40 D=0.24 E=-2.34 I=-233.53 D=0.07 Kd=44
+Mar 17 20:36:09 Power was 20 and is now 11.38
+Mar 17 20:36:09 155, 164.74, 0, 0
+Mar 17 20:36:10 Base PID power at 162.65C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:10 T=165.02 P=162.65 D=0.24 E=-2.38 I=-235.90 D=-0.03 Kd=44
+Mar 17 20:36:10 Power was 20 and is now 6.67
+Mar 17 20:36:10 156, 165.02, 0, 0
+Mar 17 20:36:11 Base PID power at 162.89C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:11 T=165.27 P=162.89 D=0.24 E=-2.38 I=-238.28 D=-0.00 Kd=44
+Mar 17 20:36:11 Power was 20 and is now 7.89
+Mar 17 20:36:11 157, 165.27, 0, 0
+Mar 17 20:36:12 Base PID power at 163.13C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:12 T=165.34 P=163.13 D=0.24 E=-2.20 I=-240.49 D=0.18 Kd=44
+Mar 17 20:36:12 Power was 20 and is now 16.57
+Mar 17 20:36:12 158, 165.33, 0, 0
+Mar 17 20:36:13 Base PID power at 163.37C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:13 T=165.29 P=163.37 D=0.24 E=-1.92 I=-242.41 D=0.29 Kd=44
+Mar 17 20:36:13 Power was 20 and is now 22.48
+Mar 17 20:36:13 159, 165.29, 0, 0
+Mar 17 20:36:14 Base PID power at 163.62C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:14 T=165.46 P=163.62 D=0.24 E=-1.85 I=-244.25 D=0.07 Kd=44
+Mar 17 20:36:14 Power was 20 and is now 13.41
+Mar 17 20:36:14 160, 165.46, 0, 0
+Mar 17 20:36:15 Base PID power at 163.86C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:15 T=165.77 P=163.86 D=0.24 E=-1.91 I=-246.17 D=-0.07 Kd=44
+Mar 17 20:36:15 Power was 20 and is now 6.81
+Mar 17 20:36:15 161, 165.77, 0, 0
+Mar 17 20:36:16 Base PID power at 164.10C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:16 T=166.11 P=164.10 D=0.24 E=-2.01 I=-248.17 D=-0.09 Kd=44
+Mar 17 20:36:16 Power was 20 and is now 5.44
+Mar 17 20:36:16 162, 166.10, 0, 0
+Mar 17 20:36:17 Base PID power at 164.34C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:17 T=166.26 P=164.34 D=0.24 E=-1.91 I=-250.09 D=0.09 Kd=44
+Mar 17 20:36:17 Power was 20 and is now 13.92
+Mar 17 20:36:17 163, 166.25, 0, 0
+Mar 17 20:36:18 Base PID power at 164.58C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:18 T=166.30 P=164.58 D=0.24 E=-1.71 I=-251.80 D=0.20 Kd=44
+Mar 17 20:36:18 Power was 20 and is now 19.45
+Mar 17 20:36:18 164, 166.29, 0, 0
+Mar 17 20:36:19 Base PID power at 164.83C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:19 T=166.44 P=164.83 D=0.24 E=-1.61 I=-253.42 D=0.10 Kd=44
+Mar 17 20:36:19 Power was 20 and is now 15.44
+Mar 17 20:36:19 165, 166.44, 0, 0
+Mar 17 20:36:20 Base PID power at 165.07C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:20 T=166.51 P=165.07 D=0.24 E=-1.44 I=-254.86 D=0.17 Kd=44
+Mar 17 20:36:20 Power was 20 and is now 19.35
+Mar 17 20:36:20 166, 166.50, 0, 0
+Mar 17 20:36:21 Base PID power at 165.31C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:21 T=166.50 P=165.31 D=0.24 E=-1.19 I=-256.04 D=0.25 Kd=44
+Mar 17 20:36:21 Power was 20 and is now 23.81
+Mar 17 20:36:21 167, 166.49, 0, 0
+Mar 17 20:36:22 Base PID power at 165.55C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:22 T=166.33 P=165.55 D=0.24 E=-0.78 I=-256.82 D=0.41 Kd=44
+Mar 17 20:36:22 Power was 20 and is now 32.26
+Mar 17 20:36:22 168, 166.33, 0, 0
+Mar 17 20:36:23 Base PID power at 165.80C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:23 T=166.29 P=165.80 D=0.24 E=-0.49 I=-257.31 D=0.29 Kd=44
+Mar 17 20:36:23 Power was 20 and is now 28.04
+Mar 17 20:36:23 169, 166.28, 0, 0
+Mar 17 20:36:24 Base PID power at 166.04C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:24 T=166.21 P=166.04 D=0.24 E=-0.17 I=-257.49 D=0.32 Kd=44
+Mar 17 20:36:24 Power was 20 and is now 30.86
+Mar 17 20:36:24 170, 166.20, 0, 0
+Mar 17 20:36:25 Base PID power at 166.28C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:25 T=166.32 P=166.28 D=0.24 E=-0.03 I=-257.52 D=0.14 Kd=44
+Mar 17 20:36:25 Power was 20 and is now 23.31
+Mar 17 20:36:25 171, 166.31, 0, 0
+Mar 17 20:36:26 Base PID power at 166.52C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:26 T=166.36 P=166.52 D=0.24 E=0.16 I=-257.36 D=0.20 Kd=44
+Mar 17 20:36:26 Power was 20 and is now 26.51
+Mar 17 20:36:26 172, 166.35, 0, 0
+Mar 17 20:36:27 Base PID power at 166.76C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:27 T=166.61 P=166.76 D=0.24 E=0.15 I=-257.20 D=-0.01 Kd=44
+Mar 17 20:36:27 Power was 20 and is now 17.21
+Mar 17 20:36:27 173, 166.61, 0, 0
+Mar 17 20:36:28 Base PID power at 167.01C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:28 T=166.84 P=167.01 D=0.24 E=0.17 I=-257.04 D=0.02 Kd=44
+Mar 17 20:36:28 Power was 20 and is now 18.55
+Mar 17 20:36:28 174, 166.83, 0, 0
+Mar 17 20:36:29 Base PID power at 167.25C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:29 T=167.17 P=167.25 D=0.24 E=0.08 I=-256.96 D=-0.09 Kd=44
+Mar 17 20:36:29 Power was 20 and is now 13.63
+Mar 17 20:36:29 175, 167.16, 0, 0
+Mar 17 20:36:30 Base PID power at 167.49C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:30 T=167.43 P=167.49 D=0.24 E=0.06 I=-256.89 D=-0.02 Kd=44
+Mar 17 20:36:30 Power was 20 and is now 16.78
+Mar 17 20:36:30 176, 167.42, 0, 0
+Mar 17 20:36:31 Base PID power at 167.73C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:31 T=167.67 P=167.73 D=0.24 E=0.07 I=-256.83 D=0.01 Kd=44
+Mar 17 20:36:31 Power was 20 and is now 17.82
+Mar 17 20:36:31 177, 167.66, 0, 0
+Mar 17 20:36:32 Base PID power at 167.98C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:32 T=167.93 P=167.98 D=0.24 E=0.05 I=-256.77 D=-0.02 Kd=44
+Mar 17 20:36:32 Power was 20 and is now 16.78
+Mar 17 20:36:32 178, 167.92, 0, 0
+Mar 17 20:36:33 Base PID power at 168.22C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:33 T=168.24 P=168.22 D=0.24 E=-0.02 I=-256.79 D=-0.07 Kd=44
+Mar 17 20:36:33 Power was 20 and is now 14.31
+Mar 17 20:36:33 179, 168.23, 0, 0
+Mar 17 20:36:34 Base PID power at 168.46C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 20:36:34 T=168.40 P=168.46 D=0.24 E=0.06 I=-256.73 D=0.08 Kd=44
+Mar 17 20:36:34 Power was 20 and is now 21.23
+Mar 17 20:36:34 180, 168.39, 0, 0
+Mar 17 20:36:35 Base PID power at 168.70C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:35 T=168.39 P=168.70 D=0.24 E=0.31 I=-256.42 D=0.25 Kd=44
+Mar 17 20:36:35 Power was 22 and is now 30.95
+Mar 17 20:36:35 181, 168.39, 0, 0
+Mar 17 20:36:36 Base PID power at 168.94C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:36 T=168.32 P=168.94 D=0.24 E=0.62 I=-255.80 D=0.31 Kd=44
+Mar 17 20:36:36 Power was 22 and is now 34.20
+Mar 17 20:36:36 182, 168.32, 0, 0
+Mar 17 20:36:37 Base PID power at 169.19C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:37 T=168.29 P=169.19 D=0.24 E=0.89 I=-254.90 D=0.27 Kd=44
+Mar 17 20:36:37 Power was 22 and is now 33.22
+Mar 17 20:36:37 183, 168.29, 0, 0
+Mar 17 20:36:38 Base PID power at 169.43C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:38 T=168.33 P=169.43 D=0.24 E=1.10 I=-253.80 D=0.21 Kd=44
+Mar 17 20:36:38 Power was 22 and is now 30.83
+Mar 17 20:36:38 184, 168.32, 0, 0
+Mar 17 20:36:39 Base PID power at 169.67C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:39 T=168.41 P=169.67 D=0.24 E=1.26 I=-252.54 D=0.16 Kd=44
+Mar 17 20:36:39 Power was 22 and is now 29.06
+Mar 17 20:36:39 185, 168.41, 0, 0
+Mar 17 20:36:40 Base PID power at 169.91C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:40 T=168.62 P=169.91 D=0.24 E=1.29 I=-251.25 D=0.03 Kd=44
+Mar 17 20:36:40 Power was 22 and is now 23.33
+Mar 17 20:36:40 186, 168.62, 0, 0
+Mar 17 20:36:41 Base PID power at 170.16C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:41 T=168.85 P=170.16 D=0.24 E=1.30 I=-249.95 D=0.01 Kd=44
+Mar 17 20:36:41 Power was 22 and is now 22.63
+Mar 17 20:36:41 187, 168.85, 0, 0
+Mar 17 20:36:42 Base PID power at 170.40C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:42 T=169.07 P=170.40 D=0.24 E=1.32 I=-248.63 D=0.02 Kd=44
+Mar 17 20:36:42 Power was 22 and is now 23.12
+Mar 17 20:36:42 188, 169.07, 0, 0
+Mar 17 20:36:43 Base PID power at 170.64C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:43 T=169.35 P=170.64 D=0.24 E=1.29 I=-247.34 D=-0.03 Kd=44
+Mar 17 20:36:43 Power was 22 and is now 20.57
+Mar 17 20:36:43 189, 169.35, 0, 0
+Mar 17 20:36:44 Base PID power at 170.88C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:44 T=169.75 P=170.88 D=0.24 E=1.14 I=-246.20 D=-0.15 Kd=44
+Mar 17 20:36:44 Power was 22 and is now 15.12
+Mar 17 20:36:44 190, 169.74, 0, 0
+Mar 17 20:36:45 Base PID power at 171.12C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:45 T=170.19 P=171.12 D=0.24 E=0.93 I=-245.27 D=-0.20 Kd=44
+Mar 17 20:36:45 Power was 22 and is now 12.43
+Mar 17 20:36:45 191, 170.19, 0, 0
+Mar 17 20:36:46 Base PID power at 171.37C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:46 T=170.42 P=171.37 D=0.24 E=0.95 I=-244.32 D=0.02 Kd=44
+Mar 17 20:36:46 Power was 22 and is now 22.12
+Mar 17 20:36:46 192, 170.41, 0, 0
+Mar 17 20:36:47 Base PID power at 171.61C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:47 T=170.43 P=171.61 D=0.24 E=1.18 I=-243.14 D=0.23 Kd=44
+Mar 17 20:36:47 Power was 22 and is now 32.22
+Mar 17 20:36:47 193, 170.42, 0, 0
+Mar 17 20:36:48 Base PID power at 171.85C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:48 T=170.30 P=171.85 D=0.24 E=1.55 I=-241.59 D=0.37 Kd=44
+Mar 17 20:36:48 Power was 22 and is now 38.96
+Mar 17 20:36:48 194, 170.30, 0, 0
+Mar 17 20:36:49 Base PID power at 172.09C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:49 T=170.37 P=172.09 D=0.24 E=1.73 I=-239.86 D=0.18 Kd=44
+Mar 17 20:36:49 Power was 22 and is now 30.83
+Mar 17 20:36:49 195, 170.36, 0, 0
+Mar 17 20:36:50 Base PID power at 172.34C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:50 T=170.68 P=172.34 D=0.24 E=1.66 I=-238.20 D=-0.07 Kd=44
+Mar 17 20:36:50 Power was 22 and is now 19.96
+Mar 17 20:36:50 196, 170.67, 0, 0
+Mar 17 20:36:51 Base PID power at 172.58C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:51 T=171.02 P=172.58 D=0.24 E=1.55 I=-236.65 D=-0.11 Kd=44
+Mar 17 20:36:51 Power was 22 and is now 18.04
+Mar 17 20:36:51 197, 171.02, 0, 0
+Mar 17 20:36:52 Base PID power at 172.82C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:52 T=171.20 P=172.82 D=0.24 E=1.62 I=-235.04 D=0.06 Kd=44
+Mar 17 20:36:52 Power was 22 and is now 25.63
+Mar 17 20:36:52 198, 171.20, 0, 0
+Mar 17 20:36:53 Base PID power at 173.06C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:53 T=171.12 P=173.06 D=0.24 E=1.94 I=-233.09 D=0.33 Kd=44
+Mar 17 20:36:53 Power was 22 and is now 38.00
+Mar 17 20:36:53 199, 171.11, 0, 0
+Mar 17 20:36:54 Base PID power at 173.30C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:54 T=170.96 P=173.30 D=0.24 E=2.35 I=-230.74 D=0.40 Kd=44
+Mar 17 20:36:54 Power was 22 and is now 42.10
+Mar 17 20:36:54 200, 170.95, 0, 0
+Mar 17 20:36:55 Base PID power at 173.55C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:55 T=170.93 P=173.55 D=0.24 E=2.62 I=-228.13 D=0.27 Kd=44
+Mar 17 20:36:55 Power was 22 and is now 36.78
+Mar 17 20:36:55 201, 170.93, 0, 0
+Mar 17 20:36:56 Base PID power at 173.79C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:56 T=171.10 P=173.79 D=0.24 E=2.69 I=-225.44 D=0.07 Kd=44
+Mar 17 20:36:56 Power was 22 and is now 28.19
+Mar 17 20:36:56 202, 171.10, 0, 0
+Mar 17 20:36:57 Base PID power at 174.03C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:57 T=171.53 P=174.03 D=0.24 E=2.50 I=-222.95 D=-0.19 Kd=44
+Mar 17 20:36:57 Power was 22 and is now 16.45
+Mar 17 20:36:57 203, 171.53, 0, 0
+Mar 17 20:36:58 Base PID power at 174.27C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:58 T=172.04 P=174.27 D=0.24 E=2.23 I=-220.72 D=-0.26 Kd=44
+Mar 17 20:36:58 Power was 22 and is now 12.66
+Mar 17 20:36:58 204, 172.04, 0, 0
+Mar 17 20:36:59 Base PID power at 174.52C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:36:59 T=172.55 P=174.52 D=0.24 E=1.97 I=-218.75 D=-0.27 Kd=44
+Mar 17 20:36:59 Power was 22 and is now 12.01
+Mar 17 20:36:59 205, 172.54, 0, 0
+Mar 17 20:37:00 Base PID power at 174.76C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:00 T=172.89 P=174.76 D=0.24 E=1.86 I=-216.88 D=-0.10 Kd=44
+Mar 17 20:37:00 Power was 22 and is now 19.07
+Mar 17 20:37:00 206, 172.89, 0, 0
+Mar 17 20:37:01 Base PID power at 175.00C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:01 T=173.18 P=175.00 D=0.24 E=1.82 I=-215.07 D=-0.04 Kd=44
+Mar 17 20:37:01 Power was 22 and is now 21.54
+Mar 17 20:37:01 207, 173.18, 0, 0
+Mar 17 20:37:02 Base PID power at 175.24C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:02 T=173.29 P=175.24 D=0.24 E=1.96 I=-213.11 D=0.14 Kd=44
+Mar 17 20:37:02 Power was 22 and is now 29.74
+Mar 17 20:37:02 208, 173.28, 0, 0
+Mar 17 20:37:03 Base PID power at 175.48C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:03 T=173.27 P=175.48 D=0.24 E=2.21 I=-210.90 D=0.26 Kd=44
+Mar 17 20:37:03 Power was 22 and is now 35.69
+Mar 17 20:37:03 209, 173.27, 0, 0
+Mar 17 20:37:04 Base PID power at 175.73C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:04 T=173.06 P=175.73 D=0.24 E=2.67 I=-208.23 D=0.45 Kd=44
+Mar 17 20:37:04 Power was 22 and is now 45.26
+Mar 17 20:37:04 210, 173.05, 0, 0
+Mar 17 20:37:05 Base PID power at 175.97C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:05 T=172.97 P=175.97 D=0.24 E=3.00 I=-205.23 D=0.33 Kd=44
+Mar 17 20:37:05 Power was 22 and is now 40.60
+Mar 17 20:37:05 211, 172.96, 0, 0
+Mar 17 20:37:06 Base PID power at 176.21C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:06 T=173.04 P=176.21 D=0.24 E=3.17 I=-202.06 D=0.17 Kd=44
+Mar 17 20:37:06 Power was 22 and is now 33.79
+Mar 17 20:37:06 212, 173.04, 0, 0
+Mar 17 20:37:07 Base PID power at 176.45C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:07 T=173.35 P=176.45 D=0.24 E=3.10 I=-198.96 D=-0.07 Kd=44
+Mar 17 20:37:07 Power was 22 and is now 23.05
+Mar 17 20:37:07 213, 173.35, 0, 0
+Mar 17 20:37:08 Base PID power at 176.70C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:08 T=173.64 P=176.70 D=0.24 E=3.06 I=-195.90 D=-0.04 Kd=44
+Mar 17 20:37:08 Power was 22 and is now 24.30
+Mar 17 20:37:08 214, 173.63, 0, 0
+Mar 17 20:37:09 Base PID power at 176.94C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:09 T=173.73 P=176.94 D=0.24 E=3.20 I=-192.70 D=0.15 Kd=44
+Mar 17 20:37:09 Power was 22 and is now 32.92
+Mar 17 20:37:09 215, 173.73, 0, 0
+Mar 17 20:37:10 Base PID power at 177.18C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:10 T=173.69 P=177.18 D=0.24 E=3.49 I=-189.21 D=0.28 Kd=44
+Mar 17 20:37:10 Power was 22 and is now 39.50
+Mar 17 20:37:10 216, 173.69, 0, 0
+Mar 17 20:37:11 Base PID power at 177.42C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:11 T=173.77 P=177.42 D=0.24 E=3.65 I=-185.56 D=0.17 Kd=44
+Mar 17 20:37:11 Power was 22 and is now 34.76
+Mar 17 20:37:11 217, 173.77, 0, 0
+Mar 17 20:37:12 Base PID power at 177.66C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:12 T=174.09 P=177.66 D=0.24 E=3.57 I=-181.99 D=-0.08 Kd=44
+Mar 17 20:37:12 Power was 22 and is now 23.80
+Mar 17 20:37:12 218, 174.09, 0, 0
+Mar 17 20:37:13 Base PID power at 177.91C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 20:37:13 T=174.58 P=177.91 D=0.24 E=3.32 I=-178.66 D=-0.25 Kd=44
+Mar 17 20:37:13 Power was 22 and is now 15.95
+Mar 17 20:37:13 219, 174.58, 0, 0
+Mar 17 20:37:14 Element duty cycle 100/100/100
+Mar 17 20:37:14 Wait for 15 seconds
+Mar 17 20:37:14 220, 175.01, 0, 0
+Mar 17 20:37:15 221, 175.32, 0, 0
+Mar 17 20:37:16 222, 175.56, 0, 0
+Mar 17 20:37:17 223, 175.84, 0, 0
+Mar 17 20:37:18 224, 176.16, 0, 0
+Mar 17 20:37:19 225, 176.34, 0, 0
+Mar 17 20:37:20 226, 176.51, 0, 0
+Mar 17 20:37:21 227, 176.82, 0, 0
+Mar 17 20:37:22 228, 177.21, 0, 0
+Mar 17 20:37:23 229, 177.73, 0, 0
+Mar 17 20:37:24 230, 178.43, 0, 0
+Mar 17 20:37:25 231, 179.46, 0, 0
+Mar 17 20:37:26 232, 180.68, 0, 0
+Mar 17 20:37:27 233, 181.80, 0, 0
+Mar 17 20:37:28 234, 182.81, 0, 0
+Mar 17 20:37:29 Finished waiting
+Mar 17 20:37:29 Bias 100/80/100
+Mar 17 20:37:29 Ramp temperature to 245C in 60 seconds
+Mar 17 20:37:29 235, 183.81, 0, 0
+Mar 17 20:37:30 Base PID power at 184.83C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:30 T=184.63 P=184.83 D=1.02 E=0.20 I=0.20 D=0.20 Kd=44
+Mar 17 20:37:30 Power was 47 and is now 56.32
+Mar 17 20:37:30 236, 184.62, 0, 0
+Mar 17 20:37:31 Base PID power at 185.85C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:31 T=185.45 P=185.85 D=1.02 E=0.40 I=0.60 D=0.19 Kd=44
+Mar 17 20:37:31 Power was 47 and is now 56.37
+Mar 17 20:37:31 237, 185.45, 0, 0
+Mar 17 20:37:32 Base PID power at 186.87C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:32 T=186.26 P=186.87 D=1.02 E=0.61 I=1.21 D=0.22 Kd=44
+Mar 17 20:37:32 Power was 47 and is now 57.77
+Mar 17 20:37:32 238, 186.25, 0, 0
+Mar 17 20:37:33 Base PID power at 187.89C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:33 T=187.35 P=187.89 D=1.02 E=0.54 I=1.76 D=-0.07 Kd=44
+Mar 17 20:37:33 Power was 47 and is now 44.94
+Mar 17 20:37:33 239, 187.34, 0, 0
+Mar 17 20:37:34 Base PID power at 188.91C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:34 T=188.56 P=188.91 D=1.02 E=0.35 I=2.11 D=-0.19 Kd=44
+Mar 17 20:37:34 Power was 47 and is now 39.43
+Mar 17 20:37:34 240, 188.55, 0, 0
+Mar 17 20:37:35 Base PID power at 189.93C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:35 T=189.73 P=189.93 D=1.02 E=0.20 I=2.31 D=-0.16 Kd=44
+Mar 17 20:37:35 Power was 47 and is now 40.50
+Mar 17 20:37:35 241, 189.73, 0, 0
+Mar 17 20:37:36 Base PID power at 190.95C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:36 T=190.81 P=190.95 D=1.02 E=0.14 I=2.44 D=-0.06 Kd=44
+Mar 17 20:37:36 Power was 47 and is now 44.71
+Mar 17 20:37:36 242, 190.81, 0, 0
+Mar 17 20:37:37 Base PID power at 191.97C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 20:37:37 T=191.77 P=191.97 D=1.02 E=0.20 I=2.64 D=0.06 Kd=44
+Mar 17 20:37:37 Power was 47 and is now 50.01
+Mar 17 20:37:37 243, 191.77, 0, 0
+Mar 17 20:37:38 Base PID power at 192.99C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:38 T=192.72 P=192.99 D=1.02 E=0.27 I=2.91 D=0.07 Kd=44
+Mar 17 20:37:38 Power was 51 and is now 54.70
+Mar 17 20:37:38 244, 192.72, 0, 0
+Mar 17 20:37:39 Base PID power at 194.01C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:39 T=193.65 P=194.01 D=1.02 E=0.36 I=3.27 D=0.09 Kd=44
+Mar 17 20:37:39 Power was 51 and is now 55.88
+Mar 17 20:37:39 245, 193.64, 0, 0
+Mar 17 20:37:40 Base PID power at 195.03C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:40 T=194.46 P=195.03 D=1.02 E=0.57 I=3.84 D=0.20 Kd=44
+Mar 17 20:37:40 Power was 51 and is now 61.15
+Mar 17 20:37:40 246, 194.46, 0, 0
+Mar 17 20:37:41 Base PID power at 196.05C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:41 T=195.06 P=196.05 D=1.02 E=0.99 I=4.82 D=0.42 Kd=44
+Mar 17 20:37:41 Power was 51 and is now 71.61
+Mar 17 20:37:41 247, 195.06, 0, 0
+Mar 17 20:37:42 Base PID power at 197.07C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:42 T=195.52 P=197.07 D=1.02 E=1.55 I=6.37 D=0.56 Kd=44
+Mar 17 20:37:42 Power was 51 and is now 78.84
+Mar 17 20:37:42 248, 195.52, 0, 0
+Mar 17 20:37:43 Base PID power at 198.09C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:43 T=196.05 P=198.09 D=1.02 E=2.04 I=8.42 D=0.49 Kd=44
+Mar 17 20:37:43 Power was 51 and is now 76.94
+Mar 17 20:37:43 249, 196.04, 0, 0
+Mar 17 20:37:44 Base PID power at 199.11C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 20:37:44 T=196.75 P=199.11 D=1.02 E=2.36 I=10.78 D=0.32 Kd=44
+Mar 17 20:37:44 Power was 51 and is now 69.69
+Mar 17 20:37:44 250, 196.75, 0, 0
+Mar 17 20:37:45 Base PID power at 200.13C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 20:37:45 T=197.51 P=200.13 D=1.02 E=2.61 I=13.39 D=0.26 Kd=44
+Mar 17 20:37:45 Power was 50 and is now 66.62
+Mar 17 20:37:45 251, 197.51, 0, 0
+Mar 17 20:37:46 Base PID power at 201.15C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 20:37:46 T=198.41 P=201.15 D=1.02 E=2.74 I=16.13 D=0.13 Kd=44
+Mar 17 20:37:46 Power was 50 and is now 61.21
+Mar 17 20:37:46 252, 198.40, 0, 0
+Mar 17 20:37:47 Base PID power at 202.17C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 20:37:47 T=199.40 P=202.17 D=1.02 E=2.77 I=18.90 D=0.02 Kd=44
+Mar 17 20:37:47 Power was 50 and is now 56.77
+Mar 17 20:37:47 253, 199.40, 0, 0
+Mar 17 20:37:48 Base PID power at 203.19C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 20:37:48 T=200.44 P=203.19 D=1.02 E=2.74 I=21.64 D=-0.02 Kd=44
+Mar 17 20:37:48 Power was 50 and is now 54.79
+Mar 17 20:37:48 254, 200.44, 0, 0
+Mar 17 20:37:49 Base PID power at 204.21C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 20:37:49 T=201.21 P=204.21 D=1.02 E=3.00 I=24.64 D=0.26 Kd=44
+Mar 17 20:37:49 Power was 50 and is now 67.50
+Mar 17 20:37:49 255, 201.20, 0, 0
+Mar 17 20:37:50 Base PID power at 205.23C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:50 T=201.73 P=205.23 D=1.02 E=3.49 I=28.14 D=0.49 Kd=44
+Mar 17 20:37:50 Power was 53 and is now 81.99
+Mar 17 20:37:50 256, 201.73, 0, 0
+Mar 17 20:37:51 Base PID power at 206.25C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:51 T=202.33 P=206.25 D=1.02 E=3.92 I=32.06 D=0.43 Kd=44
+Mar 17 20:37:51 Power was 53 and is now 79.95
+Mar 17 20:37:51 257, 202.32, 0, 0
+Mar 17 20:37:52 Base PID power at 207.27C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:52 T=203.29 P=207.27 D=1.02 E=3.97 I=36.03 D=0.05 Kd=44
+Mar 17 20:37:52 Power was 53 and is now 63.60
+Mar 17 20:37:52 258, 203.29, 0, 0
+Mar 17 20:37:53 Base PID power at 208.29C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:53 T=204.33 P=208.29 D=1.02 E=3.96 I=39.99 D=-0.01 Kd=44
+Mar 17 20:37:53 Power was 53 and is now 60.72
+Mar 17 20:37:53 259, 204.32, 0, 0
+Mar 17 20:37:54 Base PID power at 209.31C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:54 T=205.31 P=209.31 D=1.02 E=4.00 I=43.99 D=0.04 Kd=44
+Mar 17 20:37:54 Power was 53 and is now 63.25
+Mar 17 20:37:54 260, 205.30, 0, 0
+Mar 17 20:37:55 Base PID power at 210.33C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:55 T=205.81 P=210.33 D=1.02 E=4.52 I=48.51 D=0.52 Kd=44
+Mar 17 20:37:55 Power was 53 and is now 83.00
+Mar 17 20:37:55 261, 205.80, 0, 0
+Mar 17 20:37:56 Base PID power at 211.35C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:56 T=206.24 P=211.35 D=1.02 E=5.10 I=53.61 D=0.59 Kd=44
+Mar 17 20:37:56 Power was 53 and is now 83.00
+Mar 17 20:37:56 262, 206.24, 0, 0
+Mar 17 20:37:57 Base PID power at 212.37C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:57 T=206.74 P=212.37 D=1.02 E=5.63 I=59.24 D=0.52 Kd=44
+Mar 17 20:37:57 Power was 53 and is now 83.00
+Mar 17 20:37:57 263, 206.74, 0, 0
+Mar 17 20:37:58 Base PID power at 213.39C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:58 T=207.59 P=213.39 D=1.02 E=5.80 I=65.04 D=0.17 Kd=44
+Mar 17 20:37:58 Power was 53 and is now 72.86
+Mar 17 20:37:58 264, 207.58, 0, 0
+Mar 17 20:37:59 Base PID power at 214.41C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:37:59 T=208.56 P=214.41 D=1.02 E=5.85 I=70.89 D=0.05 Kd=44
+Mar 17 20:37:59 Power was 53 and is now 67.68
+Mar 17 20:37:59 265, 208.55, 0, 0
+Mar 17 20:38:00 Base PID power at 215.43C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:38:00 T=209.53 P=215.43 D=1.02 E=5.90 I=76.79 D=0.05 Kd=44
+Mar 17 20:38:00 Power was 53 and is now 67.70
+Mar 17 20:38:00 266, 209.52, 0, 0
+Mar 17 20:38:01 Base PID power at 216.45C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 20:38:01 T=210.41 P=216.45 D=1.02 E=6.04 I=82.83 D=0.14 Kd=44
+Mar 17 20:38:01 Power was 53 and is now 72.07
+Mar 17 20:38:01 267, 210.40, 0, 0
+Mar 17 20:38:02 Base PID power at 217.47C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:02 T=211.44 P=217.47 D=1.02 E=6.02 I=88.85 D=-0.02 Kd=44
+Mar 17 20:38:02 Power was 56 and is now 68.23
+Mar 17 20:38:02 268, 211.44, 0, 0
+Mar 17 20:38:03 Base PID power at 218.49C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:03 T=212.40 P=218.49 D=1.02 E=6.09 I=94.94 D=0.07 Kd=44
+Mar 17 20:38:03 Power was 56 and is now 72.06
+Mar 17 20:38:03 269, 212.39, 0, 0
+Mar 17 20:38:04 Base PID power at 219.50C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:04 T=213.34 P=219.50 D=1.02 E=6.17 I=101.11 D=0.08 Kd=44
+Mar 17 20:38:04 Power was 56 and is now 72.76
+Mar 17 20:38:04 270, 213.33, 0, 0
+Mar 17 20:38:05 Base PID power at 220.52C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:05 T=214.28 P=220.52 D=1.02 E=6.24 I=107.35 D=0.07 Kd=44
+Mar 17 20:38:05 Power was 56 and is now 72.79
+Mar 17 20:38:05 271, 214.28, 0, 0
+Mar 17 20:38:06 Base PID power at 221.54C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:06 T=215.40 P=221.54 D=1.02 E=6.14 I=113.49 D=-0.10 Kd=44
+Mar 17 20:38:06 Power was 56 and is now 65.11
+Mar 17 20:38:06 272, 215.40, 0, 0
+Mar 17 20:38:07 Base PID power at 222.56C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:07 T=216.71 P=222.56 D=1.02 E=5.86 I=119.35 D=-0.28 Kd=44
+Mar 17 20:38:07 Power was 56 and is now 56.42
+Mar 17 20:38:07 273, 216.70, 0, 0
+Mar 17 20:38:08 Base PID power at 223.58C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:08 T=217.82 P=223.58 D=1.02 E=5.77 I=125.12 D=-0.09 Kd=44
+Mar 17 20:38:08 Power was 56 and is now 64.80
+Mar 17 20:38:08 274, 217.81, 0, 0
+Mar 17 20:38:09 Base PID power at 224.60C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:09 T=218.73 P=224.60 D=1.02 E=5.87 I=130.99 D=0.10 Kd=44
+Mar 17 20:38:09 Power was 56 and is now 73.47
+Mar 17 20:38:09 275, 218.73, 0, 0
+Mar 17 20:38:10 Base PID power at 225.62C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:10 T=219.86 P=225.62 D=1.02 E=5.77 I=136.75 D=-0.10 Kd=44
+Mar 17 20:38:10 Power was 56 and is now 64.34
+Mar 17 20:38:10 276, 219.85, 0, 0
+Mar 17 20:38:11 Base PID power at 226.64C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:11 T=221.01 P=226.64 D=1.02 E=5.64 I=142.39 D=-0.13 Kd=44
+Mar 17 20:38:11 Power was 56 and is now 63.06
+Mar 17 20:38:11 277, 221.00, 0, 0
+Mar 17 20:38:12 Base PID power at 227.66C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:12 T=222.06 P=227.66 D=1.02 E=5.61 I=148.00 D=-0.03 Kd=44
+Mar 17 20:38:12 Power was 56 and is now 67.32
+Mar 17 20:38:12 278, 222.05, 0, 0
+Mar 17 20:38:13 Base PID power at 228.68C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 20:38:13 T=222.63 P=228.68 D=1.02 E=6.06 I=154.05 D=0.45 Kd=44
+Mar 17 20:38:13 Power was 56 and is now 86.00
+Mar 17 20:38:13 279, 222.62, 0, 0
+Mar 17 20:38:14 Base PID power at 229.70C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:14 T=223.32 P=229.70 D=1.02 E=6.38 I=160.43 D=0.32 Kd=44
+Mar 17 20:38:14 Power was 60 and is now 88.55
+Mar 17 20:38:14 280, 223.32, 0, 0
+Mar 17 20:38:15 Base PID power at 230.72C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:15 T=224.21 P=230.72 D=1.02 E=6.51 I=166.94 D=0.13 Kd=44
+Mar 17 20:38:15 Power was 60 and is now 80.51
+Mar 17 20:38:15 281, 224.21, 0, 0
+Mar 17 20:38:16 Base PID power at 231.74C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:16 T=225.11 P=231.74 D=1.02 E=6.63 I=173.58 D=0.12 Kd=44
+Mar 17 20:38:16 Power was 60 and is now 80.44
+Mar 17 20:38:16 282, 225.10, 0, 0
+Mar 17 20:38:17 Base PID power at 232.76C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:17 T=226.00 P=232.76 D=1.02 E=6.76 I=180.34 D=0.13 Kd=44
+Mar 17 20:38:17 Power was 60 and is now 81.01
+Mar 17 20:38:17 283, 225.99, 0, 0
+Mar 17 20:38:18 Base PID power at 233.78C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:18 T=226.95 P=233.78 D=1.02 E=6.83 I=187.17 D=0.07 Kd=44
+Mar 17 20:38:18 Power was 60 and is now 78.63
+Mar 17 20:38:18 284, 226.94, 0, 0
+Mar 17 20:38:19 Base PID power at 234.80C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:19 T=228.15 P=234.80 D=1.02 E=6.65 I=193.82 D=-0.18 Kd=44
+Mar 17 20:38:19 Power was 60 and is now 67.10
+Mar 17 20:38:19 285, 228.15, 0, 0
+Mar 17 20:38:20 Base PID power at 235.82C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:20 T=229.31 P=235.82 D=1.02 E=6.51 I=200.34 D=-0.14 Kd=44
+Mar 17 20:38:20 Power was 60 and is now 69.05
+Mar 17 20:38:20 286, 229.30, 0, 0
+Mar 17 20:38:21 Base PID power at 236.84C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:21 T=230.69 P=236.84 D=1.02 E=6.15 I=206.49 D=-0.36 Kd=44
+Mar 17 20:38:21 Power was 60 and is now 58.49
+Mar 17 20:38:21 287, 230.68, 0, 0
+Mar 17 20:38:22 Base PID power at 237.86C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:22 T=232.31 P=237.86 D=1.02 E=5.55 I=212.04 D=-0.60 Kd=44
+Mar 17 20:38:22 Power was 60 and is now 46.90
+Mar 17 20:38:22 288, 232.30, 0, 0
+Mar 17 20:38:23 Base PID power at 238.88C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:23 T=234.09 P=238.88 D=1.02 E=4.80 I=216.84 D=-0.76 Kd=44
+Mar 17 20:38:23 Power was 60 and is now 38.39
+Mar 17 20:38:23 289, 234.08, 0, 0
+Mar 17 20:38:24 Base PID power at 239.90C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:24 T=235.54 P=239.90 D=1.02 E=4.36 I=221.20 D=-0.43 Kd=44
+Mar 17 20:38:24 Power was 60 and is now 51.99
+Mar 17 20:38:24 290, 235.53, 0, 0
+Mar 17 20:38:25 Base PID power at 240.92C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 20:38:25 T=236.24 P=240.92 D=1.02 E=4.68 I=225.89 D=0.32 Kd=44
+Mar 17 20:38:25 Power was 60 and is now 85.70
+Mar 17 20:38:25 291, 236.23, 0, 0
+Mar 17 20:38:26 Base PID power at 241.94C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:26 T=236.75 P=241.94 D=1.02 E=5.19 I=231.07 D=0.50 Kd=44
+Mar 17 20:38:26 Power was 63 and is now 93.00
+Mar 17 20:38:26 292, 236.75, 0, 0
+Mar 17 20:38:27 Base PID power at 242.96C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:27 T=237.17 P=242.96 D=1.02 E=5.79 I=236.87 D=0.61 Kd=44
+Mar 17 20:38:27 Power was 63 and is now 93.00
+Mar 17 20:38:27 293, 237.16, 0, 0
+Mar 17 20:38:28 Base PID power at 243.98C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:28 T=237.88 P=243.98 D=1.02 E=6.10 I=242.96 D=0.30 Kd=44
+Mar 17 20:38:28 Power was 63 and is now 90.91
+Mar 17 20:38:28 294, 237.88, 0, 0
+Mar 17 20:38:29 Base PID power at 245.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:29 T=238.54 P=245.00 D=1.02 E=6.46 I=249.42 D=0.37 Kd=44
+Mar 17 20:38:29 Power was 63 and is now 93.00
+Mar 17 20:38:29 295, 238.53, 0, 0
+Mar 17 20:38:30 Base PID power at 246.02C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:30 T=239.66 P=246.02 D=1.02 E=6.36 I=255.78 D=-0.11 Kd=44
+Mar 17 20:38:30 Power was 63 and is now 73.55
+Mar 17 20:38:30 296, 239.66, 0, 0
+Mar 17 20:38:31 Base PID power at 247.04C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:31 T=241.16 P=247.04 D=1.02 E=5.88 I=261.66 D=-0.47 Kd=44
+Mar 17 20:38:31 Power was 63 and is now 56.65
+Mar 17 20:38:31 297, 241.15, 0, 0
+Mar 17 20:38:32 Base PID power at 248.06C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:32 T=242.52 P=248.06 D=1.02 E=5.54 I=267.20 D=-0.35 Kd=44
+Mar 17 20:38:32 Power was 63 and is now 61.48
+Mar 17 20:38:32 298, 242.52, 0, 0
+Mar 17 20:38:33 Base PID power at 249.08C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:33 T=243.48 P=249.08 D=1.02 E=5.60 I=272.80 D=0.06 Kd=44
+Mar 17 20:38:33 Power was 63 and is now 79.65
+Mar 17 20:38:33 299, 243.48, 0, 0
+Mar 17 20:38:34 Base PID power at 250.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:34 T=244.22 P=250.10 D=1.02 E=5.88 I=278.68 D=0.28 Kd=44
+Mar 17 20:38:34 Power was 63 and is now 89.75
+Mar 17 20:38:34 300, 244.22, 0, 0
+Mar 17 20:38:35 Base PID power at 250.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 20:38:35 T=244.93 P=251.12 D=1.02 E=6.19 I=284.87 D=0.32 Kd=44
+Mar 17 20:38:35 Power was 63 and is now 92.15
+Mar 17 20:38:35 301, 244.92, 0, 0
+Mar 17 20:38:36 Maintain 250C for 25 seconds
+Mar 17 20:38:36 302, 245.64, 0, 0
+Mar 17 20:38:37 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 20:38:37 T=246.20 P=250.00 D=0.00 E=3.80 I=3.80 D=3.80 Kd=44
+Mar 17 20:38:37 Power was 18 and is now 48.00
+Mar 17 20:38:37 303, 246.19, 0, 0
+Mar 17 20:38:38 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 20:38:38 T=246.92 P=250.00 D=0.00 E=3.08 I=6.88 D=-0.73 Kd=44
+Mar 17 20:38:38 Power was 18 and is now -7.73
+Mar 17 20:38:38 304, 246.92, 0, 0
+Mar 17 20:38:39 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 20:38:39 T=247.79 P=250.00 D=0.00 E=2.21 I=9.08 D=-0.87 Kd=44
+Mar 17 20:38:39 Power was 18 and is now -12.00
+Mar 17 20:38:39 305, 247.79, 0, 0
+Mar 17 20:38:40 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 20:38:40 T=248.69 P=250.00 D=0.00 E=1.31 I=10.39 D=-0.90 Kd=44
+Mar 17 20:38:40 Power was 18 and is now -12.00
+Mar 17 20:38:40 306, 248.69, 0, 0
+Mar 17 20:38:41 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 20:38:41 T=249.51 P=250.00 D=0.00 E=0.49 I=10.88 D=-0.82 Kd=44
+Mar 17 20:38:41 Power was 18 and is now -12.00
+Mar 17 20:38:41 307, 249.51, 0, 0
+Mar 17 20:38:42 308, 250.03, 0, 0
+Mar 17 20:38:43 309, 250.33, 0, 0
+Mar 17 20:38:44 310, 250.42, 0, 0
+Mar 17 20:38:45 311, 250.84, 0, 0
+Mar 17 20:38:46 312, 251.76, 0, 0
+Mar 17 20:38:47 313, 252.86, 0, 0
+Mar 17 20:38:48 314, 253.55, 0, 0
+Mar 17 20:38:49 315, 253.74, 0, 0
+Mar 17 20:38:50 316, 253.64, 0, 0
+Mar 17 20:38:51 317, 253.58, 0, 0
+Mar 17 20:38:52 318, 253.76, 0, 0
+Mar 17 20:38:53 319, 254.12, 0, 0
+Mar 17 20:38:54 320, 254.08, 0, 0
+Mar 17 20:38:55 321, 253.87, 0, 0
+Mar 17 20:38:56 322, 253.65, 0, 0
+Mar 17 20:38:57 323, 253.77, 0, 0
+Mar 17 20:38:58 324, 253.86, 0, 0
+Mar 17 20:38:59 325, 253.77, 0, 0
+Mar 17 20:39:00 326, 253.67, 0, 0
+Mar 17 20:39:01 Finished maintaining temperature
+Mar 17 20:39:01 Stop timer
+Mar 17 20:39:01 Element duty cycle 0/0/0
+Mar 17 20:39:01 Play beep
+Mar 17 20:39:01 Wait until below 100C
+Mar 17 20:39:01 327, 253.46, 0, 0
+Mar 17 20:39:02 327, 253.28, 0, 0
+Mar 17 20:39:03 327, 252.65, 0, 0
+Mar 17 20:39:04 327, 251.85, 0, 0
+Mar 17 20:39:05 327, 250.85, 0, 0
+Mar 17 20:39:06 327, 250.26, 0, 0
+Mar 17 20:39:07 327, 250.04, 0, 0
+Mar 17 20:39:08 327, 250.09, 0, 0
+Mar 17 20:39:09 327, 250.35, 0, 0
+Mar 17 20:39:10 327, 250.53, 0, 0
+Mar 17 20:39:11 327, 250.49, 0, 0
+Mar 17 20:39:12 327, 250.20, 0, 0
+Mar 17 20:39:13 327, 249.70, 0, 0
+Mar 17 20:39:14 327, 249.33, 0, 0
+Mar 17 20:39:15 327, 248.82, 0, 0
+Mar 17 20:39:16 327, 248.13, 0, 0
+Mar 17 20:39:17 327, 247.43, 0, 0
+Mar 17 20:39:18 327, 247.00, 0, 0
+Mar 17 20:39:19 327, 246.87, 0, 0
+Mar 17 20:39:20 327, 246.82, 0, 0
+Mar 17 20:39:21 327, 246.61, 0, 0
+Mar 17 20:39:22 327, 246.21, 0, 0
+Mar 17 20:39:23 327, 245.75, 0, 0
+Mar 17 20:39:24 327, 245.27, 0, 0
+Mar 17 20:39:25 327, 244.78, 0, 0
+Mar 17 20:39:26 327, 244.32, 0, 0
+Mar 17 20:39:27 327, 243.95, 0, 0
+Mar 17 20:39:28 327, 243.65, 0, 0
+Mar 17 20:39:29 327, 243.38, 0, 0
+Mar 17 20:39:30 327, 242.97, 0, 0
+Mar 17 20:39:31 327, 242.54, 0, 0
+Mar 17 20:39:32 327, 241.80, 0, 0
+Mar 17 20:39:33 327, 240.33, 0, 0
+Mar 17 20:39:34 327, 238.20, 0, 0
+Mar 17 20:39:35 327, 235.83, 0, 0
+Mar 17 20:39:36 327, 233.74, 0, 0
+Mar 17 20:39:37 327, 231.96, 0, 0
+Mar 17 20:39:38 327, 230.66, 0, 0
+Mar 17 20:39:39 327, 229.85, 0, 0
+Mar 17 20:39:40 327, 229.40, 0, 0
+Mar 17 20:39:41 327, 229.00, 0, 0
+Mar 17 20:39:42 327, 228.35, 0, 0
+Mar 17 20:39:43 327, 227.65, 0, 0
+Mar 17 20:39:44 327, 227.35, 0, 0
+Mar 17 20:39:45 327, 227.32, 0, 0
+Mar 17 20:39:46 327, 227.25, 0, 0
+Mar 17 20:39:47 327, 226.56, 0, 0
+Mar 17 20:39:48 327, 225.76, 0, 0
+Mar 17 20:39:49 327, 224.99, 0, 0
+Mar 17 20:39:50 327, 224.33, 0, 0
+Mar 17 20:39:51 327, 223.21, 0, 0
+Mar 17 20:39:52 327, 222.06, 0, 0
+Mar 17 20:39:53 327, 220.99, 0, 0
+Mar 17 20:39:54 327, 220.67, 0, 0
+Mar 17 20:39:55 327, 220.67, 0, 0
+Mar 17 20:39:56 327, 221.08, 0, 0
+Mar 17 20:39:57 327, 221.33, 0, 0
+Mar 17 20:39:58 327, 221.23, 0, 0
+Mar 17 20:39:59 327, 220.75, 0, 0
+Mar 17 20:40:00 327, 220.01, 0, 0
+Mar 17 20:40:01 327, 219.42, 0, 0
+Mar 17 20:40:02 327, 218.83, 0, 0
+Mar 17 20:40:03 327, 218.52, 0, 0
+Mar 17 20:40:04 327, 218.23, 0, 0
+Mar 17 20:40:05 327, 217.95, 0, 0
+Mar 17 20:40:06 327, 217.36, 0, 0
+Mar 17 20:40:07 327, 216.76, 0, 0
+Mar 17 20:40:08 327, 216.44, 0, 0
+Mar 17 20:40:09 327, 216.19, 0, 0
+Mar 17 20:40:10 327, 216.08, 0, 0
+Mar 17 20:40:11 327, 215.50, 0, 0
+Mar 17 20:40:12 327, 215.06, 0, 0
+Mar 17 20:40:13 327, 214.63, 0, 0
+Mar 17 20:40:14 327, 214.53, 0, 0
+Mar 17 20:40:15 327, 214.59, 0, 0
+Mar 17 20:40:16 327, 214.25, 0, 0
+Mar 17 20:40:17 327, 213.58, 0, 0
+Mar 17 20:40:18 327, 213.04, 0, 0
+Mar 17 20:40:19 327, 213.01, 0, 0
+Mar 17 20:40:20 327, 213.33, 0, 0
+Mar 17 20:40:21 327, 213.02, 0, 0
+Mar 17 20:40:22 327, 212.50, 0, 0
+Mar 17 20:40:23 327, 211.73, 0, 0
+Mar 17 20:40:24 327, 211.38, 0, 0
+Mar 17 20:40:25 327, 210.81, 0, 0
+Mar 17 20:40:26 327, 210.06, 0, 0
+Mar 17 20:40:27 327, 209.17, 0, 0
+Mar 17 20:40:28 327, 208.73, 0, 0
+Mar 17 20:40:29 327, 208.73, 0, 0
+Mar 17 20:40:30 327, 209.00, 0, 0
+Mar 17 20:40:31 327, 208.90, 0, 0
+Mar 17 20:40:32 327, 208.53, 0, 0
+Mar 17 20:40:33 327, 208.39, 0, 0
+Mar 17 20:40:34 327, 208.15, 0, 0
+Mar 17 20:40:35 327, 207.78, 0, 0
+Mar 17 20:40:36 327, 206.94, 0, 0
+Mar 17 20:40:37 327, 206.35, 0, 0
+Mar 17 20:40:38 327, 205.82, 0, 0
+Mar 17 20:40:39 327, 205.45, 0, 0
+Mar 17 20:40:40 327, 204.80, 0, 0
+Mar 17 20:40:41 327, 202.30, 0, 0
+Mar 17 20:40:42 327, 197.04, 0, 0
+Mar 17 20:40:43 327, 190.64, 0, 0
+Mar 17 20:40:44 327, 184.48, 0, 0
+Mar 17 20:40:45 327, 179.06, 0, 0
+Mar 17 20:40:46 327, 174.72, 0, 0
+Mar 17 20:40:47 327, 171.52, 0, 0
+Mar 17 20:40:48 327, 170.16, 0, 0
+Mar 17 20:40:49 327, 169.63, 0, 0
+Mar 17 20:40:50 327, 170.07, 0, 0
+Mar 17 20:40:51 327, 170.10, 0, 0
+Mar 17 20:40:52 327, 169.79, 0, 0
+Mar 17 20:40:53 327, 168.94, 0, 0
+Mar 17 20:40:54 327, 168.89, 0, 0
+Mar 17 20:40:55 327, 168.15, 0, 0
+Mar 17 20:40:56 327, 166.81, 0, 0
+Mar 17 20:40:57 327, 164.64, 0, 0
+Mar 17 20:40:58 327, 162.66, 0, 0
+Mar 17 20:40:59 327, 161.50, 0, 0
+Mar 17 20:41:00 327, 160.71, 0, 0
+Mar 17 20:41:01 327, 159.97, 0, 0
+Mar 17 20:41:02 327, 159.69, 0, 0
+Mar 17 20:41:03 327, 160.19, 0, 0
+Mar 17 20:41:04 327, 161.67, 0, 0
+Mar 17 20:41:05 327, 162.72, 0, 0
+Mar 17 20:41:06 327, 163.06, 0, 0
+Mar 17 20:41:07 327, 162.84, 0, 0
+Mar 17 20:41:08 327, 162.50, 0, 0
+Mar 17 20:41:09 327, 162.32, 0, 0
+Mar 17 20:41:10 327, 162.30, 0, 0
+Mar 17 20:41:11 327, 162.33, 0, 0
+Mar 17 20:41:12 327, 162.08, 0, 0
+Mar 17 20:41:13 327, 161.04, 0, 0
+Mar 17 20:41:14 327, 159.61, 0, 0
+Mar 17 20:41:15 327, 158.57, 0, 0
+Mar 17 20:41:16 327, 157.61, 0, 0
+Mar 17 20:41:17 327, 156.58, 0, 0
+Mar 17 20:41:18 327, 155.14, 0, 0
+Mar 17 20:41:19 327, 153.64, 0, 0
+Mar 17 20:41:20 327, 152.05, 0, 0
+Mar 17 20:41:21 327, 150.15, 0, 0
+Mar 17 20:41:22 327, 147.92, 0, 0
+Mar 17 20:41:23 327, 146.61, 0, 0
+Mar 17 20:41:24 327, 146.20, 0, 0
+Mar 17 20:41:25 327, 147.12, 0, 0
+Mar 17 20:41:26 327, 148.38, 0, 0
+Mar 17 20:41:27 327, 149.65, 0, 0
+Mar 17 20:41:28 327, 150.63, 0, 0
+Mar 17 20:41:29 327, 151.50, 0, 0
+Mar 17 20:41:30 327, 152.03, 0, 0
+Mar 17 20:41:31 327, 152.63, 0, 0
+Mar 17 20:41:32 327, 152.31, 0, 0
+Mar 17 20:41:33 327, 151.88, 0, 0
+Mar 17 20:41:34 327, 151.28, 0, 0
+Mar 17 20:41:35 327, 151.04, 0, 0
+Mar 17 20:41:36 327, 150.71, 0, 0
+Mar 17 20:41:37 327, 150.41, 0, 0
+Mar 17 20:41:38 327, 150.41, 0, 0
+Mar 17 20:41:39 327, 150.12, 0, 0
+Mar 17 20:41:40 327, 149.00, 0, 0
+Mar 17 20:41:41 327, 146.65, 0, 0
+Mar 17 20:41:42 327, 141.97, 0, 0
+Mar 17 20:41:43 327, 132.87, 0, 0
+Mar 17 20:41:44 327, 121.27, 0, 0
+Mar 17 20:41:45 327, 110.69, 0, 0
+Mar 17 20:41:46 327, 103.90, 0, 0
+Mar 17 20:41:47 327, 99.48, 0, 0
+Mar 17 20:41:48 Cooled to desired temperature
+Mar 17 20:41:48 Play tune
+Mar 17 20:41:50 Wait until below 50C
+Mar 17 20:41:50 327, 91.46, 0, 0
+Mar 17 20:41:50 327, 91.46, 0, 0
+Mar 17 20:41:50 327, 91.46, 0, 0
+Mar 17 20:41:51 327, 89.55, 0, 0
+Mar 17 20:41:52 327, 89.12, 0, 0
+Mar 17 20:41:53 327, 89.27, 0, 0
+Mar 17 20:41:54 327, 89.06, 0, 0
+Mar 17 20:41:55 327, 87.81, 0, 0
+Mar 17 20:41:56 327, 86.17, 0, 0
+Mar 17 20:41:57 327, 84.12, 0, 0
+Mar 17 20:41:58 327, 82.09, 0, 0
+Mar 17 20:41:59 327, 80.06, 0, 0
+Mar 17 20:42:00 327, 78.47, 0, 0
+Mar 17 20:42:01 327, 77.87, 0, 0
+Mar 17 20:42:02 327, 77.88, 0, 0
+Mar 17 20:42:03 327, 78.46, 0, 0
+Mar 17 20:42:04 327, 79.14, 0, 0
+Mar 17 20:42:05 327, 80.03, 0, 0
+Mar 17 20:42:06 327, 80.02, 0, 0
+Mar 17 20:42:07 327, 78.80, 0, 0
+Mar 17 20:42:08 327, 77.08, 0, 0
+Mar 17 20:42:09 327, 75.70, 0, 0
+Mar 17 20:42:10 327, 75.20, 0, 0
+Mar 17 20:42:11 327, 75.06, 0, 0
+Mar 17 20:42:12 327, 75.02, 0, 0
+Mar 17 20:42:13 327, 74.28, 0, 0
+Mar 17 20:42:14 327, 73.72, 0, 0
+Mar 17 20:42:15 327, 73.40, 0, 0
+Mar 17 20:42:16 327, 73.54, 0, 0
+Mar 17 20:42:17 327, 73.49, 0, 0
+Mar 17 20:42:18 327, 73.68, 0, 0
+Mar 17 20:42:19 327, 74.31, 0, 0
+Mar 17 20:42:20 327, 74.61, 0, 0
+Mar 17 20:42:21 327, 74.31, 0, 0
+Mar 17 20:42:22 327, 73.05, 0, 0
+Mar 17 20:42:23 327, 72.06, 0, 0
+Mar 17 20:42:24 327, 71.65, 0, 0
+Mar 17 20:42:25 327, 71.93, 0, 0
+Mar 17 20:42:26 327, 72.10, 0, 0
+Mar 17 20:42:27 327, 71.91, 0, 0
+Mar 17 20:42:28 327, 70.99, 0, 0
+Mar 17 20:42:29 327, 69.91, 0, 0
+Mar 17 20:42:30 327, 68.95, 0, 0
+Mar 17 20:42:31 327, 68.62, 0, 0
+Mar 17 20:42:32 327, 68.38, 0, 0
+Mar 17 20:42:33 327, 68.12, 0, 0
+Mar 17 20:42:34 327, 67.71, 0, 0
+Mar 17 20:42:35 327, 68.02, 0, 0
+Mar 17 20:42:36 327, 68.34, 0, 0
+Mar 17 20:42:37 327, 68.37, 0, 0
+Mar 17 20:42:38 327, 67.42, 0, 0
+Mar 17 20:42:39 327, 66.74, 0, 0
+Mar 17 20:42:40 327, 66.46, 0, 0
+Mar 17 20:42:41 327, 66.82, 0, 0
+Mar 17 20:42:42 327, 66.24, 0, 0
+Mar 17 20:42:43 327, 65.88, 0, 0
+Mar 17 20:42:44 327, 64.59, 0, 0
+Mar 17 20:42:45 327, 63.06, 0, 0
+Mar 17 20:42:46 327, 61.48, 0, 0
+Mar 17 20:42:47 327, 60.96, 0, 0
+Mar 17 20:42:48 327, 61.39, 0, 0
+Mar 17 20:42:49 327, 62.01, 0, 0
+Mar 17 20:42:50 327, 62.15, 0, 0
+Mar 17 20:42:51 327, 62.29, 0, 0
+Mar 17 20:42:52 327, 62.13, 0, 0
+Mar 17 20:42:53 327, 62.22, 0, 0
+Mar 17 20:42:54 327, 61.89, 0, 0
+Mar 17 20:42:55 327, 61.43, 0, 0
+Mar 17 20:42:56 327, 61.18, 0, 0
+Mar 17 20:42:57 327, 61.44, 0, 0
+Mar 17 20:42:58 327, 61.82, 0, 0
+Mar 17 20:42:59 327, 61.71, 0, 0
+Mar 17 20:43:00 327, 61.33, 0, 0
+Mar 17 20:43:01 327, 60.36, 0, 0
+Mar 17 20:43:02 327, 58.79, 0, 0
+Mar 17 20:43:03 327, 57.29, 0, 0
+Mar 17 20:43:04 327, 56.56, 0, 0
+Mar 17 20:43:05 327, 56.84, 0, 0
+Mar 17 20:43:06 327, 57.41, 0, 0
+Mar 17 20:43:07 327, 57.81, 0, 0
+Mar 17 20:43:08 327, 58.11, 0, 0
+Mar 17 20:43:09 327, 57.94, 0, 0
+Mar 17 20:43:10 327, 57.95, 0, 0
+Mar 17 20:43:11 327, 58.17, 0, 0
+Mar 17 20:43:12 327, 58.66, 0, 0
+Mar 17 20:43:13 327, 59.36, 0, 0
+Mar 17 20:43:14 327, 59.81, 0, 0
+Mar 17 20:43:15 327, 59.61, 0, 0
+Mar 17 20:43:16 327, 58.98, 0, 0
+Mar 17 20:43:17 327, 58.23, 0, 0
+Mar 17 20:43:18 327, 57.68, 0, 0
+Mar 17 20:43:19 327, 57.15, 0, 0
+Mar 17 20:43:20 327, 56.72, 0, 0
+Mar 17 20:43:21 327, 56.97, 0, 0
+Mar 17 20:43:22 327, 57.20, 0, 0
+Mar 17 20:43:23 327, 57.50, 0, 0
+Mar 17 20:43:24 327, 57.61, 0, 0
+Mar 17 20:43:25 327, 57.98, 0, 0
+Mar 17 20:43:26 327, 58.05, 0, 0
+Mar 17 20:43:27 327, 58.03, 0, 0
+Mar 17 20:43:28 327, 57.83, 0, 0
+Mar 17 20:43:29 327, 58.10, 0, 0
+Mar 17 20:43:30 327, 58.78, 0, 0
+Mar 17 20:43:31 327, 59.12, 0, 0
+Mar 17 20:43:32 327, 59.23, 0, 0
+Mar 17 20:43:33 327, 59.01, 0, 0
+Mar 17 20:43:34 327, 58.72, 0, 0
+Mar 17 20:43:35 327, 58.28, 0, 0
+Mar 17 20:43:36 327, 57.44, 0, 0
+Mar 17 20:43:37 327, 56.88, 0, 0
+Mar 17 20:43:38 327, 57.03, 0, 0
+Mar 17 20:43:39 327, 57.33, 0, 0
+Mar 17 20:43:40 327, 57.57, 0, 0
+Mar 17 20:43:41 327, 57.12, 0, 0
+Mar 17 20:43:42 327, 56.53, 0, 0
+Mar 17 20:43:43 327, 56.05, 0, 0
+Mar 17 20:43:44 327, 55.58, 0, 0
+Mar 17 20:43:45 327, 54.86, 0, 0
+Mar 17 20:43:46 327, 54.06, 0, 0
+Mar 17 20:43:47 327, 53.51, 0, 0
+Mar 17 20:43:48 327, 53.53, 0, 0
+Mar 17 20:43:49 327, 54.08, 0, 0
+Mar 17 20:43:50 327, 54.41, 0, 0
+Mar 17 20:43:51 327, 54.27, 0, 0
+Mar 17 20:43:52 327, 53.50, 0, 0
+Mar 17 20:43:53 327, 52.56, 0, 0
+Mar 17 20:43:54 327, 52.16, 0, 0
+Mar 17 20:43:55 327, 52.32, 0, 0
+Mar 17 20:43:56 327, 52.72, 0, 0
+Mar 17 20:43:57 327, 52.61, 0, 0
+Mar 17 20:43:58 327, 52.18, 0, 0
+Mar 17 20:43:59 327, 51.73, 0, 0
+Mar 17 20:44:00 327, 51.75, 0, 0
+Mar 17 20:44:01 327, 51.85, 0, 0
+Mar 17 20:44:02 327, 52.20, 0, 0
+Mar 17 20:44:03 327, 52.63, 0, 0
+Mar 17 20:44:04 327, 52.54, 0, 0
+Mar 17 20:44:05 327, 51.62, 0, 0
+Mar 17 20:44:06 327, 50.29, 0, 0
+Mar 17 20:44:07 Cooled to desired temperature
+Mar 17 20:44:07 Convection fan off
+Mar 17 20:44:07 Cooling fan off
+Mar 17 20:44:07 Close door over 3 seconds
+Mar 17 20:44:07 Servo: move to 90 degrees, over 3000 ms
+Mar 17 20:44:07 
+Mar 17 20:44:10 Finished writing prefs to block 1. Seq No = 37
+Mar 17 20:47:40 X = 2170   Y = 777
+Mar 17 20:47:40 Servo: move to 90 degrees, over 1000 ms
+Mar 17 20:47:42 X = 2468   Y = 649
+Mar 17 20:47:43 X = 2142   Y = 859
+Mar 17 20:47:45 X = 1410   Y = 2185
+Mar 17 20:47:46 X = 3526   Y = 628
+Mar 17 20:47:47 X = 1491   Y = 1223
+Mar 17 20:47:52 X = 3623   Y = 584
+Mar 17 20:48:01 X = 2952   Y = 2106
+Mar 17 20:48:09 X = 3437   Y = 697
+Mar 17 20:48:10 X = 1172   Y = 3025
+Mar 17 20:48:11 X = 617   Y = 651
+Mar 17 20:48:12 X = 624   Y = 646
+Mar 17 20:48:13 X = 553   Y = 644
+Mar 17 20:48:14 X = 546   Y = 679
+Mar 17 20:48:15 X = 3548   Y = 552
+Mar 17 20:48:16 X = 596   Y = 605
+Mar 17 20:48:16 X = 631   Y = 636
+Mar 17 20:48:17 X = 605   Y = 658
+Mar 17 20:48:17 Servo: move to 120 degrees, over 1000 ms
+Mar 17 20:48:18 X = 667   Y = 737
+Mar 17 20:48:18 Servo: move to 90 degrees, over 1000 ms
+Mar 17 20:48:18 X = 609   Y = 665
+Mar 17 20:48:19 X = 584   Y = 606
+Mar 17 21:04:50 X = 2661   Y = 603
+Mar 17 21:04:56 X = 2117   Y = 2777
+Mar 17 21:04:58 X = 1964   Y = 2577
+Mar 17 21:04:58 getNextTokenFromFlash: Reading first block 240
+Mar 17 21:04:58 Deviation to abort 25C
+Mar 17 21:04:58 Maximum temperature 270C
+Mar 17 21:04:58 Maximum duty 100/85/100
+Mar 17 21:04:58 Close door over 1 seconds
+Mar 17 21:04:58 Servo: move to 90 degrees, over 1000 ms
+Mar 17 21:04:58 Convection fan on
+Mar 17 21:04:58 0, 27.17, 0, 0
+Mar 17 21:04:58 Cooling fan off
+Mar 17 21:04:58 Stop timer
+Mar 17 21:04:58 Wait until below 40C
+Mar 17 21:04:59 Cooled to desired temperature
+Mar 17 21:04:59 Element duty cycle 100/40/100
+Mar 17 21:04:59 Wait until above 75C
+Mar 17 21:04:59 0, 27.18, 0, 0
+Mar 17 21:05:00 0, 27.20, 0, 0
+Mar 17 21:05:01 0, 27.27, 0, 0
+Mar 17 21:05:02 0, 27.36, 0, 0
+Mar 17 21:05:03 0, 27.48, 0, 0
+Mar 17 21:05:04 0, 27.59, 0, 0
+Mar 17 21:05:05 0, 27.68, 0, 0
+Mar 17 21:05:06 0, 27.80, 0, 0
+Mar 17 21:05:07 0, 27.95, 0, 0
+Mar 17 21:05:08 0, 28.16, 0, 0
+Mar 17 21:05:09 0, 28.41, 0, 0
+Mar 17 21:05:10 0, 28.65, 0, 0
+Mar 17 21:05:11 0, 28.91, 0, 0
+Mar 17 21:05:12 0, 29.18, 0, 0
+Mar 17 21:05:13 0, 29.50, 0, 0
+Mar 17 21:05:14 0, 29.87, 0, 0
+Mar 17 21:05:15 0, 30.25, 0, 0
+Mar 17 21:05:16 0, 30.74, 0, 0
+Mar 17 21:05:17 0, 31.28, 0, 0
+Mar 17 21:05:18 0, 31.85, 0, 0
+Mar 17 21:05:19 0, 32.28, 0, 0
+Mar 17 21:05:20 0, 32.61, 0, 0
+Mar 17 21:05:21 0, 32.90, 0, 0
+Mar 17 21:05:22 0, 33.31, 0, 0
+Mar 17 21:05:23 0, 33.81, 0, 0
+Mar 17 21:05:24 0, 34.49, 0, 0
+Mar 17 21:05:25 0, 35.17, 0, 0
+Mar 17 21:05:26 0, 35.91, 0, 0
+Mar 17 21:05:27 0, 36.58, 0, 0
+Mar 17 21:05:28 0, 37.24, 0, 0
+Mar 17 21:05:29 0, 37.88, 0, 0
+Mar 17 21:05:30 0, 38.49, 0, 0
+Mar 17 21:05:31 0, 39.05, 0, 0
+Mar 17 21:05:32 0, 39.55, 0, 0
+Mar 17 21:05:33 0, 39.97, 0, 0
+Mar 17 21:05:34 0, 40.43, 0, 0
+Mar 17 21:05:35 0, 41.02, 0, 0
+Mar 17 21:05:36 0, 41.69, 0, 0
+Mar 17 21:05:37 0, 42.39, 0, 0
+Mar 17 21:05:38 0, 43.01, 0, 0
+Mar 17 21:05:39 0, 43.73, 0, 0
+Mar 17 21:05:40 0, 44.48, 0, 0
+Mar 17 21:05:41 0, 45.16, 0, 0
+Mar 17 21:05:42 0, 45.78, 0, 0
+Mar 17 21:05:43 0, 46.43, 0, 0
+Mar 17 21:05:44 0, 47.15, 0, 0
+Mar 17 21:05:45 0, 47.88, 0, 0
+Mar 17 21:05:46 0, 48.55, 0, 0
+Mar 17 21:05:47 0, 49.21, 0, 0
+Mar 17 21:05:48 0, 50.01, 0, 0
+Mar 17 21:05:49 0, 50.91, 0, 0
+Mar 17 21:05:50 0, 51.69, 0, 0
+Mar 17 21:05:51 0, 52.29, 0, 0
+Mar 17 21:05:52 0, 52.92, 0, 0
+Mar 17 21:05:53 0, 53.66, 0, 0
+Mar 17 21:05:54 0, 54.42, 0, 0
+Mar 17 21:05:55 0, 55.24, 0, 0
+Mar 17 21:05:56 0, 56.25, 0, 0
+Mar 17 21:05:57 0, 57.34, 0, 0
+Mar 17 21:05:58 0, 58.28, 0, 0
+Mar 17 21:05:59 0, 59.09, 0, 0
+Mar 17 21:06:00 0, 59.92, 0, 0
+Mar 17 21:06:01 0, 60.83, 0, 0
+Mar 17 21:06:02 0, 61.65, 0, 0
+Mar 17 21:06:03 0, 62.40, 0, 0
+Mar 17 21:06:04 0, 63.12, 0, 0
+Mar 17 21:06:05 0, 63.93, 0, 0
+Mar 17 21:06:06 0, 64.69, 0, 0
+Mar 17 21:06:07 0, 65.52, 0, 0
+Mar 17 21:06:08 0, 66.40, 0, 0
+Mar 17 21:06:09 0, 67.28, 0, 0
+Mar 17 21:06:10 0, 68.19, 0, 0
+Mar 17 21:06:11 0, 69.06, 0, 0
+Mar 17 21:06:12 0, 70.06, 0, 0
+Mar 17 21:06:13 0, 70.99, 0, 0
+Mar 17 21:06:14 0, 72.03, 0, 0
+Mar 17 21:06:15 0, 73.22, 0, 0
+Mar 17 21:06:16 0, 74.50, 0, 0
+Mar 17 21:06:17 Heated to desired temperature
+Mar 17 21:06:17 Initialize timer to 15 seconds
+Mar 17 21:06:17 Bias 100/85/100
+Mar 17 21:06:17 Ramp temperature to 150C in 80 seconds
+Mar 17 21:06:17 15, 75.52, 0, 0
+Mar 17 21:06:18 Base PID power at 76.45C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 21:06:18 T=76.30 P=76.45 D=0.93 E=0.15 I=0.15 D=0.15 Kd=44
+Mar 17 21:06:18 Power was 18 and is now 25.01
+Mar 17 21:06:18 16, 76.29, 0, 0
+Mar 17 21:06:19 Base PID power at 77.38C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 21:06:19 T=77.13 P=77.38 D=0.93 E=0.25 I=0.41 D=0.10 Kd=44
+Mar 17 21:06:19 Power was 18 and is now 22.99
+Mar 17 21:06:19 17, 77.12, 0, 0
+Mar 17 21:06:20 Base PID power at 78.31C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 21:06:20 T=78.23 P=78.31 D=0.93 E=0.09 I=0.49 D=-0.17 Kd=44
+Mar 17 21:06:20 Power was 18 and is now 10.88
+Mar 17 21:06:20 18, 78.22, 0, 0
+Mar 17 21:06:21 Base PID power at 79.24C:  B=6 I=0 R=11 Total=17 bias=1.08
+Mar 17 21:06:21 T=79.52 P=79.24 D=0.93 E=-0.27 I=0.22 D=-0.36 Kd=44
+Mar 17 21:06:21 Power was 18 and is now 0.94
+Mar 17 21:06:21 19, 79.51, 0, 0
+Mar 17 21:06:22 Base PID power at 80.18C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 21:06:22 T=80.79 P=80.18 D=0.93 E=-0.62 I=-0.40 D=-0.34 Kd=44
+Mar 17 21:06:22 Power was 17 and is now -0.49
+Mar 17 21:06:22 20, 80.79, 0, 0
+Mar 17 21:06:23 Base PID power at 81.11C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 21:06:23 T=81.93 P=81.11 D=0.93 E=-0.82 I=-1.21 D=-0.20 Kd=44
+Mar 17 21:06:23 Power was 17 and is now 4.76
+Mar 17 21:06:23 21, 81.92, 0, 0
+Mar 17 21:06:24 Base PID power at 82.04C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 21:06:24 T=82.78 P=82.04 D=0.93 E=-0.74 I=-1.95 D=0.08 Kd=44
+Mar 17 21:06:24 Power was 17 and is now 17.64
+Mar 17 21:06:24 22, 82.77, 0, 0
+Mar 17 21:06:25 Base PID power at 82.97C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 21:06:25 T=83.37 P=82.97 D=0.93 E=-0.40 I=-2.35 D=0.34 Kd=44
+Mar 17 21:06:25 Power was 17 and is now 30.14
+Mar 17 21:06:25 23, 83.37, 0, 0
+Mar 17 21:06:26 Base PID power at 83.90C:  B=6 I=65535 R=11 Total=16 bias=1.08
+Mar 17 21:06:26 T=83.90 P=83.90 D=0.93 E=-0.00 I=-2.36 D=0.40 Kd=44
+Mar 17 21:06:26 Power was 17 and is now 34.43
+Mar 17 21:06:26 24, 83.90, 0, 0
+Mar 17 21:06:27 Base PID power at 84.83C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:27 T=84.57 P=84.83 D=0.93 E=0.26 I=-2.10 D=0.26 Kd=44
+Mar 17 21:06:27 Power was 20 and is now 31.96
+Mar 17 21:06:27 25, 84.57, 0, 0
+Mar 17 21:06:28 Base PID power at 85.76C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:28 T=85.27 P=85.76 D=0.93 E=0.49 I=-1.61 D=0.23 Kd=44
+Mar 17 21:06:28 Power was 20 and is now 31.27
+Mar 17 21:06:28 26, 85.27, 0, 0
+Mar 17 21:06:29 Base PID power at 86.69C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:29 T=86.00 P=86.69 D=0.93 E=0.69 I=-0.92 D=0.20 Kd=44
+Mar 17 21:06:29 Power was 20 and is now 30.38
+Mar 17 21:06:29 27, 85.99, 0, 0
+Mar 17 21:06:30 Base PID power at 87.62C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:30 T=86.70 P=87.62 D=0.93 E=0.93 I=0.01 D=0.23 Kd=44
+Mar 17 21:06:30 Power was 20 and is now 31.99
+Mar 17 21:06:30 28, 86.69, 0, 0
+Mar 17 21:06:31 Base PID power at 88.55C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:31 T=87.31 P=88.55 D=0.93 E=1.24 I=1.25 D=0.32 Kd=44
+Mar 17 21:06:31 Power was 20 and is now 36.49
+Mar 17 21:06:31 29, 87.31, 0, 0
+Mar 17 21:06:32 Base PID power at 89.49C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:32 T=87.87 P=89.49 D=0.93 E=1.62 I=2.87 D=0.37 Kd=44
+Mar 17 21:06:32 Power was 20 and is now 39.73
+Mar 17 21:06:32 30, 87.86, 0, 0
+Mar 17 21:06:33 Base PID power at 90.42C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:33 T=88.57 P=90.42 D=0.93 E=1.85 I=4.72 D=0.23 Kd=44
+Mar 17 21:06:33 Power was 20 and is now 33.81
+Mar 17 21:06:33 31, 88.57, 0, 0
+Mar 17 21:06:34 Base PID power at 91.35C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:34 T=89.50 P=91.35 D=0.93 E=1.85 I=6.56 D=0.00 Kd=44
+Mar 17 21:06:34 Power was 20 and is now 23.79
+Mar 17 21:06:34 32, 89.50, 0, 0
+Mar 17 21:06:35 Base PID power at 92.28C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:35 T=90.41 P=92.28 D=0.93 E=1.87 I=8.43 D=0.02 Kd=44
+Mar 17 21:06:35 Power was 20 and is now 24.82
+Mar 17 21:06:35 33, 90.40, 0, 0
+Mar 17 21:06:36 Base PID power at 93.21C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:36 T=91.11 P=93.21 D=0.93 E=2.10 I=10.53 D=0.23 Kd=44
+Mar 17 21:06:36 Power was 20 and is now 34.42
+Mar 17 21:06:36 34, 91.10, 0, 0
+Mar 17 21:06:37 Base PID power at 94.14C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:37 T=91.66 P=94.14 D=0.93 E=2.48 I=13.01 D=0.38 Kd=44
+Mar 17 21:06:37 Power was 20 and is now 41.93
+Mar 17 21:06:37 35, 91.65, 0, 0
+Mar 17 21:06:38 Base PID power at 95.07C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:38 T=92.27 P=95.07 D=0.93 E=2.80 I=15.82 D=0.32 Kd=44
+Mar 17 21:06:38 Power was 20 and is now 39.92
+Mar 17 21:06:38 36, 92.26, 0, 0
+Mar 17 21:06:39 Base PID power at 96.00C:  B=7 I=65535 R=13 Total=19 bias=1.08
+Mar 17 21:06:39 T=92.96 P=96.00 D=0.93 E=3.04 I=18.86 D=0.24 Kd=44
+Mar 17 21:06:39 Power was 20 and is now 36.81
+Mar 17 21:06:39 37, 92.95, 0, 0
+Mar 17 21:06:40 Base PID power at 96.93C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:40 T=93.61 P=96.93 D=0.93 E=3.33 I=22.19 D=0.28 Kd=44
+Mar 17 21:06:40 Power was 22 and is now 41.28
+Mar 17 21:06:40 38, 93.60, 0, 0
+Mar 17 21:06:41 Base PID power at 97.86C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:41 T=94.22 P=97.86 D=0.93 E=3.64 I=25.83 D=0.31 Kd=44
+Mar 17 21:06:41 Power was 22 and is now 43.37
+Mar 17 21:06:41 39, 94.22, 0, 0
+Mar 17 21:06:42 Base PID power at 98.80C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:42 T=94.77 P=98.80 D=0.93 E=4.03 I=29.85 D=0.39 Kd=44
+Mar 17 21:06:42 Power was 22 and is now 47.44
+Mar 17 21:06:42 40, 94.76, 0, 0
+Mar 17 21:06:43 Base PID power at 99.73C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:43 T=95.49 P=99.73 D=0.93 E=4.24 I=34.09 D=0.21 Kd=44
+Mar 17 21:06:43 Power was 22 and is now 40.06
+Mar 17 21:06:43 41, 95.48, 0, 0
+Mar 17 21:06:44 Base PID power at 100.66C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:44 T=96.20 P=100.66 D=0.93 E=4.45 I=38.55 D=0.22 Kd=44
+Mar 17 21:06:44 Power was 22 and is now 40.77
+Mar 17 21:06:44 42, 96.20, 0, 0
+Mar 17 21:06:45 Base PID power at 101.59C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:45 T=96.95 P=101.59 D=0.93 E=4.64 I=43.18 D=0.19 Kd=44
+Mar 17 21:06:45 Power was 22 and is now 39.86
+Mar 17 21:06:45 43, 96.95, 0, 0
+Mar 17 21:06:46 Base PID power at 102.52C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:46 T=97.65 P=102.52 D=0.93 E=4.86 I=48.05 D=0.23 Kd=44
+Mar 17 21:06:46 Power was 22 and is now 42.17
+Mar 17 21:06:46 44, 97.65, 0, 0
+Mar 17 21:06:47 Base PID power at 103.45C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:47 T=98.60 P=103.45 D=0.93 E=4.85 I=52.90 D=-0.01 Kd=44
+Mar 17 21:06:47 Power was 22 and is now 31.72
+Mar 17 21:06:47 45, 98.59, 0, 0
+Mar 17 21:06:48 Base PID power at 104.38C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:48 T=99.66 P=104.38 D=0.93 E=4.72 I=57.62 D=-0.13 Kd=44
+Mar 17 21:06:48 Power was 22 and is now 26.14
+Mar 17 21:06:48 46, 99.66, 0, 0
+Mar 17 21:06:49 Base PID power at 105.31C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:49 T=100.72 P=105.31 D=0.93 E=4.59 I=62.21 D=-0.13 Kd=44
+Mar 17 21:06:49 Power was 22 and is now 26.08
+Mar 17 21:06:49 47, 100.72, 0, 0
+Mar 17 21:06:50 Base PID power at 106.24C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:50 T=101.60 P=106.24 D=0.93 E=4.65 I=66.86 D=0.06 Kd=44
+Mar 17 21:06:50 Power was 22 and is now 34.47
+Mar 17 21:06:50 48, 101.59, 0, 0
+Mar 17 21:06:51 Base PID power at 107.17C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:51 T=102.16 P=107.17 D=0.93 E=5.02 I=71.88 D=0.37 Kd=44
+Mar 17 21:06:51 Power was 22 and is now 49.08
+Mar 17 21:06:51 49, 102.15, 0, 0
+Mar 17 21:06:52 Base PID power at 108.11C:  B=8 I=65535 R=14 Total=21 bias=1.08
+Mar 17 21:06:52 T=102.55 P=108.11 D=0.93 E=5.55 I=77.43 D=0.54 Kd=44
+Mar 17 21:06:52 Power was 22 and is now 52.00
+Mar 17 21:06:52 50, 102.55, 0, 0
+Mar 17 21:06:53 Base PID power at 109.04C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:53 T=103.07 P=109.04 D=0.93 E=5.97 I=83.39 D=0.41 Kd=44
+Mar 17 21:06:53 Power was 25 and is now 55.00
+Mar 17 21:06:53 51, 103.07, 0, 0
+Mar 17 21:06:54 Base PID power at 109.97C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:54 T=103.95 P=109.97 D=0.93 E=6.01 I=89.41 D=0.05 Kd=44
+Mar 17 21:06:54 Power was 25 and is now 40.09
+Mar 17 21:06:54 52, 103.95, 0, 0
+Mar 17 21:06:55 Base PID power at 110.90C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:55 T=105.04 P=110.90 D=0.93 E=5.86 I=95.27 D=-0.15 Kd=44
+Mar 17 21:06:55 Power was 25 and is now 30.93
+Mar 17 21:06:55 53, 105.03, 0, 0
+Mar 17 21:06:56 Base PID power at 111.83C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:56 T=105.86 P=111.83 D=0.93 E=5.97 I=101.24 D=0.11 Kd=44
+Mar 17 21:06:56 Power was 25 and is now 42.63
+Mar 17 21:06:56 54, 105.86, 0, 0
+Mar 17 21:06:57 Base PID power at 112.76C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:57 T=106.28 P=112.76 D=0.93 E=6.48 I=107.71 D=0.51 Kd=44
+Mar 17 21:06:57 Power was 25 and is now 55.00
+Mar 17 21:06:57 55, 106.28, 0, 0
+Mar 17 21:06:58 Base PID power at 113.69C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:58 T=106.63 P=113.69 D=0.93 E=7.06 I=114.77 D=0.58 Kd=44
+Mar 17 21:06:58 Power was 25 and is now 55.00
+Mar 17 21:06:58 56, 106.63, 0, 0
+Mar 17 21:06:59 Base PID power at 114.62C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:06:59 T=106.96 P=114.62 D=0.93 E=7.67 I=122.44 D=0.61 Kd=44
+Mar 17 21:06:59 Power was 25 and is now 55.00
+Mar 17 21:06:59 57, 106.95, 0, 0
+Mar 17 21:07:00 Base PID power at 115.55C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:07:00 T=107.49 P=115.55 D=0.93 E=8.06 I=130.50 D=0.39 Kd=44
+Mar 17 21:07:00 Power was 25 and is now 55.00
+Mar 17 21:07:00 58, 107.49, 0, 0
+Mar 17 21:07:01 Base PID power at 116.48C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:07:01 T=108.01 P=116.48 D=0.93 E=8.47 I=138.97 D=0.41 Kd=44
+Mar 17 21:07:01 Power was 25 and is now 55.00
+Mar 17 21:07:01 59, 108.01, 0, 0
+Mar 17 21:07:02 Base PID power at 117.42C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:07:02 T=108.62 P=117.42 D=0.93 E=8.79 I=147.76 D=0.32 Kd=44
+Mar 17 21:07:02 Power was 25 and is now 55.00
+Mar 17 21:07:02 60, 108.62, 0, 0
+Mar 17 21:07:03 Base PID power at 118.35C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:07:03 T=109.36 P=118.35 D=0.93 E=8.99 I=156.75 D=0.19 Kd=44
+Mar 17 21:07:03 Power was 25 and is now 53.10
+Mar 17 21:07:03 61, 109.35, 0, 0
+Mar 17 21:07:04 Base PID power at 119.28C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:07:04 T=110.32 P=119.28 D=0.93 E=8.96 I=165.71 D=-0.03 Kd=44
+Mar 17 21:07:04 Power was 25 and is now 43.37
+Mar 17 21:07:04 62, 110.31, 0, 0
+Mar 17 21:07:05 Base PID power at 120.21C:  B=9 I=65535 R=16 Total=24 bias=1.08
+Mar 17 21:07:05 T=111.37 P=120.21 D=0.93 E=8.84 I=174.55 D=-0.12 Kd=44
+Mar 17 21:07:05 Power was 25 and is now 39.05
+Mar 17 21:07:05 63, 111.37, 0, 0
+Mar 17 21:07:06 Base PID power at 121.14C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:06 T=112.38 P=121.14 D=0.93 E=8.76 I=183.31 D=-0.08 Kd=44
+Mar 17 21:07:06 Power was 29 and is now 44.83
+Mar 17 21:07:06 64, 112.38, 0, 0
+Mar 17 21:07:07 Base PID power at 122.07C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:07 T=113.12 P=122.07 D=0.93 E=8.95 I=192.25 D=0.19 Kd=44
+Mar 17 21:07:07 Power was 29 and is now 57.08
+Mar 17 21:07:07 65, 113.12, 0, 0
+Mar 17 21:07:08 Base PID power at 123.00C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:08 T=113.65 P=123.00 D=0.93 E=9.35 I=201.60 D=0.40 Kd=44
+Mar 17 21:07:08 Power was 29 and is now 59.00
+Mar 17 21:07:08 66, 113.65, 0, 0
+Mar 17 21:07:09 Base PID power at 123.93C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:09 T=114.07 P=123.93 D=0.93 E=9.86 I=211.46 D=0.51 Kd=44
+Mar 17 21:07:09 Power was 29 and is now 59.00
+Mar 17 21:07:09 67, 114.07, 0, 0
+Mar 17 21:07:10 Base PID power at 124.86C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:10 T=114.69 P=124.86 D=0.93 E=10.18 I=221.64 D=0.32 Kd=44
+Mar 17 21:07:10 Power was 29 and is now 59.00
+Mar 17 21:07:10 68, 114.68, 0, 0
+Mar 17 21:07:11 Base PID power at 125.79C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:11 T=115.61 P=125.79 D=0.93 E=10.18 I=231.82 D=0.01 Kd=44
+Mar 17 21:07:11 Power was 29 and is now 52.04
+Mar 17 21:07:11 69, 115.60, 0, 0
+Mar 17 21:07:12 Base PID power at 126.73C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:12 T=116.67 P=126.73 D=0.93 E=10.06 I=241.88 D=-0.12 Kd=44
+Mar 17 21:07:12 Power was 29 and is now 46.07
+Mar 17 21:07:12 70, 116.66, 0, 0
+Mar 17 21:07:13 Base PID power at 127.66C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:13 T=117.60 P=127.66 D=0.93 E=10.06 I=251.94 D=-0.00 Kd=44
+Mar 17 21:07:13 Power was 29 and is now 51.58
+Mar 17 21:07:13 71, 117.59, 0, 0
+Mar 17 21:07:14 Base PID power at 128.59C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:14 T=118.39 P=128.59 D=0.93 E=10.19 I=262.13 D=0.13 Kd=44
+Mar 17 21:07:14 Power was 29 and is now 57.91
+Mar 17 21:07:14 72, 118.39, 0, 0
+Mar 17 21:07:15 Base PID power at 129.52C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:15 T=119.07 P=129.52 D=0.93 E=10.45 I=272.59 D=0.26 Kd=44
+Mar 17 21:07:15 Power was 29 and is now 59.00
+Mar 17 21:07:15 73, 119.06, 0, 0
+Mar 17 21:07:16 Base PID power at 130.45C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:16 T=119.82 P=130.45 D=0.93 E=10.63 I=283.22 D=0.18 Kd=44
+Mar 17 21:07:16 Power was 29 and is now 59.00
+Mar 17 21:07:16 74, 119.81, 0, 0
+Mar 17 21:07:17 Base PID power at 131.38C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:17 T=120.76 P=131.38 D=0.93 E=10.62 I=293.84 D=-0.01 Kd=44
+Mar 17 21:07:17 Power was 29 and is now 52.83
+Mar 17 21:07:17 75, 120.75, 0, 0
+Mar 17 21:07:18 Base PID power at 132.31C:  B=10 I=65535 R=18 Total=27 bias=1.08
+Mar 17 21:07:18 T=121.76 P=132.31 D=0.93 E=10.56 I=304.39 D=-0.07 Kd=44
+Mar 17 21:07:18 Power was 29 and is now 50.21
+Mar 17 21:07:18 76, 121.75, 0, 0
+Mar 17 21:07:19 Base PID power at 133.24C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:19 T=122.72 P=133.24 D=0.93 E=10.52 I=314.92 D=-0.03 Kd=44
+Mar 17 21:07:19 Power was 32 and is now 54.81
+Mar 17 21:07:19 77, 122.71, 0, 0
+Mar 17 21:07:20 Base PID power at 134.17C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:20 T=123.64 P=134.17 D=0.93 E=10.54 I=325.46 D=0.01 Kd=44
+Mar 17 21:07:20 Power was 32 and is now 56.91
+Mar 17 21:07:20 78, 123.63, 0, 0
+Mar 17 21:07:21 Base PID power at 135.10C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:21 T=124.59 P=135.10 D=0.93 E=10.51 I=335.97 D=-0.03 Kd=44
+Mar 17 21:07:21 Power was 32 and is now 55.18
+Mar 17 21:07:21 79, 124.59, 0, 0
+Mar 17 21:07:22 Base PID power at 136.04C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:22 T=125.50 P=136.04 D=0.93 E=10.54 I=346.50 D=0.03 Kd=44
+Mar 17 21:07:22 Power was 32 and is now 57.69
+Mar 17 21:07:22 80, 125.49, 0, 0
+Mar 17 21:07:23 Base PID power at 136.97C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:23 T=126.31 P=136.97 D=0.93 E=10.66 I=357.16 D=0.12 Kd=44
+Mar 17 21:07:23 Power was 32 and is now 62.00
+Mar 17 21:07:23 81, 126.30, 0, 0
+Mar 17 21:07:24 Base PID power at 137.90C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:24 T=127.11 P=137.90 D=0.93 E=10.79 I=367.95 D=0.13 Kd=44
+Mar 17 21:07:24 Power was 32 and is now 62.00
+Mar 17 21:07:24 82, 127.10, 0, 0
+Mar 17 21:07:25 Base PID power at 138.83C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:25 T=128.08 P=138.83 D=0.93 E=10.75 I=378.70 D=-0.04 Kd=44
+Mar 17 21:07:25 Power was 32 and is now 55.51
+Mar 17 21:07:25 83, 128.07, 0, 0
+Mar 17 21:07:26 Base PID power at 139.76C:  B=11 I=65535 R=20 Total=30 bias=1.08
+Mar 17 21:07:26 T=129.00 P=139.76 D=0.93 E=10.76 I=389.46 D=0.01 Kd=44
+Mar 17 21:07:26 Power was 32 and is now 57.72
+Mar 17 21:07:26 84, 129.00, 0, 0
+Mar 17 21:07:27 Base PID power at 140.69C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 21:07:27 T=129.69 P=140.69 D=0.93 E=11.00 I=400.46 D=0.24 Kd=44
+Mar 17 21:07:27 Power was 31 and is now 61.00
+Mar 17 21:07:27 85, 129.68, 0, 0
+Mar 17 21:07:28 Base PID power at 141.62C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 21:07:28 T=130.24 P=141.62 D=0.93 E=11.38 I=411.84 D=0.38 Kd=44
+Mar 17 21:07:28 Power was 31 and is now 61.00
+Mar 17 21:07:28 86, 130.24, 0, 0
+Mar 17 21:07:29 Base PID power at 142.55C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 21:07:29 T=131.02 P=142.55 D=0.93 E=11.53 I=423.37 D=0.16 Kd=44
+Mar 17 21:07:29 Power was 31 and is now 61.00
+Mar 17 21:07:29 87, 131.01, 0, 0
+Mar 17 21:07:30 Base PID power at 143.48C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 21:07:30 T=132.05 P=143.48 D=0.93 E=11.43 I=434.80 D=-0.10 Kd=44
+Mar 17 21:07:30 Power was 31 and is now 53.73
+Mar 17 21:07:30 88, 132.05, 0, 0
+Mar 17 21:07:31 Base PID power at 144.41C:  B=11 I=65534 R=20 Total=29 bias=1.08
+Mar 17 21:07:31 T=133.06 P=144.41 D=0.93 E=11.36 I=446.16 D=-0.07 Kd=44
+Mar 17 21:07:31 Power was 31 and is now 54.91
+Mar 17 21:07:31 89, 133.05, 0, 0
+Mar 17 21:07:32 Base PID power at 145.35C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:32 T=133.81 P=145.35 D=0.93 E=11.54 I=457.69 D=0.18 Kd=44
+Mar 17 21:07:32 Power was 34 and is now 64.00
+Mar 17 21:07:32 90, 133.80, 0, 0
+Mar 17 21:07:33 Base PID power at 146.28C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:33 T=134.41 P=146.28 D=0.93 E=11.87 I=469.56 D=0.33 Kd=44
+Mar 17 21:07:33 Power was 34 and is now 64.00
+Mar 17 21:07:33 91, 134.40, 0, 0
+Mar 17 21:07:34 Base PID power at 147.21C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:34 T=135.03 P=147.21 D=0.93 E=12.17 I=481.74 D=0.30 Kd=44
+Mar 17 21:07:34 Power was 34 and is now 64.00
+Mar 17 21:07:34 92, 135.03, 0, 0
+Mar 17 21:07:35 Base PID power at 148.14C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:35 T=135.89 P=148.14 D=0.93 E=12.25 I=493.99 D=0.08 Kd=44
+Mar 17 21:07:35 Power was 34 and is now 64.00
+Mar 17 21:07:35 93, 135.88, 0, 0
+Mar 17 21:07:36 Base PID power at 149.07C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:36 T=136.97 P=149.07 D=0.93 E=12.10 I=506.09 D=-0.15 Kd=44
+Mar 17 21:07:36 Power was 34 and is now 56.60
+Mar 17 21:07:36 94, 136.97, 0, 0
+Mar 17 21:07:37 Base PID power at 150.00C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:37 T=138.05 P=150.00 D=0.93 E=11.95 I=518.04 D=-0.15 Kd=44
+Mar 17 21:07:37 Power was 34 and is now 56.63
+Mar 17 21:07:37 95, 138.04, 0, 0
+Mar 17 21:07:38 Base PID power at 150.93C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:38 T=138.92 P=150.93 D=0.93 E=12.01 I=530.05 D=0.06 Kd=44
+Mar 17 21:07:38 Power was 34 and is now 64.00
+Mar 17 21:07:38 96, 138.91, 0, 0
+Mar 17 21:07:39 Base PID power at 151.86C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:39 T=139.45 P=151.86 D=0.93 E=12.41 I=542.46 D=0.39 Kd=44
+Mar 17 21:07:39 Power was 34 and is now 64.00
+Mar 17 21:07:39 97, 139.45, 0, 0
+Mar 17 21:07:40 Base PID power at 152.79C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:40 T=139.92 P=152.79 D=0.93 E=12.87 I=555.33 D=0.46 Kd=44
+Mar 17 21:07:40 Power was 34 and is now 64.00
+Mar 17 21:07:40 98, 139.92, 0, 0
+Mar 17 21:07:41 Base PID power at 153.72C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:41 T=140.35 P=153.72 D=0.93 E=13.37 I=568.70 D=0.50 Kd=44
+Mar 17 21:07:41 Power was 34 and is now 64.00
+Mar 17 21:07:41 99, 140.35, 0, 0
+Mar 17 21:07:42 Base PID power at 154.65C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:42 T=141.06 P=154.65 D=0.93 E=13.59 I=582.30 D=0.22 Kd=44
+Mar 17 21:07:42 Power was 34 and is now 64.00
+Mar 17 21:07:42 100, 141.06, 0, 0
+Mar 17 21:07:43 Base PID power at 155.59C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:43 T=142.13 P=155.59 D=0.93 E=13.46 I=595.76 D=-0.13 Kd=44
+Mar 17 21:07:43 Power was 34 and is now 60.98
+Mar 17 21:07:43 101, 142.12, 0, 0
+Mar 17 21:07:44 Base PID power at 156.52C:  B=12 I=65534 R=22 Total=32 bias=1.08
+Mar 17 21:07:44 T=143.30 P=156.52 D=0.93 E=13.22 I=608.97 D=-0.24 Kd=44
+Mar 17 21:07:44 Power was 34 and is now 55.86
+Mar 17 21:07:44 102, 143.30, 0, 0
+Mar 17 21:07:45 Base PID power at 157.45C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 21:07:45 T=144.40 P=157.45 D=0.93 E=13.05 I=622.02 D=-0.17 Kd=44
+Mar 17 21:07:45 Power was 37 and is now 61.93
+Mar 17 21:07:45 103, 144.39, 0, 0
+Mar 17 21:07:46 Base PID power at 158.38C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 21:07:46 T=145.41 P=158.38 D=0.93 E=12.97 I=634.99 D=-0.08 Kd=44
+Mar 17 21:07:46 Power was 37 and is now 65.67
+Mar 17 21:07:46 104, 145.41, 0, 0
+Mar 17 21:07:47 Base PID power at 159.31C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 21:07:47 T=146.50 P=159.31 D=0.93 E=12.81 I=647.80 D=-0.15 Kd=44
+Mar 17 21:07:47 Power was 37 and is now 62.40
+Mar 17 21:07:47 105, 146.49, 0, 0
+Mar 17 21:07:48 Base PID power at 160.24C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 21:07:48 T=147.57 P=160.24 D=0.93 E=12.67 I=660.47 D=-0.15 Kd=44
+Mar 17 21:07:48 Power was 37 and is now 62.51
+Mar 17 21:07:48 106, 147.57, 0, 0
+Mar 17 21:07:49 Base PID power at 161.17C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 21:07:49 T=148.59 P=161.17 D=0.93 E=12.58 I=673.05 D=-0.09 Kd=44
+Mar 17 21:07:49 Power was 37 and is now 65.01
+Mar 17 21:07:49 107, 148.59, 0, 0
+Mar 17 21:07:50 Base PID power at 162.10C:  B=13 I=65534 R=24 Total=35 bias=1.08
+Mar 17 21:07:50 T=149.51 P=162.10 D=0.93 E=12.60 I=685.65 D=0.01 Kd=44
+Mar 17 21:07:50 Power was 37 and is now 67.00
+Mar 17 21:07:50 108, 149.50, 0, 0
+Mar 17 21:07:51 Bias 80/50/80
+Mar 17 21:07:51 Ramp temperature to 175C in 100 seconds
+Mar 17 21:07:51 109, 150.60, 0, 0
+Mar 17 21:07:52 Base PID power at 150.85C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:52 T=151.59 P=150.85 D=0.24 E=-0.74 I=-0.74 D=-0.74 Kd=44
+Mar 17 21:07:52 Power was 18 and is now -12.00
+Mar 17 21:07:52 110, 151.59, 0, 0
+Mar 17 21:07:53 Base PID power at 151.10C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:53 T=152.62 P=151.10 D=0.24 E=-1.53 I=-2.27 D=-0.79 Kd=44
+Mar 17 21:07:53 Power was 18 and is now -12.00
+Mar 17 21:07:53 111, 152.62, 0, 0
+Mar 17 21:07:54 Base PID power at 151.34C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:54 T=153.77 P=151.34 D=0.24 E=-2.42 I=-4.69 D=-0.90 Kd=44
+Mar 17 21:07:54 Power was 18 and is now -12.00
+Mar 17 21:07:54 112, 153.76, 0, 0
+Mar 17 21:07:55 Base PID power at 151.58C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:55 T=154.95 P=151.58 D=0.24 E=-3.37 I=-8.06 D=-0.94 Kd=44
+Mar 17 21:07:55 Power was 18 and is now -12.00
+Mar 17 21:07:55 113, 154.95, 0, 0
+Mar 17 21:07:56 Base PID power at 151.83C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:56 T=156.13 P=151.83 D=0.24 E=-4.30 I=-12.37 D=-0.94 Kd=44
+Mar 17 21:07:56 Power was 18 and is now -12.00
+Mar 17 21:07:56 114, 156.13, 0, 0
+Mar 17 21:07:57 Base PID power at 152.07C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:57 T=157.08 P=152.07 D=0.24 E=-5.01 I=-17.37 D=-0.70 Kd=44
+Mar 17 21:07:57 Power was 18 and is now -12.00
+Mar 17 21:07:57 115, 157.08, 0, 0
+Mar 17 21:07:58 Base PID power at 152.32C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:58 T=158.00 P=152.32 D=0.24 E=-5.68 I=-23.05 D=-0.67 Kd=44
+Mar 17 21:07:58 Power was 18 and is now -12.00
+Mar 17 21:07:58 116, 157.99, 0, 0
+Mar 17 21:07:59 Base PID power at 152.56C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:07:59 T=158.68 P=152.56 D=0.24 E=-6.12 I=-29.18 D=-0.44 Kd=44
+Mar 17 21:07:59 Power was 18 and is now -12.00
+Mar 17 21:07:59 117, 158.68, 0, 0
+Mar 17 21:08:00 Base PID power at 152.80C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:00 T=159.08 P=152.80 D=0.24 E=-6.27 I=-35.45 D=-0.15 Kd=44
+Mar 17 21:08:00 Power was 18 and is now -12.00
+Mar 17 21:08:00 118, 159.07, 0, 0
+Mar 17 21:08:01 Base PID power at 153.05C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:01 T=159.34 P=153.05 D=0.24 E=-6.29 I=-41.74 D=-0.01 Kd=44
+Mar 17 21:08:01 Power was 18 and is now -8.23
+Mar 17 21:08:01 119, 159.33, 0, 0
+Mar 17 21:08:02 Base PID power at 153.29C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:02 T=159.61 P=153.29 D=0.24 E=-6.31 I=-48.05 D=-0.02 Kd=44
+Mar 17 21:08:02 Power was 18 and is now -8.83
+Mar 17 21:08:02 120, 159.60, 0, 0
+Mar 17 21:08:03 Base PID power at 153.54C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:03 T=160.04 P=153.54 D=0.24 E=-6.51 I=-54.56 D=-0.19 Kd=44
+Mar 17 21:08:03 Power was 18 and is now -12.00
+Mar 17 21:08:03 121, 160.04, 0, 0
+Mar 17 21:08:04 Base PID power at 153.78C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:04 T=160.40 P=153.78 D=0.24 E=-6.62 I=-61.18 D=-0.11 Kd=44
+Mar 17 21:08:04 Power was 18 and is now -12.00
+Mar 17 21:08:04 122, 160.39, 0, 0
+Mar 17 21:08:05 Base PID power at 154.02C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:05 T=160.74 P=154.02 D=0.24 E=-6.72 I=-67.89 D=-0.10 Kd=44
+Mar 17 21:08:05 Power was 18 and is now -12.00
+Mar 17 21:08:05 123, 160.73, 0, 0
+Mar 17 21:08:06 Base PID power at 154.27C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:06 T=160.86 P=154.27 D=0.24 E=-6.59 I=-74.48 D=0.13 Kd=44
+Mar 17 21:08:06 Power was 18 and is now -3.58
+Mar 17 21:08:06 124, 160.85, 0, 0
+Mar 17 21:08:07 Base PID power at 154.51C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:07 T=160.93 P=154.51 D=0.24 E=-6.42 I=-80.91 D=0.17 Kd=44
+Mar 17 21:08:07 Power was 18 and is now -1.06
+Mar 17 21:08:07 125, 160.93, 0, 0
+Mar 17 21:08:08 Base PID power at 154.76C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:08 T=160.98 P=154.76 D=0.24 E=-6.23 I=-87.13 D=0.19 Kd=44
+Mar 17 21:08:08 Power was 18 and is now 0.78
+Mar 17 21:08:08 126, 160.98, 0, 0
+Mar 17 21:08:09 Base PID power at 155.00C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:09 T=161.38 P=155.00 D=0.24 E=-6.38 I=-93.51 D=-0.15 Kd=44
+Mar 17 21:08:09 Power was 18 and is now -12.00
+Mar 17 21:08:09 127, 161.37, 0, 0
+Mar 17 21:08:10 Base PID power at 155.24C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:10 T=161.98 P=155.24 D=0.24 E=-6.74 I=-100.25 D=-0.36 Kd=44
+Mar 17 21:08:10 Power was 18 and is now -12.00
+Mar 17 21:08:10 128, 161.98, 0, 0
+Mar 17 21:08:11 Base PID power at 155.49C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:11 T=162.65 P=155.49 D=0.24 E=-7.16 I=-107.41 D=-0.42 Kd=44
+Mar 17 21:08:11 Power was 18 and is now -12.00
+Mar 17 21:08:11 129, 162.64, 0, 0
+Mar 17 21:08:12 Base PID power at 155.73C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:12 T=163.01 P=155.73 D=0.24 E=-7.28 I=-114.69 D=-0.12 Kd=44
+Mar 17 21:08:12 Power was 18 and is now -12.00
+Mar 17 21:08:12 130, 163.00, 0, 0
+Mar 17 21:08:13 Base PID power at 155.97C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:13 T=163.10 P=155.97 D=0.24 E=-7.13 I=-121.82 D=0.15 Kd=44
+Mar 17 21:08:13 Power was 18 and is now -5.00
+Mar 17 21:08:13 131, 163.10, 0, 0
+Mar 17 21:08:14 Base PID power at 156.22C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:14 T=163.01 P=156.22 D=0.24 E=-6.79 I=-128.61 D=0.33 Kd=44
+Mar 17 21:08:14 Power was 18 and is now 4.24
+Mar 17 21:08:14 132, 163.01, 0, 0
+Mar 17 21:08:15 Base PID power at 156.46C:  B=12 I=65534 R=5 Total=15 bias=1.23
+Mar 17 21:08:15 T=163.00 P=156.46 D=0.24 E=-6.53 I=-135.14 D=0.26 Kd=44
+Mar 17 21:08:15 Power was 18 and is now 1.91
+Mar 17 21:08:15 133, 162.99, 0, 0
+Mar 17 21:08:16 Base PID power at 156.71C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:16 T=163.07 P=156.71 D=0.24 E=-6.36 I=-141.51 D=0.17 Kd=44
+Mar 17 21:08:16 Power was 20 and is now 0.54
+Mar 17 21:08:16 134, 163.07, 0, 0
+Mar 17 21:08:17 Base PID power at 156.95C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:17 T=163.26 P=156.95 D=0.24 E=-6.31 I=-147.82 D=0.05 Kd=44
+Mar 17 21:08:17 Power was 20 and is now -4.45
+Mar 17 21:08:17 135, 163.26, 0, 0
+Mar 17 21:08:18 Base PID power at 157.19C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:18 T=163.42 P=157.19 D=0.24 E=-6.23 I=-154.05 D=0.09 Kd=44
+Mar 17 21:08:18 Power was 20 and is now -2.58
+Mar 17 21:08:18 136, 163.41, 0, 0
+Mar 17 21:08:19 Base PID power at 157.44C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:19 T=163.54 P=157.44 D=0.24 E=-6.11 I=-160.15 D=0.12 Kd=44
+Mar 17 21:08:19 Power was 20 and is now -0.77
+Mar 17 21:08:19 137, 163.54, 0, 0
+Mar 17 21:08:20 Base PID power at 157.68C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:20 T=163.52 P=157.68 D=0.24 E=-5.83 I=-165.99 D=0.27 Kd=44
+Mar 17 21:08:20 Power was 20 and is now 7.02
+Mar 17 21:08:20 138, 163.51, 0, 0
+Mar 17 21:08:21 Base PID power at 157.93C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:21 T=163.48 P=157.93 D=0.24 E=-5.56 I=-171.54 D=0.28 Kd=44
+Mar 17 21:08:21 Power was 20 and is now 8.19
+Mar 17 21:08:21 139, 163.48, 0, 0
+Mar 17 21:08:22 Base PID power at 158.17C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:22 T=163.37 P=158.17 D=0.24 E=-5.20 I=-176.74 D=0.36 Kd=44
+Mar 17 21:08:22 Power was 20 and is now 13.21
+Mar 17 21:08:22 140, 163.36, 0, 0
+Mar 17 21:08:23 Base PID power at 158.41C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:23 T=163.59 P=158.41 D=0.24 E=-5.18 I=-181.92 D=0.02 Kd=44
+Mar 17 21:08:23 Power was 20 and is now -1.61
+Mar 17 21:08:23 141, 163.59, 0, 0
+Mar 17 21:08:24 Base PID power at 158.66C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:24 T=163.68 P=158.66 D=0.24 E=-5.02 I=-186.94 D=0.16 Kd=44
+Mar 17 21:08:24 Power was 20 and is now 5.13
+Mar 17 21:08:24 142, 163.67, 0, 0
+Mar 17 21:08:25 Base PID power at 158.90C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:25 T=163.80 P=158.90 D=0.24 E=-4.90 I=-191.84 D=0.11 Kd=44
+Mar 17 21:08:25 Power was 20 and is now 3.52
+Mar 17 21:08:25 143, 163.80, 0, 0
+Mar 17 21:08:26 Base PID power at 159.15C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:26 T=163.81 P=159.15 D=0.24 E=-4.66 I=-196.50 D=0.24 Kd=44
+Mar 17 21:08:26 Power was 20 and is now 9.98
+Mar 17 21:08:26 144, 163.80, 0, 0
+Mar 17 21:08:27 Base PID power at 159.39C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:27 T=163.86 P=159.39 D=0.24 E=-4.47 I=-200.97 D=0.19 Kd=44
+Mar 17 21:08:27 Power was 20 and is now 8.45
+Mar 17 21:08:27 145, 163.86, 0, 0
+Mar 17 21:08:28 Base PID power at 159.63C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:28 T=163.94 P=159.63 D=0.24 E=-4.31 I=-205.28 D=0.16 Kd=44
+Mar 17 21:08:28 Power was 20 and is now 7.82
+Mar 17 21:08:28 146, 163.94, 0, 0
+Mar 17 21:08:29 Base PID power at 159.88C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:29 T=163.99 P=159.88 D=0.24 E=-4.11 I=-209.39 D=0.20 Kd=44
+Mar 17 21:08:29 Power was 20 and is now 10.30
+Mar 17 21:08:29 147, 163.98, 0, 0
+Mar 17 21:08:30 Base PID power at 160.12C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:30 T=164.04 P=160.12 D=0.24 E=-3.92 I=-213.31 D=0.19 Kd=44
+Mar 17 21:08:30 Power was 20 and is now 10.49
+Mar 17 21:08:30 148, 164.04, 0, 0
+Mar 17 21:08:31 Base PID power at 160.37C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:31 T=164.09 P=160.37 D=0.24 E=-3.72 I=-217.03 D=0.20 Kd=44
+Mar 17 21:08:31 Power was 20 and is now 11.70
+Mar 17 21:08:31 149, 164.08, 0, 0
+Mar 17 21:08:32 Base PID power at 160.61C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:32 T=163.92 P=160.61 D=0.24 E=-3.31 I=-220.34 D=0.41 Kd=44
+Mar 17 21:08:32 Power was 20 and is now 22.64
+Mar 17 21:08:32 150, 163.91, 0, 0
+Mar 17 21:08:33 Base PID power at 160.85C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:33 T=163.77 P=160.85 D=0.24 E=-2.92 I=-223.26 D=0.39 Kd=44
+Mar 17 21:08:33 Power was 20 and is now 23.26
+Mar 17 21:08:33 151, 163.77, 0, 0
+Mar 17 21:08:34 Base PID power at 161.10C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:34 T=163.70 P=161.10 D=0.24 E=-2.61 I=-225.87 D=0.32 Kd=44
+Mar 17 21:08:34 Power was 20 and is now 21.19
+Mar 17 21:08:34 152, 163.70, 0, 0
+Mar 17 21:08:35 Base PID power at 161.34C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:35 T=163.83 P=161.34 D=0.24 E=-2.49 I=-228.36 D=0.12 Kd=44
+Mar 17 21:08:35 Power was 20 and is now 12.88
+Mar 17 21:08:35 153, 163.82, 0, 0
+Mar 17 21:08:36 Base PID power at 161.58C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:36 T=163.86 P=161.58 D=0.24 E=-2.28 I=-230.63 D=0.21 Kd=44
+Mar 17 21:08:36 Power was 20 and is now 17.97
+Mar 17 21:08:36 154, 163.86, 0, 0
+Mar 17 21:08:37 Base PID power at 161.83C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:37 T=163.86 P=161.83 D=0.24 E=-2.03 I=-232.66 D=0.25 Kd=44
+Mar 17 21:08:37 Power was 20 and is now 20.45
+Mar 17 21:08:37 155, 163.85, 0, 0
+Mar 17 21:08:38 Base PID power at 162.07C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:38 T=163.88 P=162.07 D=0.24 E=-1.80 I=-234.47 D=0.22 Kd=44
+Mar 17 21:08:38 Power was 20 and is now 20.28
+Mar 17 21:08:38 156, 163.87, 0, 0
+Mar 17 21:08:39 Base PID power at 162.32C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:39 T=164.15 P=162.32 D=0.24 E=-1.84 I=-236.30 D=-0.03 Kd=44
+Mar 17 21:08:39 Power was 20 and is now 8.93
+Mar 17 21:08:39 157, 164.15, 0, 0
+Mar 17 21:08:40 Base PID power at 162.56C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:40 T=164.58 P=162.56 D=0.24 E=-2.02 I=-238.33 D=-0.19 Kd=44
+Mar 17 21:08:40 Power was 20 and is now 1.23
+Mar 17 21:08:40 158, 164.58, 0, 0
+Mar 17 21:08:41 Base PID power at 162.80C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:41 T=164.98 P=162.80 D=0.24 E=-2.18 I=-240.50 D=-0.15 Kd=44
+Mar 17 21:08:41 Power was 20 and is now 2.08
+Mar 17 21:08:41 159, 164.98, 0, 0
+Mar 17 21:08:42 Base PID power at 163.05C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:42 T=165.18 P=163.05 D=0.24 E=-2.13 I=-242.63 D=0.05 Kd=44
+Mar 17 21:08:42 Power was 20 and is now 11.27
+Mar 17 21:08:42 160, 165.17, 0, 0
+Mar 17 21:08:43 Base PID power at 163.29C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:43 T=165.13 P=163.29 D=0.24 E=-1.84 I=-244.47 D=0.29 Kd=44
+Mar 17 21:08:43 Power was 20 and is now 22.83
+Mar 17 21:08:43 161, 165.13, 0, 0
+Mar 17 21:08:44 Base PID power at 163.54C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:44 T=164.95 P=163.54 D=0.24 E=-1.42 I=-245.89 D=0.42 Kd=44
+Mar 17 21:08:44 Power was 20 and is now 30.46
+Mar 17 21:08:44 162, 164.95, 0, 0
+Mar 17 21:08:45 Base PID power at 163.78C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:45 T=164.94 P=163.78 D=0.24 E=-1.16 I=-247.05 D=0.26 Kd=44
+Mar 17 21:08:45 Power was 20 and is now 24.24
+Mar 17 21:08:45 163, 164.94, 0, 0
+Mar 17 21:08:46 Base PID power at 164.02C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:46 T=164.80 P=164.02 D=0.24 E=-0.77 I=-247.83 D=0.39 Kd=44
+Mar 17 21:08:46 Power was 20 and is now 31.44
+Mar 17 21:08:46 164, 164.79, 0, 0
+Mar 17 21:08:47 Base PID power at 164.27C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:47 T=164.80 P=164.27 D=0.24 E=-0.53 I=-248.35 D=0.25 Kd=44
+Mar 17 21:08:47 Power was 20 and is now 26.23
+Mar 17 21:08:47 165, 164.79, 0, 0
+Mar 17 21:08:48 Base PID power at 164.51C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:48 T=164.81 P=164.51 D=0.24 E=-0.30 I=-248.66 D=0.23 Kd=44
+Mar 17 21:08:48 Power was 20 and is now 26.28
+Mar 17 21:08:48 166, 164.81, 0, 0
+Mar 17 21:08:49 Base PID power at 164.76C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:49 T=165.17 P=164.76 D=0.24 E=-0.42 I=-249.07 D=-0.12 Kd=44
+Mar 17 21:08:49 Power was 20 and is now 10.76
+Mar 17 21:08:49 167, 165.17, 0, 0
+Mar 17 21:08:50 Base PID power at 165.00C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:50 T=165.50 P=165.00 D=0.24 E=-0.50 I=-249.57 D=-0.09 Kd=44
+Mar 17 21:08:50 Power was 20 and is now 11.72
+Mar 17 21:08:50 168, 165.50, 0, 0
+Mar 17 21:08:51 Base PID power at 165.24C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:51 T=165.57 P=165.24 D=0.24 E=-0.33 I=-249.90 D=0.17 Kd=44
+Mar 17 21:08:51 Power was 20 and is now 23.87
+Mar 17 21:08:51 169, 165.57, 0, 0
+Mar 17 21:08:52 Base PID power at 165.49C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:52 T=165.58 P=165.49 D=0.24 E=-0.09 I=-250.00 D=0.24 Kd=44
+Mar 17 21:08:52 Power was 20 and is now 27.47
+Mar 17 21:08:52 170, 165.58, 0, 0
+Mar 17 21:08:53 Base PID power at 165.73C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:53 T=165.81 P=165.73 D=0.24 E=-0.08 I=-250.07 D=0.01 Kd=44
+Mar 17 21:08:53 Power was 20 and is now 17.76
+Mar 17 21:08:53 171, 165.81, 0, 0
+Mar 17 21:08:54 Base PID power at 165.98C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:54 T=166.14 P=165.98 D=0.24 E=-0.17 I=-250.24 D=-0.09 Kd=44
+Mar 17 21:08:54 Power was 20 and is now 12.91
+Mar 17 21:08:54 172, 166.14, 0, 0
+Mar 17 21:08:55 Base PID power at 166.22C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:55 T=166.33 P=166.22 D=0.24 E=-0.11 I=-250.35 D=0.06 Kd=44
+Mar 17 21:08:55 Power was 20 and is now 19.73
+Mar 17 21:08:55 173, 166.32, 0, 0
+Mar 17 21:08:56 Base PID power at 166.46C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:56 T=166.53 P=166.46 D=0.24 E=-0.06 I=-250.41 D=0.05 Kd=44
+Mar 17 21:08:56 Power was 20 and is now 19.25
+Mar 17 21:08:56 174, 166.52, 0, 0
+Mar 17 21:08:57 Base PID power at 166.71C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:57 T=166.83 P=166.71 D=0.24 E=-0.13 I=-250.54 D=-0.06 Kd=44
+Mar 17 21:08:57 Power was 20 and is now 14.20
+Mar 17 21:08:57 175, 166.83, 0, 0
+Mar 17 21:08:58 Base PID power at 166.95C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:58 T=167.00 P=166.95 D=0.24 E=-0.05 I=-250.59 D=0.08 Kd=44
+Mar 17 21:08:58 Power was 20 and is now 20.80
+Mar 17 21:08:58 176, 166.99, 0, 0
+Mar 17 21:08:59 Base PID power at 167.19C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:08:59 T=166.91 P=167.19 D=0.24 E=0.28 I=-250.30 D=0.33 Kd=44
+Mar 17 21:08:59 Power was 20 and is now 32.50
+Mar 17 21:08:59 177, 166.91, 0, 0
+Mar 17 21:09:00 Base PID power at 167.44C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:09:00 T=166.73 P=167.44 D=0.24 E=0.70 I=-249.60 D=0.42 Kd=44
+Mar 17 21:09:00 Power was 20 and is now 37.53
+Mar 17 21:09:00 178, 166.73, 0, 0
+Mar 17 21:09:01 Base PID power at 167.68C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:09:01 T=166.82 P=167.68 D=0.24 E=0.87 I=-248.73 D=0.16 Kd=44
+Mar 17 21:09:01 Power was 20 and is now 26.31
+Mar 17 21:09:01 179, 166.81, 0, 0
+Mar 17 21:09:02 Base PID power at 167.93C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:09:02 T=166.99 P=167.93 D=0.24 E=0.93 I=-247.80 D=0.07 Kd=44
+Mar 17 21:09:02 Power was 20 and is now 22.45
+Mar 17 21:09:02 180, 166.99, 0, 0
+Mar 17 21:09:03 Base PID power at 168.17C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:09:03 T=167.23 P=168.17 D=0.24 E=0.94 I=-246.86 D=0.01 Kd=44
+Mar 17 21:09:03 Power was 20 and is now 19.74
+Mar 17 21:09:03 181, 167.22, 0, 0
+Mar 17 21:09:04 Base PID power at 168.41C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:09:04 T=167.39 P=168.41 D=0.24 E=1.02 I=-245.84 D=0.08 Kd=44
+Mar 17 21:09:04 Power was 20 and is now 23.00
+Mar 17 21:09:04 182, 167.39, 0, 0
+Mar 17 21:09:05 Base PID power at 168.66C:  B=13 I=65534 R=6 Total=17 bias=1.23
+Mar 17 21:09:05 T=167.55 P=168.66 D=0.24 E=1.11 I=-244.73 D=0.09 Kd=44
+Mar 17 21:09:05 Power was 20 and is now 23.60
+Mar 17 21:09:05 183, 167.55, 0, 0
+Mar 17 21:09:06 Base PID power at 168.90C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:06 T=167.77 P=168.90 D=0.24 E=1.13 I=-243.60 D=0.02 Kd=44
+Mar 17 21:09:06 Power was 22 and is now 22.86
+Mar 17 21:09:06 184, 167.77, 0, 0
+Mar 17 21:09:07 Base PID power at 169.15C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:07 T=168.04 P=169.15 D=0.24 E=1.11 I=-242.49 D=-0.02 Kd=44
+Mar 17 21:09:07 Power was 22 and is now 20.77
+Mar 17 21:09:07 185, 168.03, 0, 0
+Mar 17 21:09:08 Base PID power at 169.39C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:08 T=168.25 P=169.39 D=0.24 E=1.14 I=-241.35 D=0.03 Kd=44
+Mar 17 21:09:08 Power was 22 and is now 23.29
+Mar 17 21:09:08 186, 168.25, 0, 0
+Mar 17 21:09:09 Base PID power at 169.63C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:09 T=168.60 P=169.63 D=0.24 E=1.03 I=-240.32 D=-0.11 Kd=44
+Mar 17 21:09:09 Power was 22 and is now 16.83
+Mar 17 21:09:09 187, 168.60, 0, 0
+Mar 17 21:09:10 Base PID power at 169.88C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:10 T=169.04 P=169.88 D=0.24 E=0.84 I=-239.48 D=-0.19 Kd=44
+Mar 17 21:09:10 Power was 22 and is now 12.95
+Mar 17 21:09:10 188, 169.03, 0, 0
+Mar 17 21:09:11 Base PID power at 170.12C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:11 T=169.46 P=170.12 D=0.24 E=0.67 I=-238.81 D=-0.17 Kd=44
+Mar 17 21:09:11 Power was 22 and is now 13.27
+Mar 17 21:09:11 189, 169.45, 0, 0
+Mar 17 21:09:12 Base PID power at 170.37C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:12 T=169.38 P=170.37 D=0.24 E=0.99 I=-237.82 D=0.32 Kd=44
+Mar 17 21:09:12 Power was 22 and is now 35.74
+Mar 17 21:09:12 190, 169.37, 0, 0
+Mar 17 21:09:13 Base PID power at 170.61C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:13 T=168.99 P=170.61 D=0.24 E=1.62 I=-236.21 D=0.63 Kd=44
+Mar 17 21:09:13 Power was 22 and is now 50.49
+Mar 17 21:09:13 191, 168.99, 0, 0
+Mar 17 21:09:14 Base PID power at 170.85C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:14 T=168.61 P=170.85 D=0.24 E=2.25 I=-233.96 D=0.63 Kd=44
+Mar 17 21:09:14 Power was 22 and is now 51.86
+Mar 17 21:09:14 192, 168.60, 0, 0
+Mar 17 21:09:15 Base PID power at 171.10C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:15 T=168.64 P=171.10 D=0.24 E=2.46 I=-231.50 D=0.22 Kd=44
+Mar 17 21:09:15 Power was 22 and is now 34.10
+Mar 17 21:09:15 193, 168.63, 0, 0
+Mar 17 21:09:16 Base PID power at 171.34C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:16 T=168.95 P=171.34 D=0.24 E=2.39 I=-229.11 D=-0.07 Kd=44
+Mar 17 21:09:16 Power was 22 and is now 21.29
+Mar 17 21:09:16 194, 168.95, 0, 0
+Mar 17 21:09:17 Base PID power at 171.59C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:17 T=169.42 P=171.59 D=0.24 E=2.17 I=-226.95 D=-0.22 Kd=44
+Mar 17 21:09:17 Power was 22 and is now 14.31
+Mar 17 21:09:17 195, 169.41, 0, 0
+Mar 17 21:09:18 Base PID power at 171.83C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:18 T=169.78 P=171.83 D=0.24 E=2.05 I=-224.89 D=-0.12 Kd=44
+Mar 17 21:09:18 Power was 22 and is now 18.75
+Mar 17 21:09:18 196, 169.77, 0, 0
+Mar 17 21:09:19 Base PID power at 172.07C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:19 T=170.08 P=172.07 D=0.24 E=2.00 I=-222.90 D=-0.05 Kd=44
+Mar 17 21:09:19 Power was 22 and is now 21.39
+Mar 17 21:09:19 197, 170.07, 0, 0
+Mar 17 21:09:20 Base PID power at 172.32C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:20 T=170.29 P=172.32 D=0.24 E=2.02 I=-220.87 D=0.03 Kd=44
+Mar 17 21:09:20 Power was 22 and is now 25.01
+Mar 17 21:09:20 198, 170.29, 0, 0
+Mar 17 21:09:21 Base PID power at 172.56C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:21 T=170.55 P=172.56 D=0.24 E=2.01 I=-218.86 D=-0.01 Kd=44
+Mar 17 21:09:21 Power was 22 and is now 23.34
+Mar 17 21:09:21 199, 170.54, 0, 0
+Mar 17 21:09:22 Base PID power at 172.80C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:22 T=170.87 P=172.80 D=0.24 E=1.94 I=-216.93 D=-0.08 Kd=44
+Mar 17 21:09:22 Power was 22 and is now 20.37
+Mar 17 21:09:22 200, 170.86, 0, 0
+Mar 17 21:09:23 Base PID power at 173.05C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:23 T=171.18 P=173.05 D=0.24 E=1.87 I=-215.06 D=-0.07 Kd=44
+Mar 17 21:09:23 Power was 22 and is now 20.62
+Mar 17 21:09:23 201, 171.17, 0, 0
+Mar 17 21:09:24 Base PID power at 173.29C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:24 T=171.40 P=173.29 D=0.24 E=1.89 I=-213.16 D=0.03 Kd=44
+Mar 17 21:09:24 Power was 22 and is now 24.76
+Mar 17 21:09:24 202, 171.39, 0, 0
+Mar 17 21:09:25 Base PID power at 173.54C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:25 T=171.34 P=173.54 D=0.24 E=2.20 I=-210.96 D=0.31 Kd=44
+Mar 17 21:09:25 Power was 22 and is now 37.77
+Mar 17 21:09:25 203, 171.33, 0, 0
+Mar 17 21:09:26 Base PID power at 173.78C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:26 T=171.16 P=173.78 D=0.24 E=2.62 I=-208.34 D=0.42 Kd=44
+Mar 17 21:09:26 Power was 22 and is now 43.49
+Mar 17 21:09:26 204, 171.16, 0, 0
+Mar 17 21:09:27 Base PID power at 174.02C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:27 T=170.89 P=174.02 D=0.24 E=3.13 I=-205.21 D=0.51 Kd=44
+Mar 17 21:09:27 Power was 22 and is now 48.77
+Mar 17 21:09:27 205, 170.89, 0, 0
+Mar 17 21:09:28 Base PID power at 174.27C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:28 T=170.75 P=174.27 D=0.24 E=3.52 I=-201.69 D=0.39 Kd=44
+Mar 17 21:09:28 Power was 22 and is now 44.29
+Mar 17 21:09:28 206, 170.74, 0, 0
+Mar 17 21:09:29 Base PID power at 174.51C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:29 T=170.79 P=174.51 D=0.24 E=3.72 I=-197.97 D=0.20 Kd=44
+Mar 17 21:09:29 Power was 22 and is now 36.32
+Mar 17 21:09:29 207, 170.78, 0, 0
+Mar 17 21:09:30 Base PID power at 174.76C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:30 T=171.07 P=174.76 D=0.24 E=3.68 I=-194.29 D=-0.04 Kd=44
+Mar 17 21:09:30 Power was 22 and is now 25.55
+Mar 17 21:09:30 208, 171.07, 0, 0
+Mar 17 21:09:31 Base PID power at 175.00C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:31 T=171.54 P=175.00 D=0.24 E=3.46 I=-190.83 D=-0.22 Kd=44
+Mar 17 21:09:31 Power was 22 and is now 17.30
+Mar 17 21:09:31 209, 171.53, 0, 0
+Mar 17 21:09:32 Base PID power at 175.24C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:32 T=171.99 P=175.24 D=0.24 E=3.25 I=-187.58 D=-0.21 Kd=44
+Mar 17 21:09:32 Power was 22 and is now 17.42
+Mar 17 21:09:32 210, 171.99, 0, 0
+Mar 17 21:09:33 Base PID power at 175.49C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:33 T=172.45 P=175.49 D=0.24 E=3.04 I=-184.53 D=-0.21 Kd=44
+Mar 17 21:09:33 Power was 22 and is now 17.03
+Mar 17 21:09:33 211, 172.44, 0, 0
+Mar 17 21:09:34 Base PID power at 175.73C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:34 T=172.85 P=175.73 D=0.24 E=2.88 I=-181.65 D=-0.16 Kd=44
+Mar 17 21:09:34 Power was 22 and is now 18.87
+Mar 17 21:09:34 212, 172.85, 0, 0
+Mar 17 21:09:35 Base PID power at 175.98C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:35 T=173.13 P=175.98 D=0.24 E=2.85 I=-178.81 D=-0.04 Kd=44
+Mar 17 21:09:35 Power was 22 and is now 24.33
+Mar 17 21:09:35 213, 173.13, 0, 0
+Mar 17 21:09:36 Base PID power at 176.22C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:36 T=173.26 P=176.22 D=0.24 E=2.96 I=-175.84 D=0.12 Kd=44
+Mar 17 21:09:36 Power was 22 and is now 31.33
+Mar 17 21:09:36 214, 173.25, 0, 0
+Mar 17 21:09:37 Base PID power at 176.46C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:37 T=173.46 P=176.46 D=0.24 E=3.00 I=-172.84 D=0.04 Kd=44
+Mar 17 21:09:37 Power was 22 and is now 27.86
+Mar 17 21:09:37 215, 173.46, 0, 0
+Mar 17 21:09:38 Base PID power at 176.71C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:38 T=173.68 P=176.71 D=0.24 E=3.03 I=-169.82 D=0.03 Kd=44
+Mar 17 21:09:38 Power was 22 and is now 27.70
+Mar 17 21:09:38 216, 173.67, 0, 0
+Mar 17 21:09:39 Base PID power at 176.95C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:39 T=173.95 P=176.95 D=0.24 E=3.00 I=-166.82 D=-0.03 Kd=44
+Mar 17 21:09:39 Power was 22 and is now 25.01
+Mar 17 21:09:39 217, 173.95, 0, 0
+Mar 17 21:09:40 Base PID power at 177.20C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:40 T=174.14 P=177.20 D=0.24 E=3.05 I=-163.76 D=0.05 Kd=44
+Mar 17 21:09:40 Power was 22 and is now 28.86
+Mar 17 21:09:40 218, 174.14, 0, 0
+Mar 17 21:09:41 Base PID power at 177.44C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:41 T=174.34 P=177.44 D=0.24 E=3.10 I=-160.66 D=0.05 Kd=44
+Mar 17 21:09:41 Power was 22 and is now 28.66
+Mar 17 21:09:41 219, 174.33, 0, 0
+Mar 17 21:09:42 Base PID power at 177.68C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:42 T=174.53 P=177.68 D=0.24 E=3.15 I=-157.51 D=0.05 Kd=44
+Mar 17 21:09:42 Power was 22 and is now 29.03
+Mar 17 21:09:42 220, 174.53, 0, 0
+Mar 17 21:09:43 Base PID power at 177.93C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:43 T=174.64 P=177.93 D=0.24 E=3.29 I=-154.22 D=0.14 Kd=44
+Mar 17 21:09:43 Power was 22 and is now 33.00
+Mar 17 21:09:43 221, 174.63, 0, 0
+Mar 17 21:09:44 Base PID power at 178.17C:  B=14 I=65534 R=6 Total=18 bias=1.23
+Mar 17 21:09:44 T=174.86 P=178.17 D=0.24 E=3.31 I=-150.91 D=0.02 Kd=44
+Mar 17 21:09:44 Power was 22 and is now 28.13
+Mar 17 21:09:44 222, 174.85, 0, 0
+Mar 17 21:09:45 Element duty cycle 100/100/100
+Mar 17 21:09:45 Wait for 15 seconds
+Mar 17 21:09:45 223, 175.11, 0, 0
+Mar 17 21:09:46 224, 175.46, 0, 0
+Mar 17 21:09:47 225, 175.66, 0, 0
+Mar 17 21:09:48 226, 175.67, 0, 0
+Mar 17 21:09:49 227, 175.89, 0, 0
+Mar 17 21:09:50 228, 176.30, 0, 0
+Mar 17 21:09:51 229, 176.90, 0, 0
+Mar 17 21:09:52 230, 177.12, 0, 0
+Mar 17 21:09:53 231, 177.40, 0, 0
+Mar 17 21:09:54 232, 177.97, 0, 0
+Mar 17 21:09:55 233, 178.99, 0, 0
+Mar 17 21:09:56 234, 180.10, 0, 0
+Mar 17 21:09:57 235, 181.13, 0, 0
+Mar 17 21:09:58 236, 182.02, 0, 0
+Mar 17 21:09:59 237, 182.86, 0, 0
+Mar 17 21:10:00 Finished waiting
+Mar 17 21:10:00 Bias 100/80/100
+Mar 17 21:10:00 Ramp temperature to 245C in 60 seconds
+Mar 17 21:10:00 238, 183.66, 0, 0
+Mar 17 21:10:01 Base PID power at 184.68C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:01 T=184.54 P=184.68 D=1.02 E=0.14 I=0.14 D=0.14 Kd=44
+Mar 17 21:10:01 Power was 47 and is now 53.66
+Mar 17 21:10:01 239, 184.53, 0, 0
+Mar 17 21:10:02 Base PID power at 185.71C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:02 T=185.49 P=185.71 D=1.02 E=0.21 I=0.36 D=0.07 Kd=44
+Mar 17 21:10:02 Power was 47 and is now 50.43
+Mar 17 21:10:02 240, 185.49, 0, 0
+Mar 17 21:10:03 Base PID power at 186.73C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:03 T=186.59 P=186.73 D=1.02 E=0.14 I=0.50 D=-0.07 Kd=44
+Mar 17 21:10:03 Power was 47 and is now 44.07
+Mar 17 21:10:03 241, 186.58, 0, 0
+Mar 17 21:10:04 Base PID power at 187.75C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:04 T=187.72 P=187.75 D=1.02 E=0.03 I=0.52 D=-0.11 Kd=44
+Mar 17 21:10:04 Power was 47 and is now 42.11
+Mar 17 21:10:04 242, 187.72, 0, 0
+Mar 17 21:10:05 Base PID power at 188.77C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:05 T=188.83 P=188.77 D=1.02 E=-0.05 I=0.47 D=-0.08 Kd=44
+Mar 17 21:10:05 Power was 47 and is now 43.31
+Mar 17 21:10:05 243, 188.82, 0, 0
+Mar 17 21:10:06 Base PID power at 189.80C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:06 T=189.82 P=189.80 D=1.02 E=-0.03 I=0.45 D=0.03 Kd=44
+Mar 17 21:10:06 Power was 47 and is now 48.09
+Mar 17 21:10:06 244, 189.82, 0, 0
+Mar 17 21:10:07 Base PID power at 190.82C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:07 T=190.52 P=190.82 D=1.02 E=0.30 I=0.74 D=0.32 Kd=44
+Mar 17 21:10:07 Power was 47 and is now 61.78
+Mar 17 21:10:07 245, 190.52, 0, 0
+Mar 17 21:10:08 Base PID power at 191.84C:  B=15 I=65534 R=30 Total=43 bias=1.11
+Mar 17 21:10:08 T=191.43 P=191.84 D=1.02 E=0.41 I=1.16 D=0.12 Kd=44
+Mar 17 21:10:08 Power was 47 and is now 52.99
+Mar 17 21:10:08 246, 191.42, 0, 0
+Mar 17 21:10:09 Base PID power at 192.86C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:09 T=192.29 P=192.86 D=1.02 E=0.57 I=1.73 D=0.16 Kd=44
+Mar 17 21:10:09 Power was 51 and is now 59.08
+Mar 17 21:10:09 247, 192.29, 0, 0
+Mar 17 21:10:10 Base PID power at 193.88C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:10 T=193.37 P=193.88 D=1.02 E=0.52 I=2.25 D=-0.05 Kd=44
+Mar 17 21:10:10 Power was 51 and is now 49.67
+Mar 17 21:10:10 248, 193.36, 0, 0
+Mar 17 21:10:11 Base PID power at 194.91C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:11 T=193.98 P=194.91 D=1.02 E=0.93 I=3.17 D=0.41 Kd=44
+Mar 17 21:10:11 Power was 51 and is now 70.89
+Mar 17 21:10:11 249, 193.98, 0, 0
+Mar 17 21:10:12 Base PID power at 195.93C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:12 T=194.54 P=195.93 D=1.02 E=1.39 I=4.57 D=0.47 Kd=44
+Mar 17 21:10:12 Power was 51 and is now 74.39
+Mar 17 21:10:12 250, 194.53, 0, 0
+Mar 17 21:10:13 Base PID power at 196.95C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:13 T=195.07 P=196.95 D=1.02 E=1.89 I=6.45 D=0.49 Kd=44
+Mar 17 21:10:13 Power was 51 and is now 76.46
+Mar 17 21:10:13 251, 195.06, 0, 0
+Mar 17 21:10:14 Base PID power at 197.97C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:14 T=195.86 P=197.97 D=1.02 E=2.11 I=8.56 D=0.22 Kd=44
+Mar 17 21:10:14 Power was 51 and is now 65.18
+Mar 17 21:10:14 252, 195.86, 0, 0
+Mar 17 21:10:15 Base PID power at 199.00C:  B=16 I=65534 R=32 Total=46 bias=1.11
+Mar 17 21:10:15 T=196.84 P=199.00 D=1.02 E=2.16 I=10.72 D=0.05 Kd=44
+Mar 17 21:10:15 Power was 51 and is now 57.53
+Mar 17 21:10:15 253, 196.83, 0, 0
+Mar 17 21:10:16 Base PID power at 200.02C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 21:10:16 T=197.82 P=200.02 D=1.02 E=2.20 I=12.92 D=0.04 Kd=44
+Mar 17 21:10:16 Power was 50 and is now 56.26
+Mar 17 21:10:16 254, 197.82, 0, 0
+Mar 17 21:10:17 Base PID power at 201.04C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 21:10:17 T=198.68 P=201.04 D=1.02 E=2.36 I=15.27 D=0.16 Kd=44
+Mar 17 21:10:17 Power was 50 and is now 61.87
+Mar 17 21:10:17 255, 198.68, 0, 0
+Mar 17 21:10:18 Base PID power at 202.06C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 21:10:18 T=199.22 P=202.06 D=1.02 E=2.84 I=18.12 D=0.49 Kd=44
+Mar 17 21:10:18 Power was 50 and is now 77.36
+Mar 17 21:10:18 256, 199.21, 0, 0
+Mar 17 21:10:19 Base PID power at 203.09C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 21:10:19 T=199.82 P=203.09 D=1.02 E=3.26 I=21.38 D=0.42 Kd=44
+Mar 17 21:10:19 Power was 50 and is now 75.23
+Mar 17 21:10:19 257, 199.82, 0, 0
+Mar 17 21:10:20 Base PID power at 204.11C:  B=16 I=65533 R=32 Total=45 bias=1.11
+Mar 17 21:10:20 T=200.41 P=204.11 D=1.02 E=3.70 I=25.09 D=0.44 Kd=44
+Mar 17 21:10:20 Power was 50 and is now 76.90
+Mar 17 21:10:20 258, 200.40, 0, 0
+Mar 17 21:10:21 Base PID power at 205.13C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:21 T=201.00 P=205.13 D=1.02 E=4.13 I=29.22 D=0.43 Kd=44
+Mar 17 21:10:21 Power was 53 and is now 80.46
+Mar 17 21:10:21 259, 200.99, 0, 0
+Mar 17 21:10:22 Base PID power at 206.15C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:22 T=201.45 P=206.15 D=1.02 E=4.70 I=33.92 D=0.57 Kd=44
+Mar 17 21:10:22 Power was 53 and is now 83.00
+Mar 17 21:10:22 260, 201.45, 0, 0
+Mar 17 21:10:23 Base PID power at 207.17C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:23 T=201.84 P=207.17 D=1.02 E=5.34 I=39.26 D=0.64 Kd=44
+Mar 17 21:10:23 Power was 53 and is now 83.00
+Mar 17 21:10:23 261, 201.83, 0, 0
+Mar 17 21:10:24 Base PID power at 208.20C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:24 T=202.46 P=208.20 D=1.02 E=5.73 I=44.99 D=0.40 Kd=44
+Mar 17 21:10:24 Power was 53 and is now 82.33
+Mar 17 21:10:24 262, 202.46, 0, 0
+Mar 17 21:10:25 Base PID power at 209.22C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:25 T=203.18 P=209.22 D=1.02 E=6.04 I=51.03 D=0.31 Kd=44
+Mar 17 21:10:25 Power was 53 and is now 79.01
+Mar 17 21:10:25 263, 203.18, 0, 0
+Mar 17 21:10:26 Base PID power at 210.24C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:26 T=204.30 P=210.24 D=1.02 E=5.94 I=56.97 D=-0.10 Kd=44
+Mar 17 21:10:26 Power was 53 and is now 60.97
+Mar 17 21:10:26 264, 204.30, 0, 0
+Mar 17 21:10:27 Base PID power at 211.26C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:27 T=205.65 P=211.26 D=1.02 E=5.61 I=62.58 D=-0.32 Kd=44
+Mar 17 21:10:27 Power was 53 and is now 50.57
+Mar 17 21:10:27 265, 205.65, 0, 0
+Mar 17 21:10:28 Base PID power at 212.29C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:28 T=207.16 P=212.29 D=1.02 E=5.12 I=67.70 D=-0.49 Kd=44
+Mar 17 21:10:28 Power was 53 and is now 42.45
+Mar 17 21:10:28 266, 207.16, 0, 0
+Mar 17 21:10:29 Base PID power at 213.31C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:29 T=208.46 P=213.31 D=1.02 E=4.85 I=72.55 D=-0.27 Kd=44
+Mar 17 21:10:29 Power was 53 and is now 51.39
+Mar 17 21:10:29 267, 208.45, 0, 0
+Mar 17 21:10:30 Base PID power at 214.33C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:30 T=209.38 P=214.33 D=1.02 E=4.95 I=77.50 D=0.10 Kd=44
+Mar 17 21:10:30 Power was 53 and is now 67.93
+Mar 17 21:10:30 268, 209.38, 0, 0
+Mar 17 21:10:31 Base PID power at 215.35C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:31 T=210.00 P=215.35 D=1.02 E=5.35 I=82.85 D=0.40 Kd=44
+Mar 17 21:10:31 Power was 53 and is now 82.17
+Mar 17 21:10:31 269, 210.00, 0, 0
+Mar 17 21:10:32 Base PID power at 216.38C:  B=17 I=65533 R=34 Total=48 bias=1.11
+Mar 17 21:10:32 T=210.64 P=216.38 D=1.02 E=5.74 I=88.59 D=0.39 Kd=44
+Mar 17 21:10:32 Power was 53 and is now 82.57
+Mar 17 21:10:32 270, 210.63, 0, 0
+Mar 17 21:10:33 Base PID power at 217.40C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:33 T=211.56 P=217.40 D=1.02 E=5.84 I=94.43 D=0.10 Kd=44
+Mar 17 21:10:33 Power was 56 and is now 72.92
+Mar 17 21:10:33 271, 211.56, 0, 0
+Mar 17 21:10:34 Base PID power at 218.42C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:34 T=212.63 P=218.42 D=1.02 E=5.79 I=100.22 D=-0.04 Kd=44
+Mar 17 21:10:34 Power was 56 and is now 66.64
+Mar 17 21:10:34 272, 212.62, 0, 0
+Mar 17 21:10:35 Base PID power at 219.44C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:35 T=213.54 P=219.44 D=1.02 E=5.90 I=106.12 D=0.11 Kd=44
+Mar 17 21:10:35 Power was 56 and is now 73.75
+Mar 17 21:10:35 273, 213.53, 0, 0
+Mar 17 21:10:36 Base PID power at 220.46C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:36 T=214.39 P=220.46 D=1.02 E=6.08 I=112.20 D=0.17 Kd=44
+Mar 17 21:10:36 Power was 56 and is now 76.86
+Mar 17 21:10:36 274, 214.38, 0, 0
+Mar 17 21:10:37 Base PID power at 221.49C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:37 T=215.05 P=221.49 D=1.02 E=6.44 I=118.64 D=0.36 Kd=44
+Mar 17 21:10:37 Power was 56 and is now 85.98
+Mar 17 21:10:37 275, 215.04, 0, 0
+Mar 17 21:10:38 Base PID power at 222.51C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:38 T=215.98 P=222.51 D=1.02 E=6.53 I=125.16 D=0.09 Kd=44
+Mar 17 21:10:38 Power was 56 and is now 74.15
+Mar 17 21:10:38 276, 215.98, 0, 0
+Mar 17 21:10:39 Base PID power at 223.53C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:39 T=216.94 P=223.53 D=1.02 E=6.59 I=131.76 D=0.07 Kd=44
+Mar 17 21:10:39 Power was 56 and is now 73.48
+Mar 17 21:10:39 277, 216.93, 0, 0
+Mar 17 21:10:40 Base PID power at 224.55C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:40 T=218.12 P=224.55 D=1.02 E=6.43 I=138.19 D=-0.16 Kd=44
+Mar 17 21:10:40 Power was 56 and is now 63.14
+Mar 17 21:10:40 278, 218.12, 0, 0
+Mar 17 21:10:41 Base PID power at 225.58C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:41 T=219.28 P=225.58 D=1.02 E=6.30 I=144.49 D=-0.13 Kd=44
+Mar 17 21:10:41 Power was 56 and is now 64.22
+Mar 17 21:10:41 279, 219.27, 0, 0
+Mar 17 21:10:42 Base PID power at 226.60C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:42 T=220.39 P=226.60 D=1.02 E=6.21 I=150.70 D=-0.09 Kd=44
+Mar 17 21:10:42 Power was 56 and is now 66.10
+Mar 17 21:10:42 280, 220.38, 0, 0
+Mar 17 21:10:43 Base PID power at 227.62C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:43 T=221.34 P=227.62 D=1.02 E=6.28 I=156.98 D=0.07 Kd=44
+Mar 17 21:10:43 Power was 56 and is now 73.01
+Mar 17 21:10:43 281, 221.34, 0, 0
+Mar 17 21:10:44 Base PID power at 228.64C:  B=18 I=65533 R=36 Total=51 bias=1.11
+Mar 17 21:10:44 T=222.22 P=228.64 D=1.02 E=6.42 I=163.40 D=0.14 Kd=44
+Mar 17 21:10:44 Power was 56 and is now 76.82
+Mar 17 21:10:44 282, 222.22, 0, 0
+Mar 17 21:10:45 Base PID power at 229.67C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:45 T=223.27 P=229.67 D=1.02 E=6.40 I=169.80 D=-0.02 Kd=44
+Mar 17 21:10:45 Power was 60 and is now 73.46
+Mar 17 21:10:45 283, 223.26, 0, 0
+Mar 17 21:10:46 Base PID power at 230.69C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:46 T=224.40 P=230.69 D=1.02 E=6.28 I=176.08 D=-0.11 Kd=44
+Mar 17 21:10:46 Power was 60 and is now 69.33
+Mar 17 21:10:46 284, 224.40, 0, 0
+Mar 17 21:10:47 Base PID power at 231.71C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:47 T=225.55 P=231.71 D=1.02 E=6.16 I=182.24 D=-0.13 Kd=44
+Mar 17 21:10:47 Power was 60 and is now 68.61
+Mar 17 21:10:47 285, 225.55, 0, 0
+Mar 17 21:10:48 Base PID power at 232.73C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:48 T=226.58 P=232.73 D=1.02 E=6.16 I=188.40 D=-0.00 Kd=44
+Mar 17 21:10:48 Power was 60 and is now 74.05
+Mar 17 21:10:48 286, 226.57, 0, 0
+Mar 17 21:10:49 Base PID power at 233.75C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:49 T=227.45 P=233.75 D=1.02 E=6.30 I=194.70 D=0.15 Kd=44
+Mar 17 21:10:49 Power was 60 and is now 80.96
+Mar 17 21:10:49 287, 227.45, 0, 0
+Mar 17 21:10:50 Base PID power at 234.78C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:50 T=227.77 P=234.78 D=1.02 E=7.00 I=201.70 D=0.70 Kd=44
+Mar 17 21:10:50 Power was 60 and is now 90.00
+Mar 17 21:10:50 288, 227.77, 0, 0
+Mar 17 21:10:51 Base PID power at 235.80C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:51 T=227.88 P=235.80 D=1.02 E=7.92 I=209.62 D=0.91 Kd=44
+Mar 17 21:10:51 Power was 60 and is now 90.00
+Mar 17 21:10:51 289, 227.88, 0, 0
+Mar 17 21:10:52 Base PID power at 236.82C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:52 T=228.46 P=236.82 D=1.02 E=8.36 I=217.98 D=0.44 Kd=44
+Mar 17 21:10:52 Power was 60 and is now 90.00
+Mar 17 21:10:52 290, 228.46, 0, 0
+Mar 17 21:10:53 Base PID power at 237.84C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:53 T=229.59 P=237.84 D=1.02 E=8.25 I=226.23 D=-0.11 Kd=44
+Mar 17 21:10:53 Power was 60 and is now 73.90
+Mar 17 21:10:53 291, 229.59, 0, 0
+Mar 17 21:10:54 Base PID power at 238.87C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:54 T=230.88 P=238.87 D=1.02 E=7.98 I=234.21 D=-0.27 Kd=44
+Mar 17 21:10:54 Power was 60 and is now 66.64
+Mar 17 21:10:54 292, 230.88, 0, 0
+Mar 17 21:10:55 Base PID power at 239.89C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:55 T=232.12 P=239.89 D=1.02 E=7.77 I=241.98 D=-0.22 Kd=44
+Mar 17 21:10:55 Power was 60 and is now 68.37
+Mar 17 21:10:55 293, 232.12, 0, 0
+Mar 17 21:10:56 Base PID power at 240.91C:  B=19 I=65533 R=38 Total=54 bias=1.11
+Mar 17 21:10:56 T=233.34 P=240.91 D=1.02 E=7.57 I=249.55 D=-0.19 Kd=44
+Mar 17 21:10:56 Power was 60 and is now 69.11
+Mar 17 21:10:56 294, 233.33, 0, 0
+Mar 17 21:10:57 Base PID power at 241.93C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:10:57 T=234.79 P=241.93 D=1.02 E=7.14 I=256.69 D=-0.43 Kd=44
+Mar 17 21:10:57 Power was 63 and is now 60.97
+Mar 17 21:10:57 295, 234.79, 0, 0
+Mar 17 21:10:58 Base PID power at 242.96C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:10:58 T=235.98 P=242.96 D=1.02 E=6.98 I=263.67 D=-0.17 Kd=44
+Mar 17 21:10:58 Power was 63 and is now 72.23
+Mar 17 21:10:58 296, 235.97, 0, 0
+Mar 17 21:10:59 Base PID power at 243.98C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:10:59 T=237.17 P=243.98 D=1.02 E=6.81 I=270.47 D=-0.17 Kd=44
+Mar 17 21:10:59 Power was 63 and is now 71.82
+Mar 17 21:10:59 297, 237.17, 0, 0
+Mar 17 21:11:00 Base PID power at 245.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:00 T=238.02 P=245.00 D=1.02 E=6.98 I=277.46 D=0.18 Kd=44
+Mar 17 21:11:00 Power was 63 and is now 87.65
+Mar 17 21:11:00 298, 238.01, 0, 0
+Mar 17 21:11:01 Base PID power at 246.02C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:01 T=238.81 P=246.02 D=1.02 E=7.21 I=284.67 D=0.23 Kd=44
+Mar 17 21:11:01 Power was 63 and is now 90.28
+Mar 17 21:11:01 299, 238.80, 0, 0
+Mar 17 21:11:02 Base PID power at 247.04C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:02 T=239.44 P=247.04 D=1.02 E=7.61 I=292.28 D=0.40 Kd=44
+Mar 17 21:11:02 Power was 63 and is now 93.00
+Mar 17 21:11:02 300, 239.43, 0, 0
+Mar 17 21:11:03 Base PID power at 248.07C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:03 T=240.05 P=248.07 D=1.02 E=8.02 I=300.30 D=0.41 Kd=44
+Mar 17 21:11:03 Power was 63 and is now 93.00
+Mar 17 21:11:03 301, 240.04, 0, 0
+Mar 17 21:11:04 Base PID power at 249.09C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:04 T=240.65 P=249.09 D=1.02 E=8.44 I=308.74 D=0.41 Kd=44
+Mar 17 21:11:04 Power was 63 and is now 93.00
+Mar 17 21:11:04 302, 240.65, 0, 0
+Mar 17 21:11:05 Base PID power at 250.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:05 T=241.56 P=250.11 D=1.02 E=8.56 I=317.29 D=0.12 Kd=44
+Mar 17 21:11:05 Power was 63 and is now 88.57
+Mar 17 21:11:05 303, 241.55, 0, 0
+Mar 17 21:11:06 Base PID power at 250.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:06 T=242.64 P=251.13 D=1.02 E=8.49 I=325.78 D=-0.07 Kd=44
+Mar 17 21:11:06 Power was 63 and is now 80.37
+Mar 17 21:11:06 304, 242.64, 0, 0
+Mar 17 21:11:07 Base PID power at 250.00C:  B=20 I=65533 R=40 Total=57 bias=1.11
+Mar 17 21:11:07 T=244.00 P=252.16 D=1.02 E=8.15 I=333.93 D=-0.34 Kd=44
+Mar 17 21:11:07 Power was 63 and is now 67.72
+Mar 17 21:11:07 305, 244.00, 0, 0
+Mar 17 21:11:08 Maintain 250C for 25 seconds
+Mar 17 21:11:08 306, 245.51, 0, 0
+Mar 17 21:11:09 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 21:11:09 T=246.85 P=250.00 D=0.00 E=3.15 I=3.15 D=3.15 Kd=44
+Mar 17 21:11:09 Power was 18 and is now 48.00
+Mar 17 21:11:09 307, 246.85, 0, 0
+Mar 17 21:11:10 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 21:11:10 T=248.02 P=250.00 D=0.00 E=1.98 I=5.13 D=-1.17 Kd=44
+Mar 17 21:11:10 Power was 18 and is now -12.00
+Mar 17 21:11:10 308, 248.02, 0, 0
+Mar 17 21:11:11 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 21:11:11 T=248.53 P=250.00 D=0.00 E=1.47 I=6.59 D=-0.51 Kd=44
+Mar 17 21:11:11 Power was 18 and is now -1.62
+Mar 17 21:11:11 309, 248.53, 0, 0
+Mar 17 21:11:12 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 21:11:12 T=248.86 P=250.00 D=0.00 E=1.14 I=7.73 D=-0.32 Kd=44
+Mar 17 21:11:12 Power was 18 and is now 6.18
+Mar 17 21:11:12 310, 248.85, 0, 0
+Mar 17 21:11:13 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 21:11:13 T=249.00 P=250.00 D=0.00 E=1.00 I=8.73 D=-0.14 Kd=44
+Mar 17 21:11:13 Power was 18 and is now 13.78
+Mar 17 21:11:13 311, 249.00, 0, 0
+Mar 17 21:11:14 Base PID power at 250.00C:  B=20 I=65533 R=0 Total=17 bias=1.11
+Mar 17 21:11:14 T=249.49 P=250.00 D=0.00 E=0.51 I=9.25 D=-0.49 Kd=44
+Mar 17 21:11:14 Power was 18 and is now -2.29
+Mar 17 21:11:14 312, 249.48, 0, 0
+Mar 17 21:11:15 313, 250.34, 0, 0
+Mar 17 21:11:16 314, 251.44, 0, 0
+Mar 17 21:11:17 315, 252.66, 0, 0
+Mar 17 21:11:18 316, 253.71, 0, 0
+Mar 17 21:11:19 317, 254.34, 0, 0
+Mar 17 21:11:20 318, 254.39, 0, 0
+Mar 17 21:11:21 319, 254.00, 0, 0
+Mar 17 21:11:22 320, 253.68, 0, 0
+Mar 17 21:11:23 321, 253.30, 0, 0
+Mar 17 21:11:24 322, 253.19, 0, 0
+Mar 17 21:11:25 323, 253.10, 0, 0
+Mar 17 21:11:26 324, 253.18, 0, 0
+Mar 17 21:11:27 325, 253.46, 0, 0
+Mar 17 21:11:28 326, 253.79, 0, 0
+Mar 17 21:11:29 327, 254.24, 0, 0
+Mar 17 21:11:30 328, 254.31, 0, 0
+Mar 17 21:11:31 329, 254.25, 0, 0
+Mar 17 21:11:32 330, 254.11, 0, 0
+Mar 17 21:11:33 Finished maintaining temperature
+Mar 17 21:11:33 Stop timer
+Mar 17 21:11:33 Element duty cycle 0/0/0
+Mar 17 21:11:33 Play beep
+Mar 17 21:11:33 Wait until below 100C
+Mar 17 21:11:33 331, 253.84, 0, 0
+Mar 17 21:11:34 331, 253.29, 0, 0
+Mar 17 21:11:35 331, 252.33, 0, 0
+Mar 17 21:11:36 331, 251.54, 0, 0
+Mar 17 21:11:37 331, 251.23, 0, 0
+Mar 17 21:11:38 331, 251.26, 0, 0
+Mar 17 21:11:39 331, 251.22, 0, 0
+Mar 17 21:11:40 331, 251.38, 0, 0
+Mar 17 21:11:41 331, 251.69, 0, 0
+Mar 17 21:11:42 331, 252.07, 0, 0
+Mar 17 21:11:43 331, 251.85, 0, 0
+Mar 17 21:11:44 331, 251.24, 0, 0
+Mar 17 21:11:45 331, 250.80, 0, 0
+Mar 17 21:11:46 331, 250.65, 0, 0
+Mar 17 21:11:47 331, 250.74, 0, 0
+Mar 17 21:11:48 331, 250.58, 0, 0
+Mar 17 21:11:49 331, 250.33, 0, 0
+Mar 17 21:11:50 331, 250.00, 0, 0
+Mar 17 21:11:51 331, 249.59, 0, 0
+Mar 17 21:11:52 331, 249.26, 0, 0
+Mar 17 21:11:53 331, 248.87, 0, 0
+Mar 17 21:11:54 331, 248.43, 0, 0
+Mar 17 21:11:55 331, 248.16, 0, 0
+Mar 17 21:11:56 331, 248.01, 0, 0
+Mar 17 21:11:57 331, 247.93, 0, 0
+Mar 17 21:11:58 331, 247.60, 0, 0
+Mar 17 21:11:59 331, 247.05, 0, 0
+Mar 17 21:12:00 331, 246.68, 0, 0
+Mar 17 21:12:01 331, 246.45, 0, 0
+Mar 17 21:12:02 331, 246.09, 0, 0
+Mar 17 21:12:03 331, 245.53, 0, 0
+Mar 17 21:12:04 331, 244.80, 0, 0
+Mar 17 21:12:05 331, 244.47, 0, 0
+Mar 17 21:12:06 331, 244.21, 0, 0
+Mar 17 21:12:07 331, 243.94, 0, 0
+Mar 17 21:12:08 331, 243.52, 0, 0
+Mar 17 21:12:09 331, 243.12, 0, 0
+Mar 17 21:12:10 331, 242.65, 0, 0
+Mar 17 21:12:11 331, 241.93, 0, 0
+Mar 17 21:12:12 331, 241.09, 0, 0
+Mar 17 21:12:13 331, 240.43, 0, 0
+Mar 17 21:12:14 331, 240.16, 0, 0
+Mar 17 21:12:15 331, 240.01, 0, 0
+Mar 17 21:12:16 331, 239.70, 0, 0
+Mar 17 21:12:17 331, 239.20, 0, 0
+Mar 17 21:12:18 331, 238.73, 0, 0
+Mar 17 21:12:19 331, 238.17, 0, 0
+Mar 17 21:12:20 331, 237.17, 0, 0
+Mar 17 21:12:21 331, 235.45, 0, 0
+Mar 17 21:12:22 331, 233.55, 0, 0
+Mar 17 21:12:23 331, 231.74, 0, 0
+Mar 17 21:12:24 331, 230.11, 0, 0
+Mar 17 21:12:25 331, 228.44, 0, 0
+Mar 17 21:12:26 331, 227.03, 0, 0
+Mar 17 21:12:27 331, 226.24, 0, 0
+Mar 17 21:12:28 331, 225.84, 0, 0
+Mar 17 21:12:29 331, 225.42, 0, 0
+Mar 17 21:12:30 331, 224.61, 0, 0
+Mar 17 21:12:31 331, 223.73, 0, 0
+Mar 17 21:12:32 331, 222.75, 0, 0
+Mar 17 21:12:33 331, 222.18, 0, 0
+Mar 17 21:12:34 331, 222.10, 0, 0
+Mar 17 21:12:35 331, 222.55, 0, 0
+Mar 17 21:12:36 331, 222.56, 0, 0
+Mar 17 21:12:37 331, 222.11, 0, 0
+Mar 17 21:12:38 331, 221.23, 0, 0
+Mar 17 21:12:39 331, 220.29, 0, 0
+Mar 17 21:12:40 331, 219.29, 0, 0
+Mar 17 21:12:41 331, 217.15, 0, 0
+Mar 17 21:12:42 331, 213.43, 0, 0
+Mar 17 21:12:43 331, 208.28, 0, 0
+Mar 17 21:12:44 331, 203.62, 0, 0
+Mar 17 21:12:45 331, 201.06, 0, 0
+Mar 17 21:12:46 331, 200.16, 0, 0
+Mar 17 21:12:47 331, 200.34, 0, 0
+Mar 17 21:12:48 331, 200.41, 0, 0
+Mar 17 21:12:49 331, 200.35, 0, 0
+Mar 17 21:12:50 331, 200.47, 0, 0
+Mar 17 21:12:51 331, 200.28, 0, 0
+Mar 17 21:12:52 331, 199.56, 0, 0
+Mar 17 21:12:53 331, 198.11, 0, 0
+Mar 17 21:12:54 331, 197.28, 0, 0
+Mar 17 21:12:55 331, 197.21, 0, 0
+Mar 17 21:12:56 331, 197.67, 0, 0
+Mar 17 21:12:57 331, 197.85, 0, 0
+Mar 17 21:12:58 331, 197.86, 0, 0
+Mar 17 21:12:59 331, 197.10, 0, 0
+Mar 17 21:13:00 331, 196.11, 0, 0
+Mar 17 21:13:01 331, 195.40, 0, 0
+Mar 17 21:13:02 331, 195.59, 0, 0
+Mar 17 21:13:03 331, 196.12, 0, 0
+Mar 17 21:13:04 331, 196.20, 0, 0
+Mar 17 21:13:05 331, 195.24, 0, 0
+Mar 17 21:13:06 331, 193.90, 0, 0
+Mar 17 21:13:07 331, 192.39, 0, 0
+Mar 17 21:13:08 331, 191.07, 0, 0
+Mar 17 21:13:09 331, 189.66, 0, 0
+Mar 17 21:13:10 331, 187.73, 0, 0
+Mar 17 21:13:11 331, 185.90, 0, 0
+Mar 17 21:13:12 331, 184.34, 0, 0
+Mar 17 21:13:13 331, 184.02, 0, 0
+Mar 17 21:13:14 331, 184.53, 0, 0
+Mar 17 21:13:15 331, 185.52, 0, 0
+Mar 17 21:13:16 331, 186.01, 0, 0
+Mar 17 21:13:17 331, 185.74, 0, 0
+Mar 17 21:13:18 331, 184.72, 0, 0
+Mar 17 21:13:19 331, 183.96, 0, 0
+Mar 17 21:13:20 331, 184.38, 0, 0
+Mar 17 21:13:21 331, 185.71, 0, 0
+Mar 17 21:13:22 331, 186.97, 0, 0
+Mar 17 21:13:23 331, 187.55, 0, 0
+Mar 17 21:13:24 331, 187.90, 0, 0
+Mar 17 21:13:25 331, 188.04, 0, 0
+Mar 17 21:13:26 331, 187.48, 0, 0
+Mar 17 21:13:27 331, 186.18, 0, 0
+Mar 17 21:13:28 331, 184.42, 0, 0
+Mar 17 21:13:29 331, 182.71, 0, 0
+Mar 17 21:13:30 331, 181.03, 0, 0
+Mar 17 21:13:31 331, 179.93, 0, 0
+Mar 17 21:13:32 331, 179.44, 0, 0
+Mar 17 21:13:33 331, 179.90, 0, 0
+Mar 17 21:13:34 331, 179.78, 0, 0
+Mar 17 21:13:35 331, 178.54, 0, 0
+Mar 17 21:13:36 331, 174.80, 0, 0
+Mar 17 21:13:37 331, 170.10, 0, 0
+Mar 17 21:13:38 331, 164.66, 0, 0
+Mar 17 21:13:39 331, 159.70, 0, 0
+Mar 17 21:13:40 331, 155.45, 0, 0
+Mar 17 21:13:41 331, 153.29, 0, 0
+Mar 17 21:13:42 331, 153.69, 0, 0
+Mar 17 21:13:43 331, 155.12, 0, 0
+Mar 17 21:13:44 331, 156.62, 0, 0
+Mar 17 21:13:45 331, 157.33, 0, 0
+Mar 17 21:13:46 331, 158.23, 0, 0
+Mar 17 21:13:47 331, 158.61, 0, 0
+Mar 17 21:13:48 331, 158.75, 0, 0
+Mar 17 21:13:49 331, 157.51, 0, 0
+Mar 17 21:13:50 331, 155.06, 0, 0
+Mar 17 21:13:51 331, 151.87, 0, 0
+Mar 17 21:13:52 331, 148.84, 0, 0
+Mar 17 21:13:53 331, 147.03, 0, 0
+Mar 17 21:13:54 331, 145.54, 0, 0
+Mar 17 21:13:55 331, 144.40, 0, 0
+Mar 17 21:13:56 331, 143.02, 0, 0
+Mar 17 21:13:57 331, 141.37, 0, 0
+Mar 17 21:13:58 331, 140.19, 0, 0
+Mar 17 21:13:59 331, 138.76, 0, 0
+Mar 17 21:14:00 331, 137.86, 0, 0
+Mar 17 21:14:01 331, 136.72, 0, 0
+Mar 17 21:14:02 331, 136.35, 0, 0
+Mar 17 21:14:03 331, 136.46, 0, 0
+Mar 17 21:14:04 331, 136.72, 0, 0
+Mar 17 21:14:05 331, 136.87, 0, 0
+Mar 17 21:14:06 331, 136.64, 0, 0
+Mar 17 21:14:07 331, 136.05, 0, 0
+Mar 17 21:14:08 331, 135.42, 0, 0
+Mar 17 21:14:09 331, 134.31, 0, 0
+Mar 17 21:14:10 331, 133.33, 0, 0
+Mar 17 21:14:11 331, 131.94, 0, 0
+Mar 17 21:14:12 331, 130.96, 0, 0
+Mar 17 21:14:13 331, 130.16, 0, 0
+Mar 17 21:14:14 331, 129.46, 0, 0
+Mar 17 21:14:15 331, 129.18, 0, 0
+Mar 17 21:14:16 331, 128.99, 0, 0
+Mar 17 21:14:17 331, 128.91, 0, 0
+Mar 17 21:14:18 331, 128.22, 0, 0
+Mar 17 21:14:19 331, 127.83, 0, 0
+Mar 17 21:14:20 331, 127.47, 0, 0
+Mar 17 21:14:21 331, 127.05, 0, 0
+Mar 17 21:14:22 331, 126.22, 0, 0
+Mar 17 21:14:23 331, 125.62, 0, 0
+Mar 17 21:14:24 331, 125.30, 0, 0
+Mar 17 21:14:25 331, 125.18, 0, 0
+Mar 17 21:14:26 331, 125.09, 0, 0
+Mar 17 21:14:27 331, 125.26, 0, 0
+Mar 17 21:14:28 331, 125.86, 0, 0
+Mar 17 21:14:29 331, 126.16, 0, 0
+Mar 17 21:14:30 331, 126.38, 0, 0
+Mar 17 21:14:31 331, 126.16, 0, 0
+Mar 17 21:14:32 331, 126.32, 0, 0
+Mar 17 21:14:33 331, 126.46, 0, 0
+Mar 17 21:14:34 331, 126.31, 0, 0
+Mar 17 21:14:35 331, 126.18, 0, 0
+Mar 17 21:14:36 331, 126.28, 0, 0
+Mar 17 21:14:37 331, 126.02, 0, 0
+Mar 17 21:14:38 331, 125.40, 0, 0
+Mar 17 21:14:39 331, 124.14, 0, 0
+Mar 17 21:14:40 331, 123.51, 0, 0
+Mar 17 21:14:41 331, 122.97, 0, 0
+Mar 17 21:14:42 331, 123.11, 0, 0
+Mar 17 21:14:43 331, 123.59, 0, 0
+Mar 17 21:14:44 331, 124.01, 0, 0
+Mar 17 21:14:45 331, 124.03, 0, 0
+Mar 17 21:14:46 331, 123.70, 0, 0
+Mar 17 21:14:47 331, 123.50, 0, 0
+Mar 17 21:14:48 331, 123.27, 0, 0
+Mar 17 21:14:49 331, 122.95, 0, 0
+Mar 17 21:14:50 331, 122.28, 0, 0
+Mar 17 21:14:51 331, 121.86, 0, 0
+Mar 17 21:14:52 331, 121.42, 0, 0
+Mar 17 21:14:53 331, 121.72, 0, 0
+Mar 17 21:14:54 331, 122.03, 0, 0
+Mar 17 21:14:55 331, 121.90, 0, 0
+Mar 17 21:14:56 331, 121.05, 0, 0
+Mar 17 21:14:57 331, 119.98, 0, 0
+Mar 17 21:14:58 331, 119.47, 0, 0
+Mar 17 21:14:59 331, 119.62, 0, 0
+Mar 17 21:15:00 331, 119.87, 0, 0
+Mar 17 21:15:01 331, 120.06, 0, 0
+Mar 17 21:15:02 331, 120.07, 0, 0
+Mar 17 21:15:03 331, 119.83, 0, 0
+Mar 17 21:15:04 331, 119.40, 0, 0
+Mar 17 21:15:05 331, 118.58, 0, 0
+Mar 17 21:15:06 331, 117.92, 0, 0
+Mar 17 21:15:07 331, 117.38, 0, 0
+Mar 17 21:15:08 331, 116.97, 0, 0
+Mar 17 21:15:09 331, 116.66, 0, 0
+Mar 17 21:15:10 331, 116.78, 0, 0
+Mar 17 21:15:11 331, 117.10, 0, 0
+Mar 17 21:15:12 331, 117.28, 0, 0
+Mar 17 21:15:13 331, 117.03, 0, 0
+Mar 17 21:15:14 331, 116.71, 0, 0
+Mar 17 21:15:15 331, 116.09, 0, 0
+Mar 17 21:15:16 331, 115.22, 0, 0
+Mar 17 21:15:17 331, 114.38, 0, 0
+Mar 17 21:15:18 331, 113.58, 0, 0
+Mar 17 21:15:19 331, 112.94, 0, 0
+Mar 17 21:15:20 331, 112.01, 0, 0
+Mar 17 21:15:21 331, 111.44, 0, 0
+Mar 17 21:15:22 331, 111.40, 0, 0
+Mar 17 21:15:23 331, 111.17, 0, 0
+Mar 17 21:15:24 331, 110.60, 0, 0
+Mar 17 21:15:25 331, 109.96, 0, 0
+Mar 17 21:15:26 331, 109.84, 0, 0
+Mar 17 21:15:27 331, 110.09, 0, 0
+Mar 17 21:15:28 331, 109.62, 0, 0
+Mar 17 21:15:29 331, 109.24, 0, 0
+Mar 17 21:15:30 331, 108.71, 0, 0
+Mar 17 21:15:31 331, 108.16, 0, 0
+Mar 17 21:15:32 331, 107.55, 0, 0
+Mar 17 21:15:33 331, 107.36, 0, 0
+Mar 17 21:15:34 331, 107.39, 0, 0
+Mar 17 21:15:35 331, 107.17, 0, 0
+Mar 17 21:15:36 331, 106.69, 0, 0
+Mar 17 21:15:37 331, 106.88, 0, 0
+Mar 17 21:15:38 331, 107.80, 0, 0
+Mar 17 21:15:39 331, 108.83, 0, 0
+Mar 17 21:15:40 331, 109.18, 0, 0
+Mar 17 21:15:41 331, 108.63, 0, 0
+Mar 17 21:15:42 331, 107.71, 0, 0
+Mar 17 21:15:43 331, 107.12, 0, 0
+Mar 17 21:15:44 331, 106.98, 0, 0
+Mar 17 21:15:45 331, 106.78, 0, 0
+Mar 17 21:15:46 331, 106.76, 0, 0
+Mar 17 21:15:47 331, 106.76, 0, 0
+Mar 17 21:15:48 331, 107.37, 0, 0
+Mar 17 21:15:49 331, 107.89, 0, 0
+Mar 17 21:15:50 331, 108.49, 0, 0
+Mar 17 21:15:51 331, 108.83, 0, 0
+Mar 17 21:15:52 331, 108.65, 0, 0
+Mar 17 21:15:53 331, 108.28, 0, 0
+Mar 17 21:15:54 331, 108.11, 0, 0
+Mar 17 21:15:55 331, 107.64, 0, 0
+Mar 17 21:15:56 331, 106.77, 0, 0
+Mar 17 21:15:57 331, 105.37, 0, 0
+Mar 17 21:15:58 331, 104.78, 0, 0
+Mar 17 21:15:59 331, 104.54, 0, 0
+Mar 17 21:16:00 331, 104.75, 0, 0
+Mar 17 21:16:01 331, 105.09, 0, 0
+Mar 17 21:16:02 331, 105.66, 0, 0
+Mar 17 21:16:03 331, 106.07, 0, 0
+Mar 17 21:16:04 331, 106.28, 0, 0
+Mar 17 21:16:05 331, 106.00, 0, 0
+Mar 17 21:16:06 331, 105.62, 0, 0
+Mar 17 21:16:07 331, 104.90, 0, 0
+Mar 17 21:16:08 331, 104.40, 0, 0
+Mar 17 21:16:09 331, 104.51, 0, 0
+Mar 17 21:16:10 331, 105.28, 0, 0
+Mar 17 21:16:11 331, 106.51, 0, 0
+Mar 17 21:16:12 331, 107.53, 0, 0
+Mar 17 21:16:13 331, 108.76, 0, 0
+Mar 17 21:16:14 331, 110.34, 0, 0
+Mar 17 21:16:15 331, 112.48, 0, 0
+Mar 17 21:16:16 331, 114.09, 0, 0
+Mar 17 21:16:17 331, 114.43, 0, 0
+Mar 17 21:16:18 331, 113.23, 0, 0
+Mar 17 21:16:19 331, 111.44, 0, 0
+Mar 17 21:16:20 331, 110.12, 0, 0
+Mar 17 21:16:21 331, 109.43, 0, 0
+Mar 17 21:16:22 331, 109.67, 0, 0
+Mar 17 21:16:23 331, 110.15, 0, 0
+Mar 17 21:16:24 331, 110.66, 0, 0
+Mar 17 21:16:25 331, 110.69, 0, 0
+Mar 17 21:16:26 331, 110.58, 0, 0
+Mar 17 21:16:27 331, 110.41, 0, 0
+Mar 17 21:16:28 331, 110.22, 0, 0
+Mar 17 21:16:29 331, 110.01, 0, 0
+Mar 17 21:16:30 331, 110.03, 0, 0
+Mar 17 21:16:31 331, 110.06, 0, 0
+Mar 17 21:16:32 331, 109.80, 0, 0
+Mar 17 21:16:33 331, 109.15, 0, 0
+Mar 17 21:16:34 331, 108.58, 0, 0
+Mar 17 21:16:35 331, 108.14, 0, 0
+Mar 17 21:16:36 331, 108.30, 0, 0
+Mar 17 21:16:37 331, 108.69, 0, 0
+Mar 17 21:16:38 331, 108.74, 0, 0
+Mar 17 21:16:39 331, 108.22, 0, 0
+Mar 17 21:16:40 331, 107.27, 0, 0
+Mar 17 21:16:41 331, 107.04, 0, 0
+Mar 17 21:16:42 331, 106.85, 0, 0
+Mar 17 21:16:43 331, 107.03, 0, 0
+Mar 17 21:16:44 331, 106.88, 0, 0
+Mar 17 21:16:45 331, 106.09, 0, 0
+Mar 17 21:16:46 331, 105.15, 0, 0
+Mar 17 21:16:47 331, 103.89, 0, 0
+Mar 17 21:16:48 331, 103.36, 0, 0
+Mar 17 21:16:49 331, 102.78, 0, 0
+Mar 17 21:16:50 331, 102.93, 0, 0
+Mar 17 21:16:51 331, 103.27, 0, 0
+Mar 17 21:16:52 331, 103.33, 0, 0
+Mar 17 21:16:53 331, 102.80, 0, 0
+Mar 17 21:16:54 331, 101.98, 0, 0
+Mar 17 21:16:55 331, 101.56, 0, 0
+Mar 17 21:16:56 331, 101.31, 0, 0
+Mar 17 21:16:57 331, 101.49, 0, 0
+Mar 17 21:16:58 331, 101.74, 0, 0
+Mar 17 21:16:59 331, 101.95, 0, 0
+Mar 17 21:17:00 331, 101.06, 0, 0
+Mar 17 21:17:01 Cooled to desired temperature
+Mar 17 21:17:01 Play tune
+Mar 17 21:17:03 Wait until below 50C
+Mar 17 21:17:03 331, 98.19, 0, 0
+Mar 17 21:17:03 331, 98.19, 0, 0
+Mar 17 21:17:03 331, 98.19, 0, 0
+Mar 17 21:17:04 331, 98.64, 0, 0
+Mar 17 21:17:05 331, 98.51, 0, 0
+Mar 17 21:17:06 331, 98.56, 0, 0
+Mar 17 21:17:07 331, 98.77, 0, 0
+Mar 17 21:17:08 331, 99.33, 0, 0
+Mar 17 21:17:09 331, 99.66, 0, 0
+Mar 17 21:17:10 331, 99.97, 0, 0
+Mar 17 21:17:11 331, 100.31, 0, 0
+Mar 17 21:17:12 331, 100.57, 0, 0
+Mar 17 21:17:13 331, 100.68, 0, 0
+Mar 17 21:17:14 331, 101.14, 0, 0
+Mar 17 21:17:15 331, 101.37, 0, 0
+Mar 17 21:17:16 331, 100.99, 0, 0
+Mar 17 21:17:17 331, 99.95, 0, 0
+Mar 17 21:17:18 331, 98.57, 0, 0
+Mar 17 21:17:19 331, 97.30, 0, 0
+Mar 17 21:17:20 331, 96.73, 0, 0
+Mar 17 21:17:21 331, 97.17, 0, 0
+Mar 17 21:17:22 331, 97.70, 0, 0
+Mar 17 21:17:23 331, 97.55, 0, 0
+Mar 17 21:17:24 331, 96.90, 0, 0
+Mar 17 21:17:25 331, 96.41, 0, 0
+Mar 17 21:17:26 331, 96.13, 0, 0
+Mar 17 21:17:27 331, 95.54, 0, 0
+Mar 17 21:17:28 331, 94.96, 0, 0
+Mar 17 21:17:29 331, 94.31, 0, 0
+Mar 17 21:17:30 331, 94.00, 0, 0
+Mar 17 21:17:31 331, 94.04, 0, 0
+Mar 17 21:17:32 331, 94.18, 0, 0
+Mar 17 21:17:33 331, 94.16, 0, 0
+Mar 17 21:17:34 331, 93.83, 0, 0
+Mar 17 21:17:35 331, 93.66, 0, 0
+Mar 17 21:17:36 331, 93.60, 0, 0
+Mar 17 21:17:37 331, 93.95, 0, 0
+Mar 17 21:17:38 331, 93.94, 0, 0
+Mar 17 21:17:39 331, 93.88, 0, 0
+Mar 17 21:17:40 331, 93.46, 0, 0
+Mar 17 21:17:41 331, 93.06, 0, 0
+Mar 17 21:17:42 331, 92.70, 0, 0
+Mar 17 21:17:43 331, 92.37, 0, 0
+Mar 17 21:17:44 331, 92.14, 0, 0
+Mar 17 21:17:45 331, 91.65, 0, 0
+Mar 17 21:17:46 331, 91.31, 0, 0
+Mar 17 21:17:47 331, 90.90, 0, 0
+Mar 17 21:17:48 331, 90.82, 0, 0
+Mar 17 21:17:49 331, 90.29, 0, 0
+Mar 17 21:17:50 331, 89.83, 0, 0
+Mar 17 21:17:51 331, 89.38, 0, 0
+Mar 17 21:17:52 331, 89.30, 0, 0
+Mar 17 21:17:53 331, 89.04, 0, 0
+Mar 17 21:17:54 331, 88.73, 0, 0
+Mar 17 21:17:55 331, 88.09, 0, 0
+Mar 17 21:17:56 331, 87.89, 0, 0
+Mar 17 21:17:57 331, 87.92, 0, 0
+Mar 17 21:17:58 331, 88.20, 0, 0
+Mar 17 21:17:59 331, 88.42, 0, 0
+Mar 17 21:18:00 331, 88.33, 0, 0
+Mar 17 21:18:01 331, 88.27, 0, 0
+Mar 17 21:18:02 331, 88.25, 0, 0
+Mar 17 21:18:03 331, 88.48, 0, 0
+Mar 17 21:18:04 331, 88.34, 0, 0
+Mar 17 21:18:05 331, 87.90, 0, 0
+Mar 17 21:18:06 331, 87.52, 0, 0
+Mar 17 21:18:07 331, 87.71, 0, 0
+Mar 17 21:18:08 331, 87.82, 0, 0
+Mar 17 21:18:09 331, 87.87, 0, 0
+Mar 17 21:18:10 331, 88.08, 0, 0
+Mar 17 21:18:11 331, 88.32, 0, 0
+Mar 17 21:18:12 331, 88.19, 0, 0
+Mar 17 21:18:13 331, 87.70, 0, 0
+Mar 17 21:18:14 331, 87.32, 0, 0
+Mar 17 21:18:15 331, 87.25, 0, 0
+Mar 17 21:18:16 331, 86.96, 0, 0
+Mar 17 21:18:17 331, 86.68, 0, 0
+Mar 17 21:18:18 331, 86.21, 0, 0
+Mar 17 21:18:19 331, 85.57, 0, 0
+Mar 17 21:18:20 331, 84.82, 0, 0
+Mar 17 21:18:21 331, 84.13, 0, 0
+Mar 17 21:18:22 331, 84.28, 0, 0
+Mar 17 21:18:23 331, 84.94, 0, 0
+Mar 17 21:18:24 331, 86.03, 0, 0
+Mar 17 21:18:25 331, 86.85, 0, 0
+Mar 17 21:18:26 331, 87.07, 0, 0
+Mar 17 21:18:27 331, 86.72, 0, 0
+Mar 17 21:18:28 331, 86.30, 0, 0
+Mar 17 21:18:29 331, 86.29, 0, 0
+Mar 17 21:18:30 331, 86.74, 0, 0
+Mar 17 21:18:31 Connected.
+Mar 17 21:18:33 Connected.
+Mar 17 21:18:33 
+Mar 17 21:18:33 Disconnected.
